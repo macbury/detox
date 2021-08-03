@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Message__Container>
+  <Message__Inner>
+    <Text>
+      Oops!
+    </Text>
+    <Text>
+      There's an error
+    </Text>
+    <Text
+      numberOfLines={10}
+    >
+      Bom bom bommm!
+    </Text>
+    <Button
+      onPress={[MockFunction]}
+      title="Restart app"
+    />
+  </Message__Inner>
+</Message__Container>
+`;

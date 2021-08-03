@@ -1,0 +1,9 @@
+en:
+  screens:
+    home:
+      edit_group:
+        notifications:
+          success:
+            saved: Updated group
+        title: 'Edit: {{name}}'
+        loading: 'Loading group...'

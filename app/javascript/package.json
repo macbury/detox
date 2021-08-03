@@ -1,0 +1,22 @@
+{
+  "name": "detox",
+  "private": true,
+  "workspaces": [
+    "client",
+    "styleguide",
+    "api",
+    "store",
+    "shared",
+    "server",
+    "warp-pipe"
+  ],
+  "scripts": {
+    "web": "yarn workspace @detox/client web",
+    "styleguide": "yarn workspace @detox/styleguide start",
+    "test:styleguide": "yarn workspace @detox/styleguide test",
+    "postinstall": "sed -i 's/followSymlinks: false/followSymlinks: true/g' node_modules/watchpack/lib/DirectoryWatcher.js"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}

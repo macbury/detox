@@ -1,0 +1,5 @@
+query getStory($id: ID!) {
+  getStory(id: $id) {
+    title
+  }
+}

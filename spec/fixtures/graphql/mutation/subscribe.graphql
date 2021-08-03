@@ -1,0 +1,10 @@
+mutation subscribe($input: SubscribeInput!) {
+  subscribe(input: $input) {
+    channel {
+      id
+      name
+    }
+
+    errors
+  }
+}

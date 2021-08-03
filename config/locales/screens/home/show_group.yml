@@ -1,0 +1,6 @@
+en:
+  screens:
+    show_group:
+      title: Loading group...
+      actions:
+        edit: Configure group

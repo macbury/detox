@@ -1,0 +1,11 @@
+en:
+  screens:
+    home:
+      channels:
+        title: Your channels
+        notifications:
+          success:
+            opml: 'Importing opml in background'
+        actions:
+          refresh: Refresh
+          import_opml: Import OPML

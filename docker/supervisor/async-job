@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd /detox
+
+exec bin/async_job start -c 25 2>&1

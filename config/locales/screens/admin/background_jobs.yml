@@ -1,0 +1,22 @@
+en:
+  screens:
+    admin:
+      background_jobs:
+        title: Background jobs
+        description: List of jobs processed in background
+        empty: 'Queue is empty'
+        dialogs:
+          delete: 'Do you want to remove this jobs?'
+        kind:
+          Processing: 'Currently processed:'
+          Bench: 'Jobs to be processed:'
+          WithErrors: 'Failed jobs:'
+        actions:
+          clear_all: Clear all in queue
+          run_all: Run all in queue
+        processing:
+          title: Processing
+        bench:
+          title: On bend
+        failed:
+          title: Failed jobs

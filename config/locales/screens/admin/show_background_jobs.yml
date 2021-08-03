@@ -1,0 +1,5 @@
+en:
+  screens:
+    admin:
+      show_background_jobs:
+        title: Job details

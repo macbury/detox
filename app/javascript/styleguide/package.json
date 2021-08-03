@@ -1,0 +1,74 @@
+{
+  "name": "@detox/styleguide",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.1.15",
+    "@storybook/addon-docs": "^6.1.15",
+    "@storybook/addon-essentials": "^6.1.15",
+    "@storybook/addon-knobs": "^6.1.15",
+    "@storybook/addon-links": "^6.1.15",
+    "@storybook/addon-storyshots": "^6.1.15",
+    "@storybook/addon-storysource": "^6.1.15",
+    "@storybook/addons": "^6.1.15",
+    "@storybook/react": "^6.1.15",
+    "@storybook/theming": "^6.1.15",
+    "@types/react": "~16.x",
+    "@types/react-dom": "~16.x",
+    "@types/react-native": "~0.63.x",
+    "@types/styled-components": "^5.x",
+    "@types/styled-components-react-native": "^5.x",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "enzyme-to-json": "^3.6.1",
+    "jest": "^26.x",
+    "jest-expo": "^40.0.1",
+    "react-docgen-typescript": "^1.20.5",
+    "react-test-renderer": "^17.x",
+    "storybook": "^6.1.15"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.x",
+    "@burstware/react-native-portal": "^1.x",
+    "@expo/react-native-action-sheet": "^3.x",
+    "@expo/vector-icons": "^12.x",
+    "@react-navigation/native": "^5.x",
+    "@react-navigation/stack": "^5.x",
+    "@whitespace/storybook-addon-html": "^4.x",
+    "blurhash": "^1.x",
+    "expo": "^40.x",
+    "expo-yarn-workspaces": "^1.x",
+    "i18next": "^19.x",
+    "next": "10.x",
+    "react": "16.x",
+    "react-blurhash": "^0.x",
+    "react-dom": "16.x",
+    "react-i18next": "^11.x",
+    "react-native-blurhash": "^1.x",
+    "react-native-navbar-color": "https://github.com/macbury/react-native-navbar-color",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-web": "^0.14.x",
+    "react-native-webview": "11.x",
+    "react-responsive": "^8.x",
+    "styled-components": "^5.x",
+    "typescript": "^4.x"
+  },
+  "scripts": {
+    "start": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "test": "jest",
+    "postinstall": "expo-yarn-workspaces postinstall; rm index.js 2> /dev/null"
+  },
+  "jest": {
+    "preset": "jest-expo",
+    "transformIgnorePatterns": [
+      "node_modules/(?!(jest-)?react-native|react-clone-referenced-element|@react-native-community|expo(nent)?|@expo(nent)?/.*|react-navigation|@react-navigation/.*|@unimodules/.*|unimodules|sentry-expo|native-base|@sentry/.*)"
+    ],
+    "setupFiles": [
+      "<rootDir>/jest.setup.js"
+    ]
+  },
+  "dependencies": {
+    "react-audio-spectrum": "^0.1.0",
+    "react-native-switch-pro": "^1.0.5"
+  }
+}

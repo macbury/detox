@@ -1,0 +1,8 @@
+mutation updatePlayback($input: UpdatePlaybackInput!) {
+  updatePlayback(input: $input) {
+    story {
+      id
+    }
+    errors
+  }
+}

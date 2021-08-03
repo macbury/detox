@@ -1,0 +1,11 @@
+en:
+  screens:
+    home:
+      articles:
+        title: Read article
+        actions:
+          refresh: Refresh
+          download: Download
+          channel:
+            edit: Edit channel
+            show: Show channel

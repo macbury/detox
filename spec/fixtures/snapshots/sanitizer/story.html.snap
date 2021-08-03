@@ -1,0 +1,74 @@
+Document
+
+
+  
+  
+    strange script
+  
+  
+  
+    console.log('Boom')
+  
+  <p>Paragraph with class</p>
+  <p>Not closed Paragraph
+  </p>
+<p></p>
+  <p>Paragraph with style</p>
+
+  <p>Paragraph<br>
+  multiple
+  <br>
+  lines</p>
+
+  <p>Text with <span>span</span> <b>bold</b> <i>italic</i> <u>underline</u></p>
+
+  <ul>
+    <li>List a</li>
+    <li>List b</li>
+    <li>List c</li>
+  </ul>
+
+  <ol>
+    <li>List a</li>
+    <li>List b</li>
+    <li>List c</li>
+  </ol>
+
+  <h1>Header 1</h1>
+  <h2>Header 2</h2>
+  <h3>Header 3</h3>
+  <h4>Header 4</h4>
+  <h5>Header 5</h5>
+  <h6>Header 6</h6>
+
+  <a href="https://local.url.test/hello-world.html" target="_blank">Relative link</a>
+  <a href="http://example.com/hello-world.html?test=1234" target="_blank">Absolute link</a>
+  <a href="http://example.com/hello-world.html" target="_blank">Link with tracking</a>
+
+  <img src="http://localhost:8080/api/proxy/b1ec41227f7ac6ba5e3f2ab68affa505804d5b4d/68747470733a2f2f6c6f63616c2e75726c2e746573742f72656c61746976652e706e67" data-detox-src="https://local.url.test/relative.png" style="width: 762px; height: 581px" data-detox='{"blurhash":"LPRMb{D-~k-,IYRloea|?Wt5IXWC","url":"https://local.url.test/relative.png","width":762,"height":581}'>
+  <img src="http://localhost:8080/api/proxy/b1ec41227f7ac6ba5e3f2ab68affa505804d5b4d/68747470733a2f2f6c6f63616c2e75726c2e746573742f72656c61746976652e706e67" data-detox-src="https://local.url.test/relative.png" style="width: 762px; height: 581px" data-detox='{"blurhash":"LPRMb{D-~k-,IYRloea|?Wt5IXWC","url":"https://local.url.test/relative.png","width":762,"height":581}'>
+  <img src="http://localhost:8080/api/proxy/2c4cc1591c344c555abd64ced18f5c5a95f7b437/687474703a2f2f6578616d706c652e636f6d2f6162736f6c7574652e706e67" data-detox-src="http://example.com/absolute.png" style="width: 762px; height: 581px" data-detox='{"blurhash":"LPRMb{D-~k-,IYRloea|?Wt5IXWC","url":"http://example.com/absolute.png","width":762,"height":581}'>
+
+  <video controls=""><source src="http://localhost:8080/api/proxy/4c4e35cf4917b76e7f46163b76963dbe2063a294/68747470733a2f2f73636f6e74656e742d776177312d312e63646e696e7374616772616d2e636f6d2f762f7435302e323838362d31362f3130313030323738375f3136343133313136383433323839355f363433363535353530323937343037303630395f6e2e6d70343f5f6e635f68743d73636f6e74656e742d776177312d312e63646e696e7374616772616d2e636f6d265f6e635f6361743d313131265f6e635f6f68633d7876786642526a2d32696b4158395737594467266f653d3545463141373841266f683d6235376663373832656131323936343937353636376139376330383736633765" data-detox-src="https://scontent-waw1-1.cdninstagram.com/v/t50.2886-16/101002787_164131168432895_6436555502974070609_n.mp4?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=xvxfBRj-2ikAX9W7YDg&oe=5EF1A78A&oh=b57fc782ea12964975667a97c0876c7e"></source><img src="http://localhost:8080/api/proxy/fe5c7e318c0c3029fc7786803b8805393b3d4dfd/68747470733a2f2f7777772e696e7374616772616d2e636f6d2f702f434171486c3950414174532f6d656469613f73697a653d6c" alt="" data-detox-src="https://www.instagram.com/p/CAqHl9PAAtS/media?size=l" style="width: 1000px; height: 70px" data-detox='{"blurhash":"LRPZ$Ta}j;axxufQj[jt0Cj@a%j]","url":"https://www.instagram.com/p/CAqHl9PAAtS/media?size=l","width":1000,"height":70}'></video><br><br>Thanks everyone<br>
+
+  
+
+  <a href="https://www.youtube.com/watch?v=-ByOCgD9UIU" target="_blank">https://www.youtube.com/watch?v=-ByOCgD9UIU</a>
+  
+
+  
+
+    
+    <br>First published July 04, 2020<br><br>Subscribe to the podcast:
+    <a href="https://anchor.fm/futurepaul/episodes/Better-wont-be-easy-ega29f" target="_blank">https://anchor.fm/futurepaul/episodes/Better-wont-be-easy-ega29f</a><br><br>
+    Today's episode is a work-in-progress essay about the role of UX and "ease of use" in tech, with a specific focus on Bitcoin. Here are some links to what I'm talking about in the episode. The full essay will be published on my blog someday.
+    Thank you for your patience.
+  
+
+  <p><em>We’d like to thank Seunghak Lee and Sriram Sankar for their contributions to this work.</em></p>
+
+  <p>
+    <a href="https://twitter.com/home?status=Chrome+Experimental+Feature+Will+Throttle+Javascript-Timer+Wakeups+on+Backgrounded+Tabs:+https://bit.ly/3e974EN" target="_blank"><img src="http://localhost:8080/api/proxy/82e4875a0ea9b6ac38606b03ed2b3f1e693142c2/68747470733a2f2f612e6673646e2e636f6d2f73642f747769747465725f69636f6e5f6c617267652e706e67" data-detox-src="https://a.fsdn.com/sd/twitter_icon_large.png" style="width: 762px; height: 581px" data-detox='{"blurhash":"LPRMb{D-~k-,IYRloea|?Wt5IXWC","url":"https://a.fsdn.com/sd/twitter_icon_large.png","width":762,"height":581}'></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://tech.slashdot.org/story/20/07/05/1952203/chrome-experimental-feature-will-throttle-javascript-timer-wakeups-on-backgrounded-tabs?utm_source=slashdot%26utm_medium=facebook" target="_blank"><img src="http://localhost:8080/api/proxy/d9ef5033f5743f9f2d6d68441b328e3d2d028b5e/68747470733a2f2f612e6673646e2e636f6d2f73642f66616365626f6f6b5f69636f6e5f6c617267652e706e67" data-detox-src="https://a.fsdn.com/sd/facebook_icon_large.png" style="width: 762px; height: 581px" data-detox='{"blurhash":"LPRMb{D-~k-,IYRloea|?Wt5IXWC","url":"https://a.fsdn.com/sd/facebook_icon_large.png","width":762,"height":581}'></a>
+
+  </p>

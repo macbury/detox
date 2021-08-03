@@ -1,0 +1,90 @@
+require 'rails_helper'
+
+RSpec.describe Channels::Opml::Parse do
+  it 'returns a hash of feed details from an OPML file' do
+    result = described_class.call(<<-EOS
+      <?xml version="1.0" encoding="UTF-8"?>
+      <opml version="1.0">
+      <head>
+        <title>macbury subscriptions in Google Reader</title>
+      </head>
+      <body>
+        <outline text="a sample feed" title="a sample feed" type="rss"
+            xmlUrl="http://feeds.feedburner.com/foobar" htmlUrl="http://www.example.org/"/>
+        <outline text="lolol" title="Macbury Blog" type="rss"
+            xmlUrl="http://macbury.ninja/atom.xml" htmlUrl="http://macbury.ninja/"/>
+      </body>
+      </opml>
+      EOS
+    )
+
+    resulted_values = result.values.flatten
+    expect(resulted_values.size).to eq 2
+    expect(resulted_values.first.name).to eq "a sample feed"
+    expect(resulted_values.first.url).to eq "http://feeds.feedburner.com/foobar"
+
+    expect(resulted_values.last.name).to eq "Macbury Blog"
+    expect(resulted_values.last.url).to eq "http://macbury.ninja/atom.xml"
+    expect(result.keys.first).to eq "Ungrouped"
+  end
+
+  it "handles nested groups of feeds" do
+    result = described_class.call(<<-EOS
+      <?xml version="1.0" encoding="UTF-8"?>
+      <opml version="1.0">
+      <head>
+        <title>macbury subscriptions in Google Reader</title>
+      </head>
+      <body>
+        <outline text="Technology News">
+          <outline text="a sample feed" title="a sample feed" type="rss"
+              xmlUrl="http://feeds.feedburner.com/foobar" htmlUrl="http://www.example.org/"/>
+        </outline>
+      </body>
+      </opml>
+      EOS
+    )
+
+    resulted_values = result.values.flatten
+
+    expect(resulted_values.count).to eq 1
+    expect(resulted_values.first.name).to eq "a sample feed"
+    expect(resulted_values.first.url).to eq "http://feeds.feedburner.com/foobar"
+    expect(result.keys.first).to eq "Technology News"
+  end
+
+  it "doesn't explode when there are no feeds" do
+    result = described_class.call(<<-EOS
+        <?xml version="1.0" encoding="UTF-8"?>
+        <opml version="1.0">
+        <head>
+          <title>macbury subscriptions in Google Reader</title>
+        </head>
+        <body>
+        </body>
+        </opml>
+      EOS
+    )
+
+    expect(result).to be_empty
+  end
+
+  it "handles Feedly's exported OPML (missing :title)" do
+    result = described_class.call(<<-EOS)
+      <?xml version="1.0" encoding="UTF-8"?>
+      <opml version="1.0">
+      <head>
+        <title>My feeds (Feedly)</title>
+      </head>
+      <body>
+        <outline text="a sample feed" type="rss"
+            xmlUrl="http://feeds.feedburner.com/foobar" htmlUrl="http://www.example.org/"/>
+      </body>
+      </opml>
+    EOS
+    resulted_values = result.values.flatten
+
+    expect(resulted_values.count).to eq 1
+    expect(resulted_values.first[:name]).to eq "a sample feed"
+  end
+end

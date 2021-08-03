@@ -1,0 +1,36 @@
+en:
+  screens:
+    home:
+      edit_channel:
+        title: Edit channel
+        title_with_name: 'Edit {{name}}'
+        header:
+          text_transformation: Content transformation
+          groups: Assign to group
+        actions:
+          refresh_icon: 'Refresh icon'
+          unsubscribe: 'Unsubscribe'
+          reimport: 'Reimport entries again'
+        message:
+          unsubscribe: "Do you want to unsubscribe from this channel?"
+          reimport: "This will clear entries for this channel and import them again."
+        notifications:
+          success:
+            saved: 'Saved changes to channel'
+            unsubscribe: 'Unsubscribed from channel'
+        form:
+          title: Name
+          site_url: Site URL
+          channel_url: Channel URL
+          user_agent: Override Default User Agent
+          scrape_rules: Scraper Rules
+          reject_rules: Reject Rules
+          rewrite_rules: Rewrite Rules
+          download: Fetch original content
+          rewrite_rules:
+            ReplacePoster: Overwrite poster from content
+            InsertPoster: Insert poster at top of article
+          block_rules: Block rules
+          block_rules_placeholder: 'separate by comma list of blacklisted words'
+          block_rules_hint: |
+            Block rules ignore articles with a title that match the word. Ignored articles won’t be saved into the database.

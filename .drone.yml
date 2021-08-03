@@ -1,0 +1,141 @@
+---
+kind: pipeline
+type: docker
+name: test
+
+trigger:
+  event:
+    - push
+
+workspace:
+  path: /app
+
+services:
+  - name: postgres
+    image: postgres:10
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+steps:
+  - name: Prepare Ruby
+    image: ruby:3.0.0-buster
+    environment:
+      APP_HOST: http://localhost
+      SECRET_KEY_BASE: abcdefghijklmnoprstw
+      DATABASE_CLEANER_ALLOW_REMOTE_DATABASE_URL: true
+      DATABASE_CLEANER_ALLOW_PRODUCTION: true
+      RAILS_ENV: test
+      DETOX_DATABASE_URL: postgresql://postgres:postgres@postgres:5432/
+    commands:
+      - bundle install
+      - bin/rake db:drop db:create db:migrate db:seed translations:dump graphql:dump
+      - bin/rails zeitwerk:check
+      - bin/rspec .
+  - name: Prepare frontend
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/api
+      - yarn
+      - yarn graphql:codegen
+  - name: Styleguide check
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/styleguide
+      - yarn test
+  - name: Store test
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/store
+      - yarn test
+  # - name: Shared test
+  #   image: node:14.15.4-buster
+  #   commands:
+  #     - cd app/javascript/shared
+  #     - yarn test
+  - name: Api test
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/api
+      - yarn test
+  - name: Native/Web test
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/client
+      - yarn test
+  - name: notify
+    image: plugins/matrix
+    settings:
+      homeserver: 
+        from_secret: MATRIX_HOST
+      roomid:
+        from_secret: MATRIX_ROOM
+      username:
+        from_secret: MATRIX_USERNAME
+      password:
+        from_secret: MATRIX_PASSWORD
+---
+kind: pipeline
+type: docker
+name: deploy
+
+trigger:
+  event:
+    - promote
+
+workspace:
+  path: "/detox" # http://plugins.drone.io/drone-plugins/drone-docker/
+
+steps:
+  - name: Set build number
+    image: ruby:3.0.0-buster
+    commands:
+      - 'echo "Current build number: $DRONE_BUILD_NUMBER"'
+      - 'echo -n "latest,$DRONE_BUILD_NUMBER" > .tags'
+  - name: Translations and graphql schema
+    image: ruby:3.0.0-buster
+    commands:
+      - bundle install
+      - cp .env.sample .env
+      - bin/rake translations:dump graphql:dump
+  - name: Install node dependencies
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/api
+      - yarn
+      - yarn graphql:codegen
+  - name: Build Web
+    image: node:14.15.4-buster
+    commands:
+      - cd app/javascript/client
+      - yarn
+      - yarn web:build
+  - name: Build Android
+    image: macbury/android-react-native:android-28
+    environment:
+      DETOX_ANDROID_STOREPASS:
+        from_secret: DETOX_ANDROID_STOREPASS
+    commands:
+      - mkdir -p native/
+      - cd app/javascript/client/android
+      - ./gradlew assembleRelease
+      - mv app/build/outputs/apk/release/app-release.apk ../../../../native/detox.apk
+      - mv app/build/outputs/apk/release/output.json ../../../../native/android.json
+  - name: Build Images
+    image: plugins/docker
+    settings:
+      repo: macbury/detox
+      username:
+        from_secret: DOCKER_USERNAME
+      password:
+        from_secret: DOCKER_PASSWORD
+  - name: notify
+    image: plugins/matrix
+    settings:
+      homeserver: 
+        from_secret: MATRIX_HOST
+      roomid:
+        from_secret: MATRIX_ROOM
+      username:
+        from_secret: MATRIX_USERNAME
+      password:
+        from_secret: MATRIX_PASSWORD

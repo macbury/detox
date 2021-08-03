@@ -1,0 +1,23 @@
+{
+  "name": "@detox/shared",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "NODE_ENV=test jest",
+    "postinstall": "expo-yarn-workspaces postinstall; rm index.js 2> /dev/null"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "babel-jest": "^24.9.0",
+    "jest": "24.9.0",
+    "jest-environment-jsdom-fourteen": "1.0.1",
+    "jest-resolve": "24.9.0",
+    "jest-watch-typeahead": "0.4.2"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "typescript": "^4.x"
+  },
+  "expo-yarn-workspaces": {
+    "symlinks": ["expo-linking"]
+  }
+}

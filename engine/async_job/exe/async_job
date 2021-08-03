@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require File.expand_path("config/environment.rb")
+require 'async_job'
+require 'async_job/cli'
+
+Dry::CLI.new(AsyncJob::CLI).call

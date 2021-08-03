@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "detox",
+    "slug": "detox",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": ["de.macbury.detox"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#339966"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "de.macbury.detox"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "de.macbury.detox",
+      "permission": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

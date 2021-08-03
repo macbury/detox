@@ -1,0 +1,394 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"082f43a63c","applicationID":"5405541","transactionName":"cFwPQBNaWQ4BQ042DV1SFUYAGnMOC0ZbXyVDQ05zJGEVTQ==","queueTime":14,"applicationTime":1372,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={licenseKey:"082f43a63c",applicationID:"5405541"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+  <title>RubyFlow</title>
+  <meta name="description" content="The Ruby and Rails community linklog">
+  <link rel="stylesheet" href="/assets/app-3a4b39643736a891fa83fb36ce879b24b503755c4b33e7b71c19062d973c7ed0.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <meta name="_csrf" content="RNQ0n9cVnUpYZXI3Os-1mRRUZpvAsTMidCvZCpmCCQE" />
+  <link rel="alternate" type="application/rss+xml" title="Feed" href="https://rubyflow.com/rss">
+  <script src="//use.typekit.net/cap5cqx.js"></script><script>try{Typekit.load();}catch(e){}</script>
+  
+</head>
+<body class="index  ">
+  <header class="top ">
+    <div class="inner">
+      <div class="menu">
+        <ul>
+          <li class="rss"><a href="/rss" title="RSS feed"><i class="fa fa-rss"></i><span class="optional">RSS</span></a></li>
+          <li class="twitter"><a href="https://twitter.com/rubyflow" title="Twitter"><i class="fa fa-twitter"></i><span class="optional">Twitter</span></a></li>
+          
+          <li class="submit"><a href="#submitform" class="submit" title="Submit a post"><i class="fa fa-plus"></i><span class="optional">Submit</span></a></li>
+        </ul>
+      </div>
+      <h1><a href="/" title="Homepage">RubyFlow</a> <span>The Ruby and Rails community linklog</span></h1>
+    </div>
+  </header>
+
+  <div id="mainarea">
+  <div id="sitedescription">
+  <div class="inner">
+    <a class="close">&times;</a>
+      <h2>The Ruby and Rails community linklog</h2>
+      <div class="description"><p>Made a library? Written a blog post? Found a useful tutorial? Share it with the Ruby community here or just enjoy what everyone else has found!</p>
+</div>
+  </div>
+</div>
+
+
+<div id="submitform">
+	<div class="inner">
+		<h2>Submit a post</h2>
+		<div id="postpost" class="postbox noavatar">
+	<div class="avatar" ></div>
+
+	<form method="post" id="post_post" name="post_post" action="/post">
+		
+		<input type="text" placeholder="Title" name="title" class="title" size="50" maxlength="85" value="" required />
+		<textarea name="content" rows="4" cols="90" class="content" placeholder="Type your content here, including links. At the least, explain the context around your link in a single paragraph."></textarea>
+		<div class="help">You can use basic HTML markup (e.g. &lt;a&gt;) or Markdown.<br>Note that your post may be edited to suit the format of the site.</div>
+		<div class="right">
+			
+			<button type="submit" class="submit post">Authenticate with GitHub</button>
+			<br>As you are not logged in, you will be<br>directed via GitHub to signup or sign in
+		</div>
+	</form>
+
+	<div id="preview">
+		<h2>Post Preview</h2>
+		<article class="post">
+		<div class="body">
+    <h1><a href="#"><span class="title"></span></a></h1>
+    <p><span class="content"></span></p>
+    </div>
+    </article>
+
+    <p>Note: Only the first pargraph is shown on the front page and overly long paragraphs may be broken up.</p>
+	</div>
+</div>
+
+	</div>
+</div>
+
+<section class="inner posts">
+		  <h3 class='divider'><i class='fa fa-calendar-o'></i>&nbsp;&nbsp;Last Wednesday</h3>
+
+  <article class="post  withavatar" data-uid="g3n5es" data-id="46528" data-timestamp="1616609998" data-page="1" data-doy="083">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/bineetaparmar66367597.png)"></div>
+  <div class="body">
+    <h1><a href="/p/g3n5es-why-is-ruby-on-rails-worth-investing-in-2021">Why is Ruby on Rails worth Investing in 2021?</a></h1>
+    <p> The Ruby on Rails framework is still relevant in 2021. Here’s what makes the RoR framework perfect for web application development in this year.
+<a href="https://www.botreetechnologies.com/blog/why-is-ruby-on-rails-worth-investing/" rel="nofollow">https://www.botreetechnologies.com/blog/why-is-ruby-on-rails-worth-investing/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/bineetaparmar'><i class='fa fa-github'></i></a> bineetaparmar</cite>&nbsp;&nbsp;<time>Last Wednesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/g3n5es-why-is-ruby-on-rails-worth-investing-in-2021">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="vmt6is" data-id="46526" data-timestamp="1616597563" data-page="1" data-doy="083">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/Baldrick446314366.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/vmt6is-embed-a-gem-in-a-rails-project-and-enable-autoreload">Embed a gem in a Rails project and enable autoreload</a></h1>
+    <p> <a href="https://format-express.dev/blog/embed-a-gem-in-a-rails-project-and-enable-autoreload" rel="nofollow">https://format-express.dev/blog/embed-a-gem-in-a-rails-project-and-enable-autoreload</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/Baldrick44'><i class='fa fa-github'></i></a> Baldrick44</cite>&nbsp;&nbsp;<time>Last Wednesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/vmt6is-embed-a-gem-in-a-rails-project-and-enable-autoreload">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="lxy2q3" data-id="46525" data-timestamp="1616590731" data-page="1" data-doy="083">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/thbar10141.png)"></div>
+  <div class="body">
+    <h1><a href="/p/lxy2q3-kiba-etl-v4-maintenance-release-is-out">Kiba ETL v4 (maintenance release) is out</a></h1>
+    <p> Kiba ETL (a popular Ruby data processing framework) v4.0.0 is out! Go check it out and upgrade your apps:  <span class="more">[<a href="/p/lxy2q3-kiba-etl-v4-maintenance-release-is-out">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/thbar'><i class='fa fa-github'></i></a> Thibaut Barrère</cite>&nbsp;&nbsp;<time>Last Wednesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/lxy2q3-kiba-etl-v4-maintenance-release-is-out">Leave a comment here</a></div>
+  </div>
+</article>
+
+    <article class="post sponsored " data-uid="adsc" data-id="" data-timestamp="1616579256" data-page="1" data-doy="083">
+  <div class="body">
+    <h1><a href="https://weekly.statuscode.com/?utm_source=rubyflow&utm_campaign=2020">StatusCode: Our Weekly Programming Newsletter</a></h1>
+    <p> You’re not just a Rubyist, you’re a software developer, right? :-) Check out <a href="https://weekly.statuscode.com/?utm_source=rubyflow&amp;utm_campaign=2020" rel="nofollow">StatusCode Weekly</a>, our language and architecture agnostic newsletter that covers the biggest news across the entire software development world.  </p>
+    <div class="metadata"><cite> <a href='https://weekly.statuscode.com/?utm_source=rubyflow&utm_campaign=2020'><i class='fa fa-heart' style='color: #c00'></i></a> rubyflow is supported by Statuscode</cite>&nbsp;&nbsp;<time>Last Wednesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="https://weekly.statuscode.com/?utm_source=rubyflow&utm_campaign=2020">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="hwtmsd" data-id="46524" data-timestamp="1616579256" data-page="1" data-doy="083">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/pawurb1131944.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/hwtmsd-how-to-improve-gdpr-compliance-for-web-apps-using-aws">How to Improve GDPR Compliance for Web Apps using AWS</a></h1>
+    <p> <a href="https://pawelurbanek.com/gdpr-compliance-aws" rel="nofollow">https://pawelurbanek.com/gdpr-compliance-aws</a>  <span class="more">[<a href="/p/hwtmsd-how-to-improve-gdpr-compliance-for-web-apps-using-aws">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/pawurb'><i class='fa fa-github'></i></a> Paweł Urbanek</cite>&nbsp;&nbsp;<time>Last Wednesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/hwtmsd-how-to-improve-gdpr-compliance-for-web-apps-using-aws">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="ld0shh" data-id="46523" data-timestamp="1616529440" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/strzibny1395527.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/ld0shh-live-previews-with-rails-and-stimulus-2">Live previews with Rails and Stimulus 2</a></h1>
+    <p> If you ever wondered how to do <a href="https://nts.strzibny.name/rails-stimulus-live-preview/" rel="nofollow">live previews in Rails</a> I looked into Hotwire and put together two approaches (with UJS and with Turbo Frame).  </p>
+    <div class="metadata"><cite> <a href='https://github.com/strzibny'><i class='fa fa-github'></i></a> strzibny</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/ld0shh-live-previews-with-rails-and-stimulus-2">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="cdjfu1" data-id="46522" data-timestamp="1616522934" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/kirtisingh120340625940.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/cdjfu1-rails-7-adds-enumerableinorderof">Rails 7 adds Enumerable#in_order_of</a></h1>
+    <p> <a href="https://bigbinary.com/blog/rails-7-adds-enumerable-in-order-of" rel="nofollow">https://bigbinary.com/blog/rails-7-adds-enumerable-in-order-of</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/kirtisingh1203'><i class='fa fa-github'></i></a> Kirti Singh</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/cdjfu1-rails-7-adds-enumerableinorderof">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="qnvia1" data-id="46521" data-timestamp="1616522904" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/jaredcwhite658496.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/qnvia1-better-oop-through-lazily-instantiated-memoized-dependencies">Better OOP Through Lazily-Instantiated Memoized Dependencies</a></h1>
+    <p> The outside objects created or required by a particular class in order for it to function broadly are called <em>dependencies</em>. There are various schools of thought around how best to define those dependencies. <a href="https://www.ruby3.dev/object-orientation/2021/03/23/better-oop-through-lazily-instantiated-memoized-dependencies/" rel="nofollow">Let’s learn about the one I prefer to use the majority of the time.</a> It takes advantage of three techniques Ruby provides for us: <strong>variable-like method calls, lazy instantiation, and memoization</strong>.  </p>
+    <div class="metadata"><cite> <a href='https://github.com/jaredcwhite'><i class='fa fa-github'></i></a> Jared White</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/qnvia1-better-oop-through-lazily-instantiated-memoized-dependencies">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="fejpwv" data-id="46520" data-timestamp="1616518915" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/HoneyryderChuck215707.png)"></div>
+  <div class="body">
+    <h1><a href="/p/fejpwv-how-to-build-an-oidc-provider-using-rodauth-oauth-on-rails">How to build an OIDC provider using rodauth-oauth on Rails</a></h1>
+    <p> <a href="https://honeyryderchuck.gitlab.io/httpx/2021/03/15/oidc-provider-on-rails-using-rodauth-oauth.html" rel="nofollow">https://honeyryderchuck.gitlab.io/httpx/2021/03/15/oidc-provider-on-rails-using-rodauth-oauth.html</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/HoneyryderChuck'><i class='fa fa-github'></i></a> Tiago</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/fejpwv-how-to-build-an-oidc-provider-using-rodauth-oauth-on-rails">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="9u2sz7" data-id="46518" data-timestamp="1616505880" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/bineetaparmar66367597.png)"></div>
+  <div class="body">
+    <h1><a href="/p/9u2sz7-track-records-changes-with-papertrail-gem">Track Records Changes with PaperTrail gem</a></h1>
+    <p> Want to track record changes in Ruby on Rails? You can easily use the PaperTrail Gem and track them without any hassle. Checkout guide on papertrail gem.
+<a href="https://www.botreetechnologies.com/blog/track-records-changes-with-papertrail-gem/" rel="nofollow">https://www.botreetechnologies.com/blog/track-records-changes-with-papertrail-gem/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/bineetaparmar'><i class='fa fa-github'></i></a> bineetaparmar</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/9u2sz7-track-records-changes-with-papertrail-gem">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="t3wt99" data-id="46517" data-timestamp="1616505593" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/bineetaparmar66367597.png)"></div>
+  <div class="body">
+    <h1><a href="/p/t3wt99-a-complete-guide-to-hiring-ruby-on-rails-developers-in-2021">A Complete Guide to Hiring Ruby on Rails Developers in 2021</a></h1>
+    <p> This guide to hiring Ruby on Rails developers will help you make the right decision. Learn more about hiring Ruby on Rails programmers.
+<a href="https://www.botreetechnologies.com/blog/guide-to-hiring-ruby-on-rails-developers/" rel="nofollow">https://www.botreetechnologies.com/blog/guide-to-hiring-ruby-on-rails-developers/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/bineetaparmar'><i class='fa fa-github'></i></a> bineetaparmar</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+  			<div class="comment inline" data-id="19673" data-timestamp="1616571592">
+  <div class="content"><i class="fa fa-comment-o"></i>   More self-advertising than actually something interesting to read but… 
+</div>
+  <div class="metadata"><cite>Kaloyan Yordanov</cite></div>
+</div>
+
+  		<div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/t3wt99-a-complete-guide-to-hiring-ruby-on-rails-developers-in-2021">Read all comments</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="h3zs6h" data-id="46516" data-timestamp="1616503627" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/jnunemaker235.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/h3zs6h-rails-how-to-send-and-receive-webhooks">Rails: How to send and receive webhooks</a></h1>
+    <p> Plus a tiny trick to help keep your background jobs idempotent.  <span class="more">[<a href="/p/h3zs6h-rails-how-to-send-and-receive-webhooks">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/jnunemaker'><i class='fa fa-github'></i></a> John Nunemaker</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/h3zs6h-rails-how-to-send-and-receive-webhooks">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="r2kzmi" data-id="46515" data-timestamp="1616486770" data-page="1" data-doy="082">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/deepakmahakale14993828.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/r2kzmi-rails-adds-withallrichtext-to-eager-load-all-rich-text-associations-at-once">Rails adds `#with_all_rich_text` to eager load all rich text associations at once</a></h1>
+    <p> Rails added support for eager loading all rich text associations at once.   We can now use
+ 
+<code>#with_all_rich_text</code>  <span class="more">[<a href="/p/r2kzmi-rails-adds-withallrichtext-to-eager-load-all-rich-text-associations-at-once">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/deepakmahakale'><i class='fa fa-github'></i></a> Deepak Mahakale</cite>&nbsp;&nbsp;<time>Last Tuesday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/r2kzmi-rails-adds-withallrichtext-to-eager-load-all-rich-text-associations-at-once">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="4k8gqr" data-id="46514" data-timestamp="1616405953" data-page="1" data-doy="081">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/merciremi15021685.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/4k8gqr-rspec-fundamentals-a-basic-glossary">RSpec fundamentals: a basic glossary</a></h1>
+    <p> After writing about RSpec’s setup, I thought it’d be useful to explore the methods you’ll use the most when testing with RSpec. 👉 <a href="https://remimercier.com/rspec-fundamentals-glossary/" rel="nofollow">https://remimercier.com/rspec-fundamentals-glossary/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/merciremi'><i class='fa fa-github'></i></a> Rémi Mercier</cite>&nbsp;&nbsp;<time>Last Monday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/4k8gqr-rspec-fundamentals-a-basic-glossary">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="hsyn00" data-id="46513" data-timestamp="1616399906" data-page="1" data-doy="081">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/cionescu3137291.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/hsyn00--how-to-use-enums-in-rails-6"> How To Use Enums in Rails 6</a></h1>
+    <p> A detailed deep-dive into using enums in Ruby on Rails. <a href="https://betterprogramming.pub/how-to-use-enums-in-rails-6-87600e292476" rel="nofollow">https://betterprogramming.pub/how-to-use-enums-in-rails-6-87600e292476</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/cionescu'><i class='fa fa-github'></i></a> Catalin Ionescu</cite>&nbsp;&nbsp;<time>Last Monday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/hsyn00--how-to-use-enums-in-rails-6">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="836vl5" data-id="46512" data-timestamp="1616386029" data-page="1" data-doy="081">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/siaw234806407.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/836vl5-implementing-order-with-actioncable-signalling-webrtc">Implementing Order With ActionCable Signalling & WebRTC.</a></h1>
+    <p> WebRTC out of an event-driven environment can get messy quickly. I wrote about how you can put some order in message exchanges with Rails. <a href="https://emmanuelhayford.com/implementing-order-with-actioncable-signalling-webrtc/" rel="nofollow">https://emmanuelhayford.com/implementing-order-with-actioncable-signalling-webrtc/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/siaw23'><i class='fa fa-github'></i></a> Emmanuel Hayford</cite>&nbsp;&nbsp;<time>Last Monday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/836vl5-implementing-order-with-actioncable-signalling-webrtc">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="y52kvh" data-id="46511" data-timestamp="1616331968" data-page="1" data-doy="080">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/andrzejkrzywda2847.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/y52kvh-code-review-of-an-order-object-implemented-as-a-state-machine">Code review of an Order object implemented as a state machine</a></h1>
+    <p> As part of the RailsEventStore ecosysem we work on a sample application - Order Management app. In this blogpost I’m looking at the recent changed in the Order class, pointing some smells and improvement directions:  <span class="more">[<a href="/p/y52kvh-code-review-of-an-order-object-implemented-as-a-state-machine">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/andrzejkrzywda'><i class='fa fa-github'></i></a> Andrzej Krzywda</cite>&nbsp;&nbsp;<time>Last Sunday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/y52kvh-code-review-of-an-order-object-implemented-as-a-state-machine">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="m06glt" data-id="46510" data-timestamp="1616225898" data-page="1" data-doy="079">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/AndyObtiva23052.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/m06glt-strategic-091-strategy-matcheraliasexclusion">Strategic 0.9.1 Strategy Matcher/Alias/Exclusion</a></h1>
+    <p> The Strategic Ruby gem (Painless Strategy Pattern for Ruby and Rails) just had a new release in 0.9.1  <span class="more">[<a href="/p/m06glt-strategic-091-strategy-matcheraliasexclusion">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/AndyObtiva'><i class='fa fa-github'></i></a> Andy Maleh</cite>&nbsp;&nbsp;<time>Last Saturday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/m06glt-strategic-091-strategy-matcheraliasexclusion">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="djd3m8" data-id="46509" data-timestamp="1616193187" data-page="1" data-doy="078">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/MikeRogers0325384.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/djd3m8-how-to-handle-special-actions-in-ruby-on-rails-controllers">How To Handle Special Actions In Ruby on Rails Controllers?</a></h1>
+    <p> I had a mini dive into the best approach for how to handle those special one off actions which sometimes slip into controllers.  <span class="more">[<a href="/p/djd3m8-how-to-handle-special-actions-in-ruby-on-rails-controllers">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/MikeRogers0'><i class='fa fa-github'></i></a> Mike Rogers</cite>&nbsp;&nbsp;<time>Last Friday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/djd3m8-how-to-handle-special-actions-in-ruby-on-rails-controllers">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="z4odr7" data-id="46508" data-timestamp="1616183658" data-page="1" data-doy="078">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/fidel29444.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/z4odr7-use-activeadmin-like-a-boss">Use ActiveAdmin like a boss</a></h1>
+    <p> ActiveAdmin is widely used administration framework in Rails applications. This post explains how to hook more sophiscicated domain logic into it: <a href="https://blog.arkency.com/use-activeadmin-like-a-boss/" rel="nofollow">https://blog.arkency.com/use-activeadmin-like-a-boss/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/fidel'><i class='fa fa-github'></i></a> Szymon Fiedler</cite>&nbsp;&nbsp;<time>Last Friday</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/z4odr7-use-activeadmin-like-a-boss">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="r1gjoo" data-id="46505" data-timestamp="1615996367" data-page="1" data-doy="076">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/bineetaparmar66367597.png)"></div>
+  <div class="body">
+    <h1><a href="/p/r1gjoo-how-to-determine-the-maintenance-cost-for-ruby-on-rails-app">How to Determine the Maintenance Cost for Ruby on Rails App</a></h1>
+    <p> Multiple Ruby on Rails maintenance costs are associated with any RoR web apps project. Learn how much it costs to maintain a Ruby on Rails web app. <a href="https://www.botreetechnologies.com/blog/ruby-on-rails-maintenance-cost/" rel="nofollow">https://www.botreetechnologies.com/blog/ruby-on-rails-maintenance-cost/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/bineetaparmar'><i class='fa fa-github'></i></a> bineetaparmar</cite>&nbsp;&nbsp;<time>17 March 2021</time> </div>
+  			<div class="comment inline" data-id="19675" data-timestamp="1616622165">
+  <div class="content"><i class="fa fa-comment-o"></i>   Mostly self-advertising article… 
+</div>
+  <div class="metadata"><cite>Kaloyan Yordanov</cite></div>
+</div>
+
+  		<div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/r1gjoo-how-to-determine-the-maintenance-cost-for-ruby-on-rails-app">Read all comments</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="d5a4q3" data-id="46504" data-timestamp="1615993824" data-page="1" data-doy="076">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/lubc7442887.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/d5a4q3-upgrade-ruby-from-27-to-30">Upgrade Ruby from 2.7 to 3.0</a></h1>
+    <p> <a href="https://www.fastruby.io/blog/ruby/upgrades/upgrade-ruby-from-2.7-to-3.0.html" rel="nofollow">https://www.fastruby.io/blog/ruby/upgrades/upgrade-ruby-from-2.7-to-3.0.html</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/lubc'><i class='fa fa-github'></i></a> Luciano Becerra</cite>&nbsp;&nbsp;<time>17 March 2021</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/d5a4q3-upgrade-ruby-from-27-to-30">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="6k72cs" data-id="46503" data-timestamp="1615986801" data-page="1" data-doy="076">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/TomFern46322567.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/6k72cs-what-is-a-monorepo-and-should-you-use-them">What is a monorepo? (and Should You Use Them?)</a></h1>
+    <p> Monorepos can foster rapid development workflows. In this post, we’ll examine if they are the right fit for you and your company.  <span class="more">[<a href="/p/6k72cs-what-is-a-monorepo-and-should-you-use-them">more inside</a>]</span></p>
+    <div class="metadata"><cite> <a href='https://github.com/TomFern'><i class='fa fa-github'></i></a> Tomas Fernandez</cite>&nbsp;&nbsp;<time>17 March 2021</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/6k72cs-what-is-a-monorepo-and-should-you-use-them">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="grfe7a" data-id="46502" data-timestamp="1615974982" data-page="1" data-doy="076">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/keshavbiswa27268721.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/grfe7a-rails-add-maximum-and-minimum-methods-to-enumerable-">Rails add maximum and minimum methods to Enumerable </a></h1>
+    <p> <a href="https://blog.saeloun.com/2021/03/17/rails-enumerable-maximum-and-minimum" rel="nofollow">https://blog.saeloun.com/2021/03/17/rails-enumerable-maximum-and-minimum</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/keshavbiswa'><i class='fa fa-github'></i></a> Keshav Biswa</cite>&nbsp;&nbsp;<time>17 March 2021</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/grfe7a-rails-add-maximum-and-minimum-methods-to-enumerable-">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="1wao21" data-id="46501" data-timestamp="1615912559" data-page="1" data-doy="075">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/geraldb53281.jpeg)"></div>
+  <div class="body">
+    <h1><a href="/p/1wao21-mooncats-gem-mint-your-own-vintage-mooncat-pixel-art-images-off-chain-with-ruby">mooncats Gem - mint your own vintage mooncat pixel art images off chain with ruby</a></h1>
+    <p> Hello, I have put together a little gem that includes a command line tool called <a href="https://github.com/cryptocopycats/mooncats#readme" rel="nofollow">mooncat - that lets you mint your own vintage (free) mooncat pixel art images off chain using any of the 128 True Official Genuine Mooncat™ md5-verified original designs</a>; incl. 2x/4x/8x zoom for bigger sizes. Cheers. Prost. The future is meow.  </p>
+    <div class="metadata"><cite> <a href='https://github.com/geraldb'><i class='fa fa-github'></i></a> Gerald Bauer</cite>&nbsp;&nbsp;<time>16 March 2021</time> </div>
+      <div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/1wao21-mooncats-gem-mint-your-own-vintage-mooncat-pixel-art-images-off-chain-with-ruby">Leave a comment here</a></div>
+  </div>
+</article>
+
+  <article class="post  withavatar" data-uid="qc2ags" data-id="46500" data-timestamp="1615890825" data-page="1" data-doy="075">
+    <div class="avatar  " style="background-image: url(https://rflow2.s3.amazonaws.com/bineetaparmar66367597.png)"></div>
+  <div class="body">
+    <h1><a href="/p/qc2ags-ftp-integration-in-rails-app">FTP Integration in Rails App</a></h1>
+    <p> Ruby on Rails web applications require FTP integration for downloading and sending files. Here are the different ways to integrate FTP with a Rails app.
+<a href="https://www.botreetechnologies.com/blog/ftp-integration-in-rails-app/" rel="nofollow">https://www.botreetechnologies.com/blog/ftp-integration-in-rails-app/</a>  </p>
+    <div class="metadata"><cite> <a href='https://github.com/bineetaparmar'><i class='fa fa-github'></i></a> bineetaparmar</cite>&nbsp;&nbsp;<time>16 March 2021</time> </div>
+  			<div class="comment inline" data-id="19670" data-timestamp="1615974366">
+  <div class="content"><i class="fa fa-comment-o"></i>   In the code, you should fix constant names, since FTP, FTPS, and SFTP are diffe&hellip;</div>
+  <div class="metadata"><cite>Gabor Garami</cite></div>
+</div>
+
+  		<div class="comment inline more"><i class="fa fa-comments-o"></i>&nbsp;<a href="/p/qc2ags-ftp-integration-in-rails-app">Read all comments</a></div>
+  </div>
+</article>
+
+
+  <div class="nextpage"><a href="?page=2">Next page &raquo;</a></div>
+
+</section>
+
+<div id="loading"><i class="fa fa-spinner fa-pulse"></i> Loading older posts <i class="fa fa-spinner fa-pulse"></i></div>
+
+  </div>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2237791-7', 'auto');
+  ga('send', 'pageview');
+  </script>
+
+  <script>
+    var base_url = "https://rubyflow.com";
+    var ads = [];
+
+    ads.push({"text":"<strong><a href='http://www.redisgreen.net/memory-analysis/index.html?utm_source=rubyflow&utm_medium=web'>RedisGreen</a> builds a map of your Redis memory usage,</strong> tracking the size of keys over time, helping you track down problems and gain new insights. <strong><a href='http://www.redisgreen.net/memory-analysis/index.html?utm_source=rubyflow&utm_medium=web'>Find out more.</a></strong>","buttonStyle":"width: 40px; height: 40px","button":"<img src='http://s3.cooperpress.com.s3.amazonaws.com/redisgreen.png' width='40' />","style":"background-color: #fff","textStyle":"color: #222; line-height: 18px; height: auto","url":"http://www.redisgreen.net/memory-analysis/index.html?utm_source=rubyflow&utm_medium=web"});
+  </script>
+  <script src="/assets/app-a7ab3c392eac25b2c61fb67dfbff05e971d1e6d31fd72b91c7a1dde3c3e55b58.js"></script>
+  <script>
+    
+    
+    
+  </script>
+</body>
+</html>

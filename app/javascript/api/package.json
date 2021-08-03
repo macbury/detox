@@ -1,0 +1,95 @@
+{
+  "name": "@detox/api",
+  "version": "1.0.0",
+  "scripts": {
+    "graphql:codegen": "graphql-codegen",
+    "test": "jest",
+    "postinstall": "expo-yarn-workspaces postinstall; rm index.js 2> /dev/null"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "^1.17.0",
+    "@graphql-codegen/typescript": "^1.17.0",
+    "@graphql-codegen/typescript-operations": "^1.17.0",
+    "@graphql-codegen/typescript-resolvers": "^1.17.0",
+    "babel-jest": "^24.9.0",
+    "jest": "24.9.0",
+    "jest-environment-jsdom-fourteen": "1.0.1",
+    "jest-resolve": "24.9.0",
+    "jest-watch-typeahead": "0.4.2",
+    "@types/jest": "^26.0.4",
+    "react-app-polyfill": "^1.0.6",
+    "jest-styled-components": "^7.0.2",
+    "graphql-tools": "^6.0.12"
+  },
+  "dependencies": {
+    "i18next": "^19.8.7",
+    "react-i18next": "^11.7.0",
+    "apollo-client": "^2.6.10",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-link-http": "^1.5.17",
+    "apollo-link-error": "^1.1.13",
+    "apollo-link": "^1.2.14",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.10.4"
+  },
+  "peerDependencies": {
+    "typescript": "^4.x",
+    "graphql": "^15.x"
+  },
+  "jest": {
+    "roots": [
+      "<rootDir>/"
+    ],
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!src/**/*.d.ts"
+    ],
+    "setupFiles": [
+      "react-app-polyfill/jsdom",
+      "<rootDir>/jest.setup.js"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/test/matchers.ts"
+    ],
+    "testMatch": [
+      "<rootDir>/**/__tests__/**/*.{js,jsx,ts,tsx}",
+      "<rootDir>/**/*.{spec,test}.{js,jsx,ts,tsx}"
+    ],
+    "testEnvironment": "jest-environment-jsdom-fourteen",
+    "transform": {
+      "^.+\\.(js|jsx|ts|tsx)$": "<rootDir>/node_modules/babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx|ts|tsx)$",
+      "^.+\\.module\\.(css|sass|scss)$"
+    ],
+    "modulePaths": [],
+    "moduleNameMapper": {
+      "^react-native$": "react-native-web",
+      "^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy",
+      "^src/(.*)$": "<rootDir>/src/$1"
+    },
+    "moduleFileExtensions": [
+      "web.js",
+      "js",
+      "web.ts",
+      "ts",
+      "web.tsx",
+      "tsx",
+      "json",
+      "web.jsx",
+      "jsx",
+      "node"
+    ],
+    "watchPlugins": [
+      "jest-watch-typeahead/filename",
+      "jest-watch-typeahead/testname"
+    ]
+  },
+  "expo-yarn-workspaces": {
+    "symlinks": [
+      "jest-environment-jsdom-fourteen",
+      "babel-jest"
+    ]
+  }
+}

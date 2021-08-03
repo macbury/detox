@@ -1,0 +1,843 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://blog.ipfs.io/</link>
+    <image>
+      <url>https://blog.ipfs.io/img/ipfs-logo-256-ice.png</url>
+      <title></title>
+      <link>https://blog.ipfs.io/</link>
+    </image>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.ipfs.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to IPFS Weekly 130</title>
+      <link>https://blog.ipfs.io/weekly-130/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-130/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+Storing NFTs on IPFS! Learn best practices for addressing and storing data for NFTs using IPFS, for NFTs that stand the test of time.</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="storing-nfts-on-ipfs">Storing NFTs on IPFS!</h2>
+
+<p>Learn best practices for addressing and storing data for NFTs using IPFS, for NFTs that stand the test of time. Permanence and immutability are part of the core value proposition of a non-fungible token (NFT). Unfortunately, many NFTs being targeted at consumers today offer neither of these properties due to fundamental design flaws. IPFS can help address these concerns, and NFTs that leverage IPFS gain several advantages. <a href="https://blog.ipfs.io/2021-04-05-storing-nfts-on-ipfs/">Read our recent blog post</a> about storing your NFT on IPFS and find more details on the IPFS documentation site, in our new article <a href="https://docs.ipfs.io/how-to/best-practices-for-nft-data/">Best Practices for Storing NFT Data using IPFS</a>.</p>
+
+<h2 id="resnetlab-on-tour-is-going-on-demand">ResNetLab On Tour is going On Demand!</h2>
+
+<p>Today we are thrilled to announce that ResNetLab on Tour is going On Demand! The program originally launched in 2019 as an initiative to onboard the academic community to the IPFS architecture. We have been to more than 10 academic conferences and university labs presenting 4hr-long tutorials to experts in the area of networks. As of today, we are making these resources available to everyone! Take a look for yourself and head on over to the <a href="https://research.protocol.ai/tutorials/resnetlab-on-tour/">shiny new ResNetLab on Tour website</a> for all the material and extra pointers!</p>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li>IPFS will be sponsoring the upcoming Scaling Ethereum Hackathon and Summit with ETHGlobal April 16-May 13. <a href="https://scaling.ethglobal.co/">Learn more</a>.</li>
+<li>Get ready to stream in 4k, chat in 500kbs, &amp; share 10GB worth of files with Satellite, a p2p chat app that&rsquo;s fueled by IPFS! <a href="https://www.youtube.com/watch?v=KUF4k1mzKKM">Watch the video</a>.</li>
+<li>Metis launches Layer 2 Alpha Testnet storing sensitive data on IPFS. Want to learn more? <a href="http://www.digitaljournal.com/pr/5029059">Read the full announcement</a>.</li>
+<li>Textile releases presentation slides from Chainlink hackathon detailing how to store NFTs using Filecoin &amp; IPFS. <a href="https://bafzbeidki5s6saconbtppzu77a2s4y4ey6tsarup4aqci3bwq4mt3uua3y.textile.space/">View them here</a>.</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>Fleek makes deploying and maintaining an ENS+IPFS website easier than ever. <a href="https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514">Find out why</a>.</p>
+
+<p><a href="https://www.trufflesuite.com/boxes/filecoin">Filecoin Box</a> is now available in Truffle! Devs can get started with Filecoin Box and have everything they need to create a decentralized art gallery.</p>
+
+<p>Last week you met Quanta. Did you know they offer a curated podcast feed? <a href="https://quanta.wiki/n/upload-image-to-ipfs">Listen</a>.</p>
+
+<p>3Box Labs releases research that will aggregate insights on the state of decentralized identity and the use cases it enables. <a href="https://3boxlabs.typeform.com/to/jtjDfNDz">Help by taking their survey</a>.</p>
+
+<p>The Filecoin Foundation announced a 50,000 FIL grant to the Internet archive. <a href="https://filecoinfoundation.medium.com/the-filecoin-foundation-announces-50-000-fil-grant-to-the-internet-archive-a4f27218e1a2">Get details</a>.</p>
+
+<h2 id="upcoming">Upcoming 📅</h2>
+
+<p>The April IPFS meetup will be an opportunity to showcase what the community has been building with NFTs! <a href="https://protocollabs.typeform.com/to/hLGfKhxn">Sign up here</a> to present, or <a href="https://www.meetup.com/San-Francisco-IPFS/events/276123324/">register to attend</a> the April 27th event and learn more about the world of IPFS x NFTs!</p>
+
+<h2 id="want-to-help-build-the-new-internet">Want to help build the new internet?</h2>
+
+<p><a href="https://angel.co/company/humanode-2/jobs/1265884-consensus-protocol-and-dlt-engineer">Consensus Protocol and DLT Engineer</a>:  Consensus is looking for a Lead Engineer with solid experience in building or working with consensus mechanisms such as Snow family, Clique, Aura, pBFT. Knowledge and experience with Ethereum, EVM and Smart Contracts is crucial as EVM-compatibility is key in the market. Consensus, Humanode, Remote.</p>
+
+<p><a href="https://textile.breezy.hr/p/421d4f71a227-senior-go-engineer">Senior Go Engineer</a>: As a Senior Go Engineer, you will be responsible for writing and maintaining code on the Textile Go libraries, including Threads, Buckets, Hub, and Powergate. This role is for someone with solid coding experience and the ability to lead new features. Textile, Remote.</p>
+
+<p><a href="https://angel.co/company/fleekhq/jobs/879081-full-stack-engineer">Full Stack Engineer</a>: Fleek is looking for an experienced and dedicated Full Stack Engineer to help us build the leading Open Web developer platform, products, and tools. Fleek, Remote.</p>
+
+<p><a href="https://jobs.lever.co/protocol/eb99c5db-b2bf-4af0-b3bc-c14406fc3d31">Partner Engineering Lead</a>: Protocol Labs is seeking a Senior Partner Engineer who will help us support, connect, and grow IPFS’s many online and offline communities. Protocol Labs, Remote.</p>
+
+<p><strong>No matter what you do with the web, IPFS helps make it better today.</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Storing NFTs on IPFS</title>
+      <link>https://blog.ipfs.io/2021-04-05-storing-nfts-on-ipfs/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/2021-04-05-storing-nfts-on-ipfs/</guid>
+      <description>Permanence and immutability are part of the core value proposition of a non-fungible token (NFT). Unfortunately, many NFTs being targeted at consumers today offer neither of these properties due to fundamental design flaws.</description>
+      <content:encoded><![CDATA[
+
+<p style="text-align: center;">
+  <img src="/header_images/128-nft-header.png" alt="The IPFS cube logo with a nyancat-style rainbow trailing it">
+</p>
+
+<p>Permanence and immutability are part of the core value proposition of a non-fungible token (NFT). Unfortunately, many NFTs being targeted at consumers today offer neither of these properties due to fundamental design flaws. It is common to hear claims that NFTs “live on a blockchain forever”, but frequently, due to the cost and space limitations of storing data on a blockchain, only the ownership <em>record</em> is actually stored, with metadata linking to the actual content of the NFT.</p>
+
+<p>All too often, <a href="https://www.vice.com/en/article/pkdj79/peoples-expensive-nfts-keep-vanishing-this-is-why">these links are fragile</a>, and direct the user to a specific <em>location</em> using the HTTP protocol, rather than a specific asset. This means that the content pointed to by the link could change or go offline at any point in the future, leaving the original asset lost forever (and the record of ownership worthless).</p>
+
+<p>The InterPlanetary Filesystem (IPFS) can help address these concerns, and NFTs that leverage IPFS gain several advantages. However, adhering to established conventions is critical to ensure the permanence and accessibility of data stored on the network. With non-fungible tokens (NFTs) surging in popularity, it’s a good time to revisit best practices for linking and storing NFT data on IPFS. In this post, we’ll address two areas of recent concern in particular: content addressing and content integrity. You can find more details on the IPFS documentation site, in our new article <a href="https://docs.ipfs.io/how-to/best-practices-for-nft-data/">Best Practices for Storing NFT Data using IPFS</a>.</p>
+
+<h2 id="content-addressing">Content Addressing</h2>
+
+<p>IPFS <a href="https://docs.ipfs.io/guides/concepts/cid/">content identifiers</a> (CIDs) are an extremely robust and flexible way to uniquely identify any content, no matter where or how it is stored. To take maximum advantage of these strengths, developers should adhere to the following recommendations and conventions for linking to IPFS data.</p>
+
+<h3 id="linking-overview">Linking Overview</h3>
+
+<p>This blog post is not intended to be a comprehensive explanation of CIDs (for that, see other <a href="https://docs.ipfs.io/how-to/address-ipfs-on-web/#dweb-addressing-in-brief">fantastic resources</a>). However, readers should be aware of the following distinctions:</p>
+
+<h4 id="cid">CID</h4>
+
+<p>A CID is a self-describing, unique identifier for a piece of content.</p>
+
+<p>Example: <code>bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi</code></p>
+
+<p>CIDs should be used inside your application code and in other contexts where it’s unambiguous whether you’re using IPFS or some other system.</p>
+
+<p>We recommend converting CIDs to IPFS URIs whenever storing them on disk, especially in metadata and blockchain records that can’t be altered after creation. Including the <code>ipfs://</code> URI scheme adds important context to a CID that clearly shows users and automated tooling how to find the content.</p>
+
+<h4 id="ipfs-uri">IPFS URI</h4>
+
+<p>A <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">Uniform Resource Identifier</a>, or URI, is used to specify a particular piece of content in a given context. The context is determined by the URI scheme (appended to the URI as a prefix, followed by <code>://</code>). The URI scheme for IPFS is simply <code>ipfs</code>. The URI can optionally include a path appended to the end.</p>
+
+<p>Examples:</p>
+
+<ul>
+<li><code>ipfs://bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi</code></li>
+<li><code>ipfs://bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta/nft.mp4</code></li>
+</ul>
+
+<p>IPFS URIs are the canonical representation for an IPFS link pointing at a file or a directory. When linking from a smart contract to IPFS data, use IPFS URIs to clearly indicate that the data should be retrieved using IPFS.</p>
+
+<p>IPFS URIs should also be used inside the structured metadata for NFTs when linking to images and other media assets stored on IPFS.</p>
+
+<h4 id="http-gateway-url">HTTP Gateway URL</h4>
+
+<p><a href="https://docs.ipfs.io/how-to/address-ipfs-on-web/#http-gateways">HTTP gateways</a> provide interoperability for legacy browsers that cannot resolve IPFS URIs natively. Such links should only be used in an application’s presentation layer, and should not be stored on a blockchain or inside NFT metadata.</p>
+
+<p>Example: <code>https://dweb.link/ipfs/bafybeigdyrzt5sfp7udm7hu76uh7y26nf3efuylqabf3oclgtqy55fbzdi</code></p>
+
+<p>Note that HTTP gateways <em>recentralize the distribution of content</em>, presenting both a man-in-the-middle vector and single point of failure — if the gateway operator goes offline or is unreachable, the link will break. However, browsers with built-in support for IPFS (either via the <a href="https://docs.ipfs.io/install/ipfs-companion/">IPFS Companion</a> browser extension, or via native support, such as <a href="https://brave.com/ipfs-support/">provided by Brave</a>) are immune to these problems, as they can <em>automatically</em> extract the CID from such links, and load the data from IPFS according to user preferences.</p>
+
+<h3 id="addressing-in-various-contexts">Addressing in Various Contexts</h3>
+
+<p>Developers should format links differently, depending on context.</p>
+
+<h4 id="on-chain">On-Chain</h4>
+
+<p>An NFT smart contract should return an IPFS URI to the assets and metadata associated with each token.</p>
+
+<p>For example: <code>ipfs://bafybeibnsoufr2renqzsh347nrx54wcubt5lgkeivez63xvivplfwhtpym/metadata.json</code></p>
+
+<p>We recommend generating the IPFS URI before minting each token and storing the full URI on-chain. This is the simplest way to conform to smart contract interfaces that expect a URI, and the ipfs:// URI scheme makes it easy for any distributed app to see that the data is available using IPFS.</p>
+
+<h4 id="metadata">Metadata</h4>
+
+<p>In token metadata, IPFS URIs should be used as the most unambiguous and future-proof method of linking to IPFS resources in plain text.</p>
+
+<p>Here’s an example of an IPFS URI that references an NFT media asset: <code>ipfs://bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta/nft.mp4</code></p>
+
+<p>Developers may optionally wish to include links to public <a href="https://docs.ipfs.io/how-to/address-ipfs-on-web/#http-gateways">HTTP gateways</a> for legacy interoperability.</p>
+
+<p>Other alternatives for linking to the content (e.g., non-gateway HTTP URLs) should ideally be avoided. As the content served over HTTP from a particular location is subject to change, such a link cannot be relied upon as anything other than a temporary content mirror. On a blockchain, where data is permanently and immutably stored, referencing content via HTTP is thus fragile and risky.</p>
+
+<p>In contrast, IPFS URIs are valid forever, and as such, may safely be considered the canonical link for their data. By using an IPFS URI as the “source of truth” for links, an application can easily support multiple storage solutions or switch to different gateways over time, simply by generating new gateway links. This is more flexible than “hard-coding” a specific gateway into a permanent blockchain record.</p>
+
+<h4 id="application">Application</h4>
+
+<p>In user-facing applications, developers should link to IPFS content via both:</p>
+
+<ol>
+<li>An IPFS URI</li>
+<li>An HTTP gateway URL</li>
+</ol>
+
+<p>until such a time as more browsers support native resolution of the IPFS URI scheme. Note that both kinds of link can easily be generated from a raw CID or IPFS URI as needed.</p>
+
+<p>Here is an example of an HTTP gateway URL targeting the public gateway at dweb.link:</p>
+
+<p><a href="https://dweb.link/ipfs/bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta/nft.mp4">https://dweb.link/ipfs/bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta/nft.mp4</a></p>
+
+<p>The same link can be written with the CID as a subdomain, instead of in the URL path:</p>
+
+<p><a href="https://bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta.ipfs.dweb.link/nft.mp4">https://bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta.ipfs.dweb.link/nft.mp4</a></p>
+
+<p>Both examples correspond to this canonical IPFS URI: <code>ipfs://bafybeigvafaks2bvivtv46n2z7uxszpvl25jhvzc6dbhnjjgjkbeia5jta/nft.mp4</code></p>
+
+<h2 id="integrity">Integrity</h2>
+
+<p>A major concern for NFTs is the integrity of the asset - this includes both the asset itself and any data associated with it. IPFS protects the integrity of NFT data by using CIDs to validate that nothing has changed since the link was created.</p>
+
+<p>Developers should adhere to the following recommendations to gain the most benefit from IPFS&rsquo;s built-in data validation.</p>
+
+<h3 id="linking-metadata-to-its-asset">Linking Metadata to its Asset</h3>
+
+<p>A token’s metadata should be considered integral to the value of an NFT. Thus, to preserve the asset’s value, metadata should be stored on IPFS with the asset, to ensure that both remain accessible.</p>
+
+<p>The preferred method for achieving this is as follows:</p>
+
+<ol>
+<li>Create two new directories (one for the asset, and one for the metadata)</li>
+<li>Add the asset to its directory</li>
+<li>Add the asset’s directory to IPFS, noting its CID</li>
+<li>Create the metadata in its own directory, referencing the asset using the CID from (3) to create an IPFS URI. The URI should include the CID of the directory and the filename of the asset.</li>
+<li>Add the metadata’s directory to IPFS, noting its CID</li>
+<li>Use the CID from (5) to create an IPFS URI for the metadata and store the URI on-chain to form the record of ownership</li>
+</ol>
+
+<p>This process both preserves the ability of developers to include filenames in their links (valuable for user interaction), while ensuring that the metadata and asset can be referenced independent of each other.</p>
+
+<ul>
+<li>The metadata will be accessible at: <code>ipfs://{metadata-directory-CID}/metadata-filename</code></li>
+<li>The asset will be accessible at: <code>ipfs://{asset-directory-CID}/asset-filename</code></li>
+</ul>
+
+<p>Here’s an example of some JSON metadata that contains an IPFS URI linking to an image file:</p>
+
+<pre><code class="language-json">{
+  &quot;name&quot;: &quot;No time to explain!&quot;,
+  &quot;description&quot;: &quot;I said there was no time to explain, and I stand by that.&quot;,
+  &quot;image&quot;: &quot;ipfs://bafybeidfjqmasnpu6z7gvn7l6wthdcyzxh5uystkky3xvutddbapchbopi/no-time-to-explain.jpeg&quot;
+}
+</code></pre>
+
+<p>The image can be fetched using the IPFS URI <code>ipfs://bafybeidfjqmasnpu6z7gvn7l6wthdcyzxh5uystkky3xvutddbapchbopi/no-time-to-explain.jpeg</code>. For presentation, your application can create a gateway URL to allow users to fetch the image using HTTP, for example, <a href="https://dweb.link/ipfs/bafybeidfjqmasnpu6z7gvn7l6wthdcyzxh5uystkky3xvutddbapchbopi/no-time-to-explain.jpeg">https://dweb.link/ipfs/bafybeidfjqmasnpu6z7gvn7l6wthdcyzxh5uystkky3xvutddbapchbopi/no-time-to-explain.jpeg</a></p>
+
+<p>Once the metadata has been created, it is stored as a JSON file on IPFS, and the resulting CID is used to create a URI like <code>ipfs://bafybeibnsoufr2renqzsh347nrx54wcubt5lgkeivez63xvivplfwhtpym/metadata.json</code>, which can be stored in a smart contract.</p>
+
+<p>To see a working example of this process in action, check out <a href="https://docs.ipfs.io/how-to/mint-nfts-with-ipfs/#a-short-introduction-to-nfts">How to Mint NFTs with IPFS</a> on the IPFS documentation site, which shows the whole process in detail using javascript.</p>
+
+<h3 id="high-availability">High Availability</h3>
+
+<p>One of the primary reasons for using a decentralized network like IPFS to serve content is to forestall <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a>. This is achieved by allowing other nodes in the network to mirror data via cohosting. However, developers wishing to ensure the availability of content should not rely on the altruism of other nodes. To ensure that linked content remains available, developers should host it themselves by <a href="https://docs.ipfs.io/concepts/persistence/">pinning</a> the CIDs of the content on IPFS nodes they manage, preserving and distributing the content alongside any others who wish to help. Should they prefer, developers can also delegate this responsibility via <a href="https://docs.ipfs.io/how-to/work-with-pinning-services/">pinning services</a>.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Welcome to IPFS Weekly 129</title>
+      <link>https://blog.ipfs.io/weekly-129/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-129/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+Congratulations ION for launching v1.0! We’re so excited to see a new decentralized identity service launch which stores its data on IPFS.</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="congratulations-ion-for-launching-v1-0">Congratulations ION for launching v1.0!</h2>
+
+<p>We’re so excited to see a new decentralized identity service launch which stores its data on IPFS. We’ve been working with ION to support their use of IPFS since 2019. IPFS comes into the picture at the storage layer, where ION aggregates transactions into batches, adds those batches to IPFS, and then writes the IPFS content identifier (CID) of the batch to the blockchain. Try ION v1.0 today and share your feedback in the <a href="https://github.com/decentralized-identity/ion">ION repo</a> or let <a href="https://twitter.com/ipfs">@IPFS know on Twitter</a>.</p>
+
+<h2 id="ipfs-friends-at-chainlink-spring-hackathon">IPFS &amp; Friends at Chainlink Spring Hackathon!</h2>
+
+<p>Last week the <a href="https://chain.link/hackathon">Chainlink Hackathon</a> hosted Dietrich Ayala from Protocol Labs and Textile&rsquo;s Andrew Hill for some amazing tutorials and talks about building on IPFS. <a href="https://www.youtube.com/watch?v=NdSdsTsh0QI&amp;feature=emb_logo">Andrew’s presentation</a> included a workshop featuring Buckets, an introduction to Powergate as well as the Miner Index. And be sure to check out <a href="https://www.youtube.com/watch?v=Ds1RJplxxxo">Dietrich’s talk</a> for an overview of IPFS, its users, how to start up a IPFS Space Daemon or command line interface, the various IPFS software integrations, and resources that will guide you through building on the IPFS ecosystem.</p>
+
+<h2 id="march-meetup-videos-identity-ipfs">March Meetup Videos: Identity &amp; IPFS</h2>
+
+<p>At this month’s IPFS Meetup, we hosted experts from the web3 community discussing the intersection of identity and IPFS. The meetup featured The Scala Project, Daniel Buchner from ION, Michael Sena from IDX, and Joel Thorstensson from Ceramic.  ICYMI, <a href="https://www.youtube.com/playlist?list=PLuhRWgmPaHtToVYaDkd6ZTwB2Lo30s1vB">catch up on all of the recordings</a> from the March IPFS Meetup!</p>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li>Release update - Handshake Domains, now supported on Fleek! <a href="https://blog.fleek.co/posts/handshake-domains-support-release">Read the update</a>.</li>
+<li><a href="https://dev.to/akuokojnr/how-to-upload-and-play-unity-webgl-games-on-ipfs-using-slate-oac">Watch this tutorial</a> on how to upload and play Unity WebGL games on IPFS using Slate in 4 simple steps.</li>
+<li>Molecular Data, leading technology-driven platform, gears up its data services with IPFS. <a href="https://www.prnewswire.com/news-releases/molecular-data-inc-gears-up-its-data-services-with-ipfs-301257394.html">Learn more</a>.</li>
+<li>Wikipedia is now available in Chinese on IPFS via Kiwix! <a href="https://t.co/nSgpRjihVA">Check it out</a>. Expect more translations soon!</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>NFTs are everywhere! Check out this writeup in <a href="https://www.nytimes.com/2021/03/24/technology/nft-column-blockchain.html">The New York Times</a> featuring NFTs.</p>
+
+<p><a href="https://twitter.com/berty/status/1375518150435860482">Berty News is back!</a> Read up on all you’ve missed in the ecosystem and see a special shoutout to gomobile-IPFS.</p>
+
+<p>Can IPFS fight against content censorship? The short answer is yes - IPFS can be part of the solution to protect you from content censorship, <a href="https://medium.com/likecoin/can-ipfs-the-distributed-web-fight-against-content-censorship-300e55cbf88c">find out why</a>.</p>
+
+<p>IC Action - an open source GitHub action to deploy canisters to the Internet Computer! <a href="https://blog.fleek.co/posts/ic-action-deploy-canisters-internet-computer">Check it out</a>.</p>
+
+<p>Ceramic just released an update for Identity Index which makes it even easier to load user data given an Ethereum address. <a href="https://github.com/ceramicstudio/js-idx/releases/tag/v0.9.0">Try it!</a></p>
+
+<p>Introducing Zentavault, a proprietary data storage format that offers a unique solution in the field of cloud storage service, fully encrypted and stored on IPFS indefinitely. <a href="https://zentachain.blog/what-is-zentavault/">Learn more</a>.</p>
+
+<p>Looking for a quick and dirty way to tell your friends about IPFS? Look no further, send them <a href="https://medium.com/aleph-im/ipfs-explained-in-2min-24e10afdb191">this article</a> that explains IPFS in 2 min!</p>
+
+<p><a href="https://quanta.wiki/n/ipfs-notes">Meet Quanta</a>, a new kind of platform for the Fediverse, Web 3.0, and IPFS. Quanta is the only Fediverse-capable app that has IPFS uploading as a core feature.</p>
+
+<h2 id="upcoming">Upcoming 📅</h2>
+
+<p>The April IPFS meetup will be an opportunity to showcase what the community has been building with NFTs! <a href="https://protocollabs.typeform.com/to/hLGfKhxn">Sign up here</a> to present, or <a href="https://www.meetup.com/San-Francisco-IPFS/events/276123324/">register to attend</a> the April 27th event and learn more about the world of IPFS x NFTs!</p>
+
+<h2 id="want-to-help-build-the-new-internet">Want to help build the new internet?</h2>
+
+<p><a href="https://angel.co/company/humanode-2/jobs/1265884-consensus-protocol-and-dlt-engineer">Consensus Protocol and DLT Engineer</a>:  Consensus is looking for a Lead Engineer with solid experience in building or working with consensus mechanisms such as Snow family, Clique, Aura, pBFT. Knowledge and experience with Ethereum, EVM and Smart Contracts is crucial as EVM-compatibility is key in the market. Consensus, Humanode, Remote.</p>
+
+<p><a href="https://textile.breezy.hr/p/421d4f71a227-senior-go-engineer">Senior Go Engineer</a>: As a Senior Go Engineer, you will be responsible for writing and maintaining code on the Textile Go libraries, including Threads, Buckets, Hub, and Powergate. This role is for someone with solid coding experience and the ability to lead new features. Textile, Remote.</p>
+
+<p><a href="https://angel.co/company/fleekhq/jobs/879081-full-stack-engineer">Full Stack Engineer</a>: Fleek is looking for an experienced and dedicated Full Stack Engineer to help us build the leading Open Web developer platform, products, and tools. Fleek, Remote.</p>
+
+<p><a href="https://jobs.lever.co/protocol/eb99c5db-b2bf-4af0-b3bc-c14406fc3d31">Partner Engineering Lead</a>: Protocol Labs is seeking a Senior Partner Engineer who will help us support, connect, and grow IPFS’s many online and offline communities. Protocol Labs, Remote.</p>
+
+<p><strong>The web of tomorrow needs IPFS today!</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Own Your Identity with ION</title>
+      <link>https://blog.ipfs.io/2021-03-24/own-your-identity-with-ion/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/2021-03-24/own-your-identity-with-ion/</guid>
+      <description>We are many people! Whether on Twitter, Zoom or paying the electricity bill, we assume identities to interact with others online.</description>
+      <content:encoded><![CDATA[
+
+<p style="text-align: center;">
+  <img src="/header_images/127-ion-header.png" alt="ION logo">
+</p>
+
+<p><strong>We are many people!</strong> Whether on Twitter, Zoom or paying the electricity bill, we assume identities to interact with others online. How much of that identity is you? How much of “you” is decided by those services? Why can’t the bag of bits that is “you” stick around while hopping from online service to online service?</p>
+
+<p>Well now it can! Decentralized identity services have matured to a point where usage is simple, they’re backed by public networks firmly rooted into the global business firmament, and now we’re seeing those businesses deploy them in earnest.</p>
+
+<p>Today, we’re excited to see a new decentralized identity service launch which stores its data on IPFS: Congratulations ION for launching v1.0!</p>
+
+<h2 id="ion-and-ipfs">ION and IPFS</h2>
+
+<p>ION is a public identity network providing distributed public key infrastructure through Decentralized Identifiers (DIDs) and the <a href="https://github.com/decentralized-identity/sidetree">Sidetree protocol</a> on top of the Bitcoin blockchain. ION is developed by Microsoft and a group of collaborators at the Decentralized Identity Foundation.</p>
+
+<p>We’ve been working with them to support their use of IPFS since 2019. IPFS comes into the picture at the storage layer, where ION aggregates transactions into batches, adds those batches to IPFS, and then writes the IPFS content identifier (CID) of the batch to the blockchain. The ION pairs with a local go-ipfs node for publishing data for availability to the broader IPFS network.</p>
+
+<p>Additionally, ION has a network explorer at <a href="https://identity.foundation/ion/explorer/">identity.foundation/ion/explorer/</a>.</p>
+
+<p style="text-align: center;">
+  <img src="/img/ion-explorer.png" alt="ION network explorer">
+</p>
+
+<h2 id="using-and-contributing-to-ion">Using and Contributing to ION</h2>
+
+<p>Today Microsoft launched v1.0 of ION, and in <a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555">the launch post</a> they&rsquo;ve shared examples of using the JavaScript client for application integration and steps for running a node. The team has created a high-level SDK for easy app integrations, with key and DID generation utilities and basic login APIs. Additionally they’ve published a low-level SDK for building customized identity solutions beyond what comes out of the box.</p>
+
+<p>As ION is a public network, running a node of your own will contribute to the overall health, resilience and performance of the system. Instructions for building and installing a node are detailed in the <a href="https://github.com/decentralized-identity/ion">ION Github repository</a>.</p>
+
+<p>Try ION today for an identity solution which gives your users more control and let us know how it goes! Share your feedback in the ION repo or let <a href="https://twitter.com/ipfs">@IPFS</a> know on Twitter.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Welcome to IPFS Weekly 128</title>
+      <link>https://blog.ipfs.io/weekly-128/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-128/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+IPFS x NFTHack, a brief recap NFTHack has come and gone, but if you missed it, check out all of the cool builds and projects in the NFTHack showcase.</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="ipfs-x-nfthack-a-brief-recap">IPFS x NFTHack, a brief recap</h2>
+
+<p>NFTHack has come and gone, but if you missed it, check out all of the cool builds and projects in the NFTHack showcase. For a deeper look, watch the finale and see the top-10 awarded projects.</p>
+
+<p>Quick stats from NFTHack:</p>
+
+<ul>
+<li>👤 134 Users
+
+<ul>
+<li>Almost <sup>1</sup>&frasl;<sub>4</sub> of all hackers at the event.</li>
+</ul></li>
+<li>🏗 ~10% of ALL projects used the JS client for nft.storage (182 projects total)
+
+<ul>
+<li>1,219 total downloads from npm (Mar 15 → Mar 21)</li>
+</ul></li>
+<li>📌 1,204 NFTs stored</li>
+<li>💿 890MB of NFT data stored</li>
+</ul>
+
+<p>Looking for more on NFTs? <a href="https://www.meetup.com/San-Francisco-IPFS/events/276123324/">Join our April meetup</a> to learn more about what people are building with IPFS x NFTs.</p>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/WNukgBtlWeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br></p>
+
+<h2 id="mint-an-nft-with-ipfs">Mint an NFT with IPFS!</h2>
+
+<p>Dive into the details of NFT minting with IPFS and Ethereum with the brand new guide <a href="https://docs.ipfs.io/how-to/mint-nfts-with-ipfs">Mint an NFT with IPFS</a> on the docs site. In this tutorial, you’ll get to know Minty, a simple tool that creates IPFS-backed non-fungible tokens on Ethereum. <a href="https://www.youtube.com/watch?v=WNukgBtlWeU&amp;feature=youtu.be">In this workshop</a>, Yusef from Protocol Labs shows how (and why!) to store NFT assets and metadata on IPFS and how to link that data to an on-chain token. If the code overview in the video has you wanting more, the <a href="https://github.com/yusefnapora/minty">Minty repo</a> is waiting for you to clone it and play around!</p>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oeCaKXbhPls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br></p>
+
+<h2 id="free-filecoin-retrieval-via-ipfs">Free Filecoin Retrieval via IPFS</h2>
+
+<p>Interested in learning about how to retrieve Filecoin deals for free via IPFS? Check out <a href="https://www.youtube.com/watch?v=oeCaKXbhPls">this recent demo</a> by PL Researcher, Alan Shaw, as he walks through a proof-of-concept showing a Lotus miner making deal data available over bitswap to other IPFS nodes.</p>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li><a href="https://nft.storage/">Nft.storage</a> is a brand new service in private BETA, built specifically for storing off-chain NFT data.</li>
+<li><a href="https://mp.weixin.qq.com/s/uHU4dNuC96YTh0_BydpH5A">Taopaipai</a>, a leading photography service in China, will be using IPFS to store their photographs.</li>
+<li>Introducing <a href="https://chat.fullstack.cash/">chat.fullstack.cash</a>, an instant messenger chat app built on IPFS!</li>
+<li>A new GitHub Action <a href="https://github.com/marketplace/actions/ipfs-remote-pinning">‘IPFS Remote Pinning’</a> helps you publish to IPFS Pinning Services.</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>Check out <a href="https://peergos.org/posts/social-profile">Peergos’ latest feature</a> making it easier to connect with your real life friends, family and colleagues with private and customizable profiles.</p>
+
+<p><a href="https://research.protocol.ai/blog/2021/decentralising-the-internet-with-ipfs-and-filecoin-di2f-workshop-at-ifip-networking-2021-call-for-contributions/">Apply now</a> to attend a workshop on decentralizing the internet, with a focus on IPFS, Filecoin, libp2p, and IPLD, taking place at a premier networking conference. Call for papers, demos, and contributions due March 31st.</p>
+
+<p><a href="https://textile.io/">Textile Hub</a> is now running IPFS v0.8!</p>
+
+<p>The <a href="https://blog.fleek.co/posts/release-update-fleek-cli-github-actions">latest from Fleek</a>: their new and improved Hosting CLI, new Fleek GitHub Actions and introducing Fleek’s GraphQL API.</p>
+
+<p>ICYMI: <a href="https://github.com/libp2p/rust-libp2p/blob/master/CHANGELOG.md">rust-libp2p v0.36.0</a> was released last week!</p>
+
+<p>Textile’s <a href="https://github.com/textileio/go-buckets">go-buckets</a> have been released in their own repo. Plus fast unixfs dag sync for ipfs + libp2 are about to be enhanced with an <a href="https://github.com/textileio/go-buckets/pull/2">IPFS Pinning API in every bucket</a>.</p>
+
+<p>IPFS was a popular topic at <a href="https://blog.fission.codes/fission-demo-day-march-2021">Fission’s recent demo day</a>.</p>
+
+<h2 id="upcoming">Upcoming 📅</h2>
+
+<p>The April IPFS meetup will be an opportunity to showcase what the community has been building with NFTs! <a href="https://protocollabs.typeform.com/to/hLGfKhxn">Sign up here</a> to present, or <a href="https://www.meetup.com/San-Francisco-IPFS/events/276123324/">register to attend</a> the April 27th event and learn more about the world of IPFS x NFTs!</p>
+
+<h2 id="want-to-help-build-the-new-internet">Want to help build the new internet?</h2>
+
+<p><a href="https://textile.breezy.hr/p/421d4f71a227-senior-go-engineer">Senior Go Engineer</a>: As a Senior Go Engineer, you will be responsible for writing and maintaining code on the Textile Go libraries, including Threads, Buckets, Hub, and Powergate. This role is for someone with solid coding experience and the ability to lead new features. Textile, Remote.</p>
+
+<p><a href="https://angel.co/company/fleekhq/jobs/879081-full-stack-engineer">Full Stack Engineer</a>: Fleek is looking for an experienced and dedicated Full Stack Engineer to help us build the leading Open Web developer platform, products, and tools. Fleek, Remote.</p>
+
+<p><a href="https://jobs.lever.co/protocol/eb99c5db-b2bf-4af0-b3bc-c14406fc3d31">Partner Engineering Lead</a>: Protocol Labs is seeking a Senior Partner Engineer who will help us support, connect, and grow IPFS’s many online and offline communities. Protocol Labs, Remote.</p>
+
+<p><strong>If it’s not on IPFS, it’s not your NFT!</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Welcome to IPFS Weekly 127</title>
+      <link>https://blog.ipfs.io/weekly-127/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-127/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+Next Tuesday: Identity &amp;amp; IPFS, a special event This month’s IPFS meetup is an extra special one, because we’ll be featuring a variety of experts on identity from the Web3 community.</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="next-tuesday-identity-ipfs-a-special-event">Next Tuesday: Identity &amp; IPFS, a special event</h2>
+
+<p>This month’s IPFS meetup is an extra special one, because we’ll be featuring a variety of experts on identity from the Web3 community. Join to hear talks from the folks at Ceramic, Microsoft ION, The Scala Project, and IDX. One week from today–don’t miss out!</p>
+
+<p><a href="https://www.meetup.com/San-Francisco-IPFS/events/276123396/">Register to attend</a></p>
+
+<h2 id="introducing-true-review">Introducing True Review</h2>
+
+<p>Continuing our series of ETHDenver project spotlights True Review, a censorship-resistant review platform, allowis people to store their rich text/image/video reviews with IDX and Ceramic (stored on IPFS). Think of it as a Yelp, but backed by the blockchain.</p>
+
+<p><a href="https://devfolio.co/submissions/blah-7859">Read more</a></p>
+
+<h2 id="join-us-this-weekend-for-nfthack">Join us this weekend for NFTHack</h2>
+
+<p>NFTs have officially entered the internet zeitgeist, so if you’re looking to explore, test out your ideas, see what folks are building, join the IPFS community this weekend for NFT Hack. This 3-day event will be packed full of presentations and plenty of opportunities to dive into the world of NFTs.</p>
+
+<p><a href="https://nft.ethglobal.co/">Register to attend</a></p>
+
+<h3 id="resources-for-getting-started-with-nfts">Resources for getting started with NFTs</h3>
+
+<ul>
+<li>How to create <a href="https://medium.com/pinata/ipfs-nfts-and-persistent-artwork-50a129587a36">NFTs with IPFS</a></li>
+<li>How to <a href="https://medium.com/alchemy-api/how-to-write-deploy-an-nft-d92c8b6b777f">write &amp; deploy an NFT</a></li>
+<li>How to <a href="https://medium.com/alchemy-api/how-to-mint-an-nft-8cd51e8eb634">mint an NFT</a></li>
+<li>How to build <a href="https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914">ERC-721 NFTs with IPFS</a></li>
+<li>How to build an <a href="https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5">NFT Gallery</a></li>
+</ul>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li>A first look at <a href="https://www.reddit.com/r/ipfs/comments/m2qolr/heres_a_first_look_at_anytype_on_android_demo_of/">Anytype on Android</a>, check out this demo of an all-in-one tool on IPFS.</li>
+<li>At the last <a href="https://www.youtube.com/watch?v=0zUg20816hU">Local Offline Collaboration call</a>, Fission demoed their fast, local-first app publishing on IPFS.</li>
+<li>Now on IPFS! <a href="https://one.compost.digital/">COMPOST</a>, a magazine about digital commons that publishes to the dweb.</li>
+<li>Introducing <a href="http://share.ipfs.io/">share.ipfs.io</a>, an exploratory demo that works best when both parties can use WebRTC.</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>Read about the <a href="https://news.ycombinator.com/item?id=26462597">IPFS Local Offline Collaboration Sig</a></p>
+
+<p>Catch up on all things MetaMask with <a href="https://medium.com/metamask/metamask-monthly-february-2021-41ab42de69f7">February’s MetaMask Monthly</a></p>
+
+<p>Check out this interactive NFT built with <a href="https://twitter.com/johnbenton/status/1370074442676776960">webGL and IPFS</a></p>
+
+<p>Learn how you can use IPFS and <a href="https://medium.com/@oumi.group/ipfs-blockchain-embeded-iot-6ea33c1bb4d0">Blockchain Embeded IoT</a>.</p>
+
+<p>pruf.io asks, <a href="https://prufio.medium.com/nfts-picassos-or-pogs-edb4b205eb78">NFTs — Picassos or Pogs?</a></p>
+
+<p>Read the latest on <a href="https://raynel.medium.com/nfts-rarible-com-faqs-70649f47d85d">Rarible’s NFTs FAQ’s</a></p>
+
+<p>INTERVIEW: <a href="https://hive.blog/crypto/@scottcbusiness/the-future-of-brave-browser-with-luke-mulks">The future of Brave browser</a> with Luke Mulks</p>
+
+<p>Why should you buy an <a href="https://nftboxes.medium.com/so-what-is-nftboxes-752b31c439a6">NFTBox</a> and what even is that?</p>
+
+<p><strong>We’ll need to see your CIDs to get into this club, err network.</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Welcome to IPFS Weekly 126</title>
+      <link>https://blog.ipfs.io/weekly-126/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-126/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+Gitcoin Grants Round 9 starts tomorrow Our friends at Gitcoin are kicking off round 9 of their grants program with a $~500k matching pool to distribute to the community.</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="gitcoin-grants-round-9-starts-tomorrow">Gitcoin Grants Round 9 starts tomorrow</h2>
+
+<p>Our friends at Gitcoin are kicking off round 9 of their grants program with a $~500k matching pool to distribute to the community. Expect a jam-packed schedule with a series of webinars, workshops, and community discussions around the grants round and hackathon with industry leaders, grantees, and hackathon sponsors during the 4-week long event.</p>
+
+<p><a href="https://gitcoin.co/hackathon/gr9/onboard">Read more</a></p>
+
+<h2 id="introducing-gasless-wallet">Introducing Gasless Wallet</h2>
+
+<p>Continuing our series of ETHDenver project spotlights the Gasless Wallet, which allows users without eth to interact with Ethereum using other tokens. Created by Hakeem Orewole, Abdulhafiz Ahmed, and Mike Adediran, the gasless wallet is chain-agnostic and hosted on IPFS. Check it out!</p>
+
+<p><a href="https://devfolio.co/submissions/gasless-wallet-b236">Read more</a></p>
+
+<h2 id="read-about-the-rise-of-nfts">Read about the rise of NFTs</h2>
+
+<p>Looking for an introduction to NFTs and IPFS? Look no further than this recent post from Ether-1 about their fight for anti-censorship and decentralization. Read on to learn how Ether-1 and ethoFS can help evolve the NFT ecosystem.</p>
+
+<p><a href="https://dev-james.medium.com/the-rise-of-nfts-ether-1s-fight-for-anti-censorship-decentralization-31cc065f4908">Read more</a></p>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li>Ever wondered what the <a href="https://www.reddit.com/r/ipfs/comments/lvwn4o/ipfs_http_gateways_ranked_by_performance/">IPFS HTTP gateways</a> ranked by performance are?</li>
+<li>The <a href="https://github.com/w3c/did-spec-registries/pull/262">NFT DID</a> is a new DID method created using the Ceramic network, recently proposed to the W3C.</li>
+<li>Introducing the <a href="https://wallet.wax.io/">WAX Cloud Wallet</a>, built with IPFS and the WAX blockchain to keep your NFTs secure.</li>
+<li>Read <a href="https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a">Part 2 of Pinata’s tutorial</a> on how to display your NFT collectibles with Flow and IPFS.</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>Read the <a href="https://medium.com/the-capital/scala-review-2021-keep-your-personal-information-secure-7bd2569e93a5">Scala Review 2021</a>: Keep your personal information secure</p>
+
+<p>NEW: <a href="https://medium.com/polkadot-network/polkadot-now-supported-on-ledger-live-4449f11b5130">Polkadot now</a> supported on Ledger Live</p>
+
+<p>Announcing <a href="https://medium.com/mintgate/announcing-ipfs-for-creators-259a8f16e13">IPFS for Creators</a>, an upcoming series of technical workshops and written resources about IPFS tools and platforms that empower full ownership of content and storage.</p>
+
+<p>The <a href="https://twitter.com/FloatProtocol/status/1367963890978537472">Float protocol</a> site is now hosted on IPFS, courtesy of Fleek.</p>
+
+<p>Read about the <a href="https://jewarner57.medium.com/the-decentralized-internet-you-can-us-right-now-f8488296cb8d">decentralized internet</a> you can use right now.</p>
+
+<p>Check out this <a href="https://dev.to/zoedreams/brave-browser-review-secure-fast-private-web-browser-bhk">Brave browser review</a> from the DEV Community.</p>
+
+<p><strong>Not the folks behind insurance premium financing solutions!</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Welcome to IPFS Weekly 125</title>
+      <link>https://blog.ipfs.io/weekly-125/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-125/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+IPFS at ETHDenver The IPFS Community was at ETHDenver 2021 in full force: from presentations to bounties, help desks and virtual hangs, and our favorite—new projects!</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="ipfs-at-ethdenver">IPFS at ETHDenver</h2>
+
+<p>The IPFS Community was at ETHDenver 2021 in full force: from presentations to bounties, help desks and virtual hangs, and our favorite—new projects! We are very excited to show you the cool things folks built with IPFS, so we’ll be featuring them in upcoming issues. For a full recap, head to the IPFS blog.</p>
+
+<p><a href="https://blog.ipfs.io/2021-02-26-ipfs-at-ethdenver/">Read more</a></p>
+
+<h2 id="introducing-super-rinkeby">Introducing Super Rinkeby</h2>
+
+<p>Our first feature from ETHDenver is Super Rinkeby, a decentralized Super Mario-like game that lets users change characters through an NFT purchase. Created by Leon Do and Jennifer Tran, the game is hosted on IPFS and its structure presents five new ideas for scaling microtransactions on the blockchain.</p>
+
+<p><a href="https://devfolio.co/submissions/super-rinkeby-game-a88e">Read more</a></p>
+
+<h2 id="new-on-ipfs-desktop">New on IPFS Desktop 🖥</h2>
+
+<p>Your favorite desktop app for IPFS recently added support for go-ipfs 0.8.0 and Electron 11.x, as well as enabling both pubsub via settings and IPNS over pubsub. Check it out!</p>
+
+<p><a href="https://github.com/ipfs-shipyard/ipfs-desktop/releases/tag/v0.14.0">Read more</a></p>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li>The <a href="https://brave.com/bat-roadmap-2-0/">roadmap for BAT 2.0</a> includes adding the ability to use BAT for content pinning on IPFS!</li>
+<li>Now you can <a href="https://peergos.org/posts/p2p-web-hosting">host your P2P website</a> directly from Peergos and even get a human readable location.</li>
+<li>Read the <a href="https://arxiv.org/pdf/2102.12737.pdf">new paper IPFS and Friends</a>: A qualitative comparison of next-gen P2P data networks.</li>
+<li><a href="https://space.storage/">Space released their beta</a>, check out their user-controlled, encrypted file storage platform.</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>Learn <a href="https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf">how to create NFTs</a> like NBA Top Shot with Flow and IPFS</p>
+
+<p><a href="https://www.coindesk.com/its-an-nft-boom-do-you-know-where-your-digital-art-lives">CoinDesk asks</a>, it’s an NFT boom. Do you know where your Digital Art lives?</p>
+
+<p>Introducing the <a href="https://medium.com/crustnetwork/introducing-the-crust-polkapet-nft-1a27f2ffa733">Crust PolkaPet NFT</a>!</p>
+
+<p><a href="https://medium.com/polkadot-network/the-graph-bringing-indexing-and-querying-to-polkadot-6b433e381fe8">The Graph</a> brings indexing and querying to Polkadot</p>
+
+<p>Introducing <a href="https://peepsology.medium.com/introducing-dsearch-dtree-our-fight-for-a-better-search-engine-a4baa3a50171">dSearch</a>, dTree and our fight for a better search engine</p>
+
+<p><a href="https://medium.com/unstoppabledomains/what-is-the-difference-between-tokens-and-coins-8ab0b605b8d0">Unstoppable Domains</a> asks, what is the difference between tokens and coins?</p>
+
+<p>NEW: <a href="https://discuss.ipfs.io/t/galacteek-0-4-42-released/10259">Galacteek 0.4.42</a> released</p>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/YsfEdRx05V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br></p>
+
+<h2 id="missed-the-february-ipfs-meetup">Missed the February IPFS meetup?</h2>
+
+<p>Catch up on presentations from dweb games specialist Leon Do, Viki Valastin from KodaDot, Ilya Kreymer from Webrecorder, and Yiannis Psaras from ResNetLab. Register today so you don’t miss out on the next IPFS meetup later this month.</p>
+
+<p><a href="https://www.meetup.com/San-Francisco-IPFS/events/276123396/">Register for the March meetup</a></p>
+
+<p><strong>InterPlanetary Funky Schemas 🎶</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>IPFS at ETHDenver</title>
+      <link>https://blog.ipfs.io/2021-02-26-ipfs-at-ethdenver/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/2021-02-26-ipfs-at-ethdenver/</guid>
+      <description>The annual premier hackathon event for the North American Ethereum community, ETHDenver and ColoradoJam, has come to a close. The 2021 event was 100% virtual, utilizing the gaming platform Gamerjibe as a virtual event venue, creating a unique and refreshing way for the dweb community to gather together.</description>
+      <content:encoded><![CDATA[
+
+<p>The annual premier hackathon event for the North American Ethereum community, ETHDenver and ColoradoJam, has come to a close. The 2021 event was 100% virtual, utilizing the gaming platform Gamerjibe as a virtual event venue, creating a unique and refreshing way for the dweb community to gather together.</p>
+
+<p style="text-align: center;">
+  <img src="/img/ethdenver-winners.png" alt="ETHDenver & ColoradoJam 2021 Bounty, Track & Quadratic Funding Winners">
+</p>
+
+<h2 id="event-highlights">Event highlights</h2>
+
+<p>When it came to building with IPFS, we saw NFT marketplaces, decentralized and off-chain gaming, platforms solving real world issues involving life insurance and genetic testing, and consistently created ways to lower barriers for wallet creation, token creation, and more.</p>
+
+<ul>
+<li>31 out 86 total projects submitted to ETHDenver applied for IPFS bounties</li>
+<li>64 out of 86 projects submitted applied for IPFS-ecosystem tooling bounties (the most popular being Ceramic, Textile and Metamask)</li>
+<li>The IPFS project awarded bounties to 11 submissions for their creative use of IPFS</li>
+<li>32 of the 51 winning projects were award bounties for using IPFS-ecosystem tooling</li>
+</ul>
+
+<p>See all of the <a href="https://ethdenver2021.devfolio.co/submissions">ETHDenver submissions here</a> and read <a href="https://medium.com/ethdenver/ethdenver-coloradojam-2021-bounty-track-quadratic-funding-winners-805cf5f2de76">about the winners</a>, too!</p>
+
+<p style="text-align: center;">
+  <img src="/img/virtual-castle.jpeg" alt="Folks from Slate and Textile chill in the bean bag area of the Shill Zone">
+</p>
+
+<h2 id="the-virtual-castle">The Virtual Castle</h2>
+
+<p>Alongside the event Discord, the livestream, and the hacks, ETHDenver also created a virtual venue for attendees to wander around, try on swag, gather collectibles, check out sponsor booths, and hang out as a community.</p>
+
+<p>In lieu of a sponsor booth, the IPFS Help Desk returned! Folks from IPFS, Slate, Fleek, Pinata, Opera, and Foundation all took turns hosting as their digital avatars, even occasionally running into a rainbow Pegabufficorn.</p>
+
+<p style="text-align: center;">
+  <img src="/img/help-desk.png" alt="The IPFS Help Desk at ETHDenver 2021">
+</p>
+
+<h2 id="on-the-main-stage">On the main stage</h2>
+
+<ul>
+<li>19 of the presentations featured were by crafted by folks in the IPFS ecosystem</li>
+<li>Watch all of the <a href="https://www.youtube.com/playlist?list=PLAy4HNUNlzRkiRQFnr-gu6CyddoVTxeTy">2021 presentations here</a></li>
+<li>We recommend watching:
+
+<ul>
+<li>Matt Ober from Pinata hosted a technical workshop on <a href="https://www.youtube.com/watch?v=vttw1bjC2no&amp;list=PLAy4HNUNlzRkiRQFnr-gu6CyddoVTxeTy&amp;index=132">IPFS: The Global CID</a></li>
+<li>IPFS Ecosystem Lead Dietrich Ayala participated in <a href="https://www.youtube.com/watch?v=OgzQAZj3Y-E&amp;list=PLAy4HNUNlzRkiRQFnr-gu6CyddoVTxeTy&amp;index=87">a panel on the bridge from Web2.0 &gt; Web3</a> with Igor Mandrigin and Susie Batt from Opera, and Bradley Kam from Unstoppable Domains.</li>
+</ul></li>
+</ul>
+
+<h2 id="new-projects-in-the-ecosystem">New projects in the ecosystem</h2>
+
+<p>Here are just a few of the projects from ETHDenver that have us excited about building even more with IPFS!</p>
+
+<ul>
+<li><strong>Documint</strong>, an IDE for Ceramic providing developers with a powerful interface for viewing, creating, and editing smart documents.
+
+<ul>
+<li><a href="https://devfolio.co/submissions/documint-eb71">Project submission</a></li>
+<li><a href="https://documint.net/">Project site</a></li>
+<li><a href="https://github.com/xops/documint">Project GitHub</a></li>
+</ul></li>
+<li><strong>Gasless Wallet</strong>, an Ethereum Virtual Machine (EVM) blockchain-agnostic wallet allowing users to pay transactions fee in any of the ERC-20 standard tokens.
+
+<ul>
+<li><a href="https://devfolio.co/submissions/gasless-wallet-b236">Project submission</a></li>
+<li><a href="https://bafybeiajtc3zk5or5d3yfdixssal3oyx5otpbxvribnefq54jfwvfkid5e.ipfs.infura-ipfs.io/">Project site</a></li>
+<li><a href="https://github.com/sftwr-prjct-dev/gasless">Project GitHub</a></li>
+</ul></li>
+<li><strong>TruReview</strong>, a censorship-resistant review platform, allowing people to store their rich text/image/video reviews with IDX and Ceramic (stored on IPFS).
+
+<ul>
+<li><a href="https://devfolio.co/submissions/blah-7859">Project submission</a></li>
+<li><a href="https://www.figma.com/proto/0eMGJeHltlcCKp4eTqdl5u/True-Review?node-id=162%3A1521&amp;viewport=879%2C-40%2C0.06251474469900131&amp;scaling=contain&amp;hotspot-hints=0">Project demo</a></li>
+<li><a href="https://github.com/twos-complement/eth-denver-2021">Project GitHub</a></li>
+</ul></li>
+<li><strong>Timelock</strong>, a simple app that helps lock money for a future date using a smart contract, which is then posted to IPFS.
+
+<ul>
+<li><a href="https://devfolio.co/submissions/timelock-08af">Project submission</a></li>
+<li><a href="https://web3-time-lock.glitch.me/">Project site</a></li>
+</ul></li>
+<li><strong>Super Rinkeby</strong>, a decentralized Super Mario-like game where you can magically change your character through an NFT purchase.
+
+<ul>
+<li><a href="https://devfolio.co/submissions/super-rinkeby-game-a88e">Project submission</a></li>
+<li><a href="http://superrinkeby.com/">Project site</a></li>
+<li><a href="https://github.com/leon-do/super-rinkeby-website">Project GitHub</a></li>
+</ul></li>
+</ul>
+
+<p>Our thanks go out to the organizers of ETHDenver and ColoradoJam 2021, the amazing IPFS community for their participation, and of course, the ETHDenver builders who inspired us with their inventive projects.  We look forward to seeing what folks come up with next in the many more hackathons to come in 2021!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Welcome to IPFS Weekly 124</title>
+      <link>https://blog.ipfs.io/weekly-124/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ipfs.io/weekly-124/</guid>
+      <description>Here’s what’s happening in the InterPlanetary File System galaxy!
+What’s new in go-ipfs 0.8.0? The latest release from the IPFS protocol is here, and with it, go-ipfs 0.</description>
+      <content:encoded><![CDATA[
+
+<p>Here’s what’s happening in the <a href="https://ipfs.io/">InterPlanetary File System</a> galaxy!</p>
+
+<h2 id="what-s-new-in-go-ipfs-0-8-0">What’s new in go-ipfs 0.8.0?</h2>
+
+<p>The latest release from the IPFS protocol is here, and with it, go-ipfs 0.8.0 brings the ability to ask remote services to pin data for you! Other features include remote MFS pinning, faster pinning, and help for DNSLink names on https:// subdomains.</p>
+
+<p><a href="https://blog.ipfs.io/2021-02-19-go-ipfs-0-8-0/">Read more</a></p>
+
+<h2 id="new-libp2p-comes-to-protoschool">NEW: libp2p comes to ProtoSchool</h2>
+
+<p>The best place to learn about decentralized technology, ProtoSchool, has recently added lip2p to their curriculum. Now learners can participate in code-free tutorials, intros to dweb concepts, hands-on coding challenging and more!</p>
+
+<p><a href="https://blog.ipfs.io/2021-02-17-libp2p-comes-to-protoschool/">Read more</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TM7aW0NFOJM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 id="video-ipfs-libp2p-in-2020">VIDEO: IPFS &amp; libp2p in 2020</h2>
+
+<p>In case you missed it—IPFS project lead Molly Mackinlay gave a 2020 year-in-review on the latest with the IPFS ecosystem at CSCON[0], a virtual blockchain conference, late last year. Check it out!</p>
+
+<h2 id="brand-new-on-ipfs">Brand new on IPFS</h2>
+
+<ul>
+<li><a href="https://blog.fleek.co/posts/filecoin-archiving-backup-fleek-sites-and-storage">Fleek announced</a> automated Filecoin archiving and back up for all sites and storageon Fleek!</li>
+<li><a href="https://blogs.gnome.org/hughsie/2021/02/16/fwupd-1-5-6/">fwupd</a>, the Linux firmware update service used by Lenovo, Google, Acer, Dell and more, now supports IPFS!</li>
+<li><a href="https://blog.davidburela.com/2020/11/16/ipfs-on-risc-v/">Check out this work</a> to get IPFS running on RISC-V, an OSS ISA used to create open microprocessors.</li>
+<li>Wondering what are <a href="https://twitter.com/unstoppableweb/status/1363488491255037952">blockchain domains</a>, and how are they different from traditional .com domains?</li>
+</ul>
+
+<h2 id="around-the-ecosystem">Around the ecosystem 🌏</h2>
+
+<p>How to own <a href="https://medium.com/coinmonks/how-to-own-substrapunks-the-first-nfts-in-live-substrate-blockchain-polkadot-f6c14531f039">SubstraPunks</a>, the first NFTs in Live Substrate Blockchain from Polkadot.</p>
+
+<p><a href="https://polygontech.medium.com/the-graph-expands-to-layer-2-blockchains-and-brings-indexed-open-data-to-polygon-2bad0c5a3338">The Graph</a> expands to Layer 2 Blockchains and Brings Indexed Open Data to Polygon.</p>
+
+<p>Check out <a href="https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336">OBJKT Swap</a>, built with IPFS.</p>
+
+<p>Reminder that <a href="https://medium.com/the-ethereum-name-service/reminder-that-ens-names-are-nfts-what-this-means-for-your-names-b7bcbea8715e">ENS Names Are NFTs</a>: What This Means for Your Names.</p>
+
+<p><a href="https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514">Fleek</a> now makes deploying and maintaining an ENS+IPFS websites easier than ever!</p>
+
+<p><a href="https://twitter.com/unstoppableweb/status/1363608689643413505?s=20">Unstoppable Domains</a> is hosting an AMA on Clubhouse this Thursday to answer questions about blockchain domains, NFTs, and their recent Cloudflare announcement.</p>
+
+<p>From ETHDenver: <a href="https://tiles.mechanaut.xyz/">Tiles</a> is a document browser and explorer that gives incredible insight into all the real-time activity happening on the Ceramic Network.</p>
+
+<h2 id="join-us-for-the-next-ipfs-community-meetup">Join us for the next IPFS community meetup</h2>
+
+<p>Mark your calendars for March 23 now, and stay tuned for upcoming details on our featured speakers. Also, if you have an idea for a presentation or a lightning talk, now would be a great time to reach out!</p>
+
+<p><a href="https://www.meetup.com/San-Francisco-IPFS/events/276123396/">Register for details</a></p>
+
+<h2 id="job-hunting-work-on-ipfs">Job hunting? Work on IPFS!</h2>
+
+<p><a href="https://textile.breezy.hr/p/cad4ea4bf0c9-senior-integrations-engineer">Senior Integration Engineer</a>: You will be responsible for providing technical leadership and guidance to our users while they are integrating with libp2p, IPFS, Filecoin, and Textile. Textile, Remote.</p>
+
+<p><a href="https://boards.greenhouse.io/consensys/jobs/2507095">Technical Project Manager (Infura)</a>: Track active projects, remove roadblocks, and support the development team in identifying and keeping up-to-date all project requirements. Manage project, feature, technical debt, and bug backlogs working across teams in prioritizing work and planning out sprints. ConsenSys, Remote.</p>
+
+<p><a href="https://jobs.lever.co/3box/ec1093c5-ed31-483c-b1b3-49b07bd0bd2e">Ecosystem Developer</a>: We are looking for a technical community manager to help us create a world-class developer ecosystem and experience around our open source community. 3Box, Remote.</p>
+
+<p><a href="https://boards.greenhouse.io/consensys/jobs/2426803">Sr. Backend Engineer</a>: Have built systems at scale in the past and can discuss the architectural tradeoffs that went into them. Experience with data lakes, data warehousing, and OLAP technologies. Self-directed. We want you to own the systems you build. ConsenSys, Remote.</p>
+
+<p><strong>Next stop, Mars!</strong></p>
+
+<p>Get involved with IPFS by checking us out on <a href="https://github.com/ipfs">GitHub</a>, joining discussions on <a href="https://discuss.ipfs.io/">our community forum</a>, or hitting us up <a href="https://riot.im/app/#/room/#ipfs:matrix.org">in chat</a>. Have a suggestion? <a href="mailto:newsletter@ipfs.io">Email us</a>.</p>
+
+<p>Get the IPFS Weekly in your inbox, each Tuesday.
+<p><a href="https://ipfs.us4.list-manage.com/subscribe?u=25473244c7d18b897f5a1ff6b&amp;id=cad54b2230" class="button button-primary">Sign up now</a></p></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+mutation markStories($input: MarkStoriesInput!) {
+  markStories(input: $input) {
+    stories {
+      id
+    }
+
+    errors
+  }
+}

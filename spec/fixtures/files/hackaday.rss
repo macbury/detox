@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hackaday</title>
+	<atom:link href="https://hackaday.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hackaday.com</link>
+	<description>Fresh hacks every day</description>
+	<lastBuildDate>Mon, 07 Sep 2020 08:34:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">156670177</site>	<item>
+		<title>Accessibility Keyboard is Modular and Practical</title>
+		<link>https://hackaday.com/2020/09/07/accessibility-keyboard-is-modular-and-practical/</link>
+					<comments>https://hackaday.com/2020/09/07/accessibility-keyboard-is-modular-and-practical/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian McEvoy]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 17:00:00 +0000</pubDate>
+				<category><![CDATA[The Hackaday Prize]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[ESP32]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[M5Stick]]></category>
+		<category><![CDATA[M5stickC]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=430497</guid>
+
+					<description><![CDATA[<p>We don&#8217;t have many details from [dariocose] about his K-Ability Dev Kit yet, but there are enough clues on his HackadayPrize2020 entry that we can tease out the critical points. The plan is to supply a control module with Bluetooth HID capability to act as a mouse and keyboard. It  <a href="https://hackaday.com/2020/09/07/accessibility-keyboard-is-modular-and-practical/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>We don&#8217;t have many details from [dariocose] about his K-Ability Dev Kit yet, but there are enough clues on his HackadayPrize2020 entry that we can tease out the critical points. The plan is to supply a control module with Bluetooth HID capability to act as a mouse and keyboard. It will plug into a socket on user-specific boards. Each <a href="https://hackaday.io/project/172392-k-ability-dev-kit" target="_blank">style will be suited to a patient with a neuromuscular disease</a> and will allow them to interact with computers in a way that suits their needs. For example, if someone lacks fine motor control, they may need large buttons, while someone with weak muscles may need pads close to one another. From the video&#8217;s looks below, the prototype boards aren&#8217;t anything fancier than cardboard and wire. Developing the best device doesn&#8217;t mean a dozen iterative prints or wasted laser-cut acrylic sheets.</p>
+<p>Example code supports three mouse movements, left, right, and down, but there are plans to develop a tool to reprogram them. Given the name and prominent LCD, we suspect there will be keyboard support in the future. Processing and Bluetooth rest on the capable shoulders of an ESP32, which also supports touch sensing, so customized pads can respond to a wispy graze or a blunt fist.</p>
+<p>We&#8217;re not short on customized keyboards that range from <a href="https://hackaday.com/2020/05/28/bluetooth-takes-keyboard-from-diy-to-super-fly/">glorious elements of comfort</a> to <a href="https://hackaday.com/2020/05/23/more-terrible-keyboards-that-nonetheless-work/">befuddling tools of typing</a>.</p>
+<p><span id="more-430497"></span></p>
+<p><iframe class='youtube-player' width='800' height='480' src='https://www.youtube.com/embed/j62SxR3eXKQ?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+<div id="sidebar-mobile-1" class="widget_text widget widget_custom_html amr_widget"><div class="textwidget custom-html-widget"><div style="text-align: center; font-size: 24px; font-weight: 300; margin-top: 12px;">
+	The <a href="https://prize.supplyframe.com" target="_blank" rel="noopener noreferrer"><span
+			style="font-weight: bold;">Hackaday</span>Prize2020</a> is Sponsored by:
+</div>
+<div class="prize-footer-2020">
+	<a href="https://supplyframe.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-supplyframe.png?w=300"
+			alt="Supplyframe" style="width:auto; height:100%;" />
+	</a></div>
+<div class="prize-footer-2020">
+	<a href="https://www.digikey.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-digi-key.png?w=300"
+			alt="Digi-Key" style="width:auto; height:100%;" />
+	</a></div>
+<div class="prize-footer-2020">
+	<a href="https://www.microchip.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-microchip.png?w=300"
+			alt="Microchip" style="width:auto; height:100%;" />
+	</a></div>
+<div class="prize-footer-2020">
+	<a href="https://www.arm.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-arm.png?w=300"
+			alt="Arm" style="width:auto; height:100%;" />
+	</a></div>
+<div style="clear: both;"></div></div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/07/accessibility-keyboard-is-modular-and-practical/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">430497</post-id>	</item>
+		<item>
+		<title>Ultra-Mobile Little Robot Will Climb the Walls</title>
+		<link>https://hackaday.com/2020/09/07/ultra-mobile-little-robot-will-climb-the-walls/</link>
+					<comments>https://hackaday.com/2020/09/07/ultra-mobile-little-robot-will-climb-the-walls/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian McEvoy]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 15:00:00 +0000</pubDate>
+				<category><![CDATA[Robots Hacks]]></category>
+		<category><![CDATA[The Hackaday Prize]]></category>
+		<category><![CDATA[balancing robot]]></category>
+		<category><![CDATA[biped robot]]></category>
+		<category><![CDATA[climbing robot]]></category>
+		<category><![CDATA[drawing robot]]></category>
+		<category><![CDATA[robot]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=428590</guid>
+
+					<description><![CDATA[<p>Can it crawl? Can it climb? Can it roll? Can it skate? Can it draw? Naminukas by [Mykolas Juraitis] can do all of those things, and it is the size of a winter boot. Roving robots generally fall into one locomotion category, and the fanciest are amphibious. We categorize this  <a href="https://hackaday.com/2020/09/07/ultra-mobile-little-robot-will-climb-the-walls/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Can it crawl? Can it climb? Can it roll? Can it skate? Can it draw? <a href="https://hackaday.io/project/170788-naminukas" target="_blank">Naminukas</a> by [Mykolas Juraitis] can do all of those things, and it is the size of a winter boot. Roving robots generally fall into one locomotion category, and the fanciest are amphibious. We categorize this one as transforming between three modes.</p>
+<p>The first mode is like an inch-worm and a robot arm. Using a vacuum cup at the hub of each wheel, it sticks one end to the ground then heaves itself in the direction it wants to go and repeats. Its second form is a two-wheel balancing robot, which is the fastest configuration, and it can even carry things on its suckers. For the finale, it can hybridize all the tricks and use a camera dolly like a skateboard. One end sticks to the dolly, and the other is a propulsion wheel.</p>
+<p>Naminukas is not just about scooting around the floor, because it can use tools with enough dexterity to write legibly on a whiteboard, climb walls, and even move around the ceiling. If these become sentient, there will be no place to hide, except a room with shag carpet, and is that any way to live?</p>
+<p>We enjoy multi-terrain vehicles from <a href="https://hackaday.com/2018/09/09/cheap-rc-boat-turned-weirdly-capable-seaplane/">soaring seaplanes</a> to <a href="https://hackaday.com/2018/02/25/screw-drive-tank-is-radio-controlled-3d-printed/">tidal tanks</a>.</p>
+<p><span id="more-428590"></span></p>
+<p><iframe class='youtube-player' width='800' height='480' src='https://www.youtube.com/embed/4SFp7ZuhQvI?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+<div id="sidebar-mobile-1" class="widget_text widget widget_custom_html amr_widget"><div class="textwidget custom-html-widget"><div style="text-align: center; font-size: 24px; font-weight: 300; margin-top: 12px;">
+	The <a href="https://prize.supplyframe.com" target="_blank" rel="noopener noreferrer"><span
+			style="font-weight: bold;">Hackaday</span>Prize2020</a> is Sponsored by:
+</div>
+<div class="prize-footer-2020">
+	<a href="https://supplyframe.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-supplyframe.png?w=300"
+			alt="Supplyframe" style="width:auto; height:100%;" />
+	</a></div>
+<div class="prize-footer-2020">
+	<a href="https://www.digikey.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-digi-key.png?w=300"
+			alt="Digi-Key" style="width:auto; height:100%;" />
+	</a></div>
+<div class="prize-footer-2020">
+	<a href="https://www.microchip.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-microchip.png?w=300"
+			alt="Microchip" style="width:auto; height:100%;" />
+	</a></div>
+<div class="prize-footer-2020">
+	<a href="https://www.arm.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://hackaday.com/wp-content/uploads/2020/05/hackaday-prize2020-sponsors-arm.png?w=300"
+			alt="Arm" style="width:auto; height:100%;" />
+	</a></div>
+<div style="clear: both;"></div></div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/07/ultra-mobile-little-robot-will-climb-the-walls/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">428590</post-id>	</item>
+		<item>
+		<title>Cousteau&#8217;s Proteus Will Be the ISS of the Seas</title>
+		<link>https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/</link>
+					<comments>https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/#comments</comments>
+		
+		<dc:creator><![CDATA[Kristina Panos]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 14:01:57 +0000</pubDate>
+				<category><![CDATA[Interest]]></category>
+		<category><![CDATA[Misc Hacks]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Original Art]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Conshelf]]></category>
+		<category><![CDATA[Fabien Cousteau]]></category>
+		<category><![CDATA[international space station]]></category>
+		<category><![CDATA[Jacques Cousteau]]></category>
+		<category><![CDATA[ocean research]]></category>
+		<category><![CDATA[proteus]]></category>
+		<category><![CDATA[underwater]]></category>
+		<category><![CDATA[underwater habitat]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=428894</guid>
+
+					<description><![CDATA[<p>The Earth&#8217;s oceans are a vast frontier that brims with possibilities for the future of medicine, ocean conservation, and food production. They remain largely unexplored because of the physical limits of scuba diving. Humans can only dive for a few hours each day, and every minute spent breathing compressed air  <a href="https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>The Earth&#8217;s oceans are a vast frontier that brims with possibilities for the future of medicine, ocean conservation, and food production. They remain largely unexplored because of the physical limits of scuba diving. Humans can only dive for a few hours each day, and every minute spent breathing compressed air at depth must be paid for with a slower ascent to the surface. Otherwise, divers could develop decompression sickness from nitrogen expanding in the bloodstream.</p>
+<figure id="attachment_429664" aria-describedby="caption-attachment-429664" style="width: 400px" class="wp-caption alignright"><a href="https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png" target="_blank"><img data-attachment-id="429664" data-permalink="https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/conshelf3/" data-orig-file="https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png" data-orig-size="736,504" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Conshelf3" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png?w=736" loading="lazy" class="wp-image-429664 size-medium" src="https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png?w=400" alt="" width="400" height="274" srcset="https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png 736w, https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png?resize=250,171 250w, https://hackaday.com/wp-content/uploads/2020/08/Conshelf3.png?resize=400,274 400w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption id="caption-attachment-429664" class="wp-caption-text">An illustration of the Conshelf 3 habitat. Image via <a href="https://medium.com/predict/historical-underwater-habitat-showcase-continental-shelf-station-three-90830d2ff0be" target="_blank">Medium</a></figcaption></figure>
+<p>In the 1960s, world-famous oceanographer <a href="https://www.cousteau.org/legacy/technology/conshelf/" target="_blank" rel="noopener noreferrer" target="_blank">Jacques Cousteau built a series of small underwater habitats</a> to extend the time that he and other researchers were able to work. These sea labs were tethered to a support ship with a cable that provided air and power.</p>
+<p>Cousteau&#8217;s first sea lab, Conshelf 1 (Continental Shelf Station) held two people and was stationed 33 feet deep off the coast of Marseilles, France. Conshelf 2 sheltered six people and spent a total of six weeks under the Red Sea at two different depths.</p>
+<p>Conshelf 3 was Cousteau&#8217;s most ambitious habitat design, because it was nearly self-sufficient compared to the first two. It accommodated six divers for three weeks at a time and sat 336 feet deep off the coast of France, near Nice. Conshelf 3 was built in partnership with a French petrochemical company to study the viability of stationing humans for underwater oil drilling (before we had robots for that), and included a mock oil rig on the nearby ocean floor for exercises.</p>
+<p>Several underwater habitats have come and gone in the years since the Conshelf series, but each has been built for a specific research project or group of tasks. There&#8217;s never really been a permanent habitat established for general research into the biochemistry of the ocean.</p>
+<p><span id="more-428894"></span></p>
+<figure id="attachment_428979" aria-describedby="caption-attachment-428979" style="width: 800px" class="wp-caption aligncenter"><a href="https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png" target="_blank"><img data-attachment-id="428979" data-permalink="https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/proteus-with-sub/" data-orig-file="https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png" data-orig-size="1092,614" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Proteus-with-sub" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png?w=800" loading="lazy" class="wp-image-428979 size-large" src="https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png?w=800" alt="" width="800" height="450" srcset="https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png 1092w, https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2020/08/Proteus-with-sub.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption id="caption-attachment-428979" class="wp-caption-text">A render of Proteus. Image via <a href="https://www.cnet.com/news/proteus-is-an-underwater-research-lab-worthy-of-a-bond-villain/" target="_blank">CNET</a></figcaption></figure>
+<p><a href="https://www.cnet.com/news/proteus-is-an-underwater-research-lab-worthy-of-a-bond-villain/" target="_blank" rel="noopener noreferrer" target="_blank">Jacques Cousteau&#8217;s grandson Fabien believes the luxury lab&#8217;s time has come</a>. He&#8217;s in the process of raising $135 million USD to build and launch what would be one of the largest underwater habitats in existence. Cousteau and his partners are looking to build a marine version of the International Space Station &#8212; a long-term livable habitat that can support a dozen researchers for several weeks at a stretch. The new lab will be called Proteus after the shape-shifting Greek god who could see the future, but answered only to those who could capture him.</p>
+<figure id="attachment_429693" aria-describedby="caption-attachment-429693" style="width: 400px" class="wp-caption alignright"><a href="https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg" target="_blank"><img data-attachment-id="429693" data-permalink="https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/aquarius-reef-base/" data-orig-file="https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg" data-orig-size="900,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Aquarius-Reef-Base" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg?w=800" loading="lazy" class="wp-image-429693 size-medium" src="https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg?w=400" alt="" width="400" height="300" srcset="https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg 900w, https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg?resize=250,188 250w, https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg?resize=400,300 400w, https://hackaday.com/wp-content/uploads/2020/08/Aquarius-Reef-Base.jpg?resize=800,600 800w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption id="caption-attachment-429693" class="wp-caption-text">Swimming towards the moon pool of Aquarius Reef Base. Image via <a href="https://www.businessinsider.com/aquarius-reef-base-fiu-nasa-underwater-lab-2016-5" target="_blank">Business Insider</a></figcaption></figure>
+<p>The largest existing underwater habitat still in operation today is the Aquarius Reef Base, which was built in 1986 and is about the size of a school bus. Aquarius is parked 62 feet deep and roughly 5.5 miles off the coast of Key Largo, Florida, which makes it convenient for <a href="https://www.nasa.gov/mission_pages/NEEMO/about_neemo.html" target="_blank" rel="noopener noreferrer" target="_blank">NASA to use for preparing astronauts for the harsh environment and crushing isolation of space</a>.</p>
+<p>Several years ago, Fabien Cousteau and his crew of aquanauts spent 31 consecutive days on Aquarius and gathered a large amount of research that he estimated would have taken two years to collect with daily scuba dives.</p>
+<p>Cousteau&#8217;s lab will be roughly ten times the size of Aquarius at a roomy 4,000 square feet, and will comfortably house twelve people for many weeks at a time. Proteus will sit 60 feet deep off the coast of Curaçao, an island in the Caribbean. The site mapping is scheduled to be completed this fall, and opening is slated for 2023.</p>
+<p>This futuristic-looking lab is being designed by Yves Béhar&#8217;s industrial design company Fuseproject. The idea is to build a modular habitat with room to expand in the future. In addition to research labs, living quarters, and sleeping quarters, Proteus will have a video production room and a hydroponic greenhouse to determine whether food can be grown more quickly underwater. It will be powered by a combination of wind, solar, and ocean thermal, which will be delivered along with Internet access by an umbilical cord to the surface, presumably to a support ship.</p>
+<p>Proteus may look like the lair of an amphibious Bond villain, but it will only be used for good. <a href="https://www.forbes.com/sites/katiejennings/2020/07/22/fabien-cousteau-is-raising-135-million-to-build-the-international-space-station-of-the-deep-sea/#76c1d9021013" target="_blank" rel="noopener noreferrer" target="_blank">The estimated $3 million per year operating cost</a> will be offset by visiting researchers, universities, and corporations who will be allowed to rent Proteus to study anything they want except warfare. Watch Fabien Cousteau discuss his hopes for Proteus in the video below.</p>
+<p><iframe class='youtube-player' width='800' height='480' src='https://www.youtube.com/embed/bOgeCfRRXJE?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/07/cousteaus-proteus-will-be-the-iss-of-the-seas/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">428894</post-id>	</item>
+		<item>
+		<title>Codespaces for Embedded Development</title>
+		<link>https://hackaday.com/2020/09/07/codespaces-for-embedded-development/</link>
+					<comments>https://hackaday.com/2020/09/07/codespaces-for-embedded-development/#comments</comments>
+		
+		<dc:creator><![CDATA[Al Williams]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 11:00:22 +0000</pubDate>
+				<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[codespaces]]></category>
+		<category><![CDATA[container]]></category>
+		<category><![CDATA[docker]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[IoT]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=430267</guid>
+
+					<description><![CDATA[<p>We can sympathize with [Benjamin Cabé]. He has a lot of development boards and it has become painful to maintain the many toolchains for each board. We&#8217;ve also suffered from upgrading one tool breaks another tool in some obscure way. His solution? Use Github Codespaces which you can get early  <a href="https://hackaday.com/2020/09/07/codespaces-for-embedded-development/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>We can sympathize with [Benjamin Cabé]. He has a lot of development boards and it has become painful to maintain the many toolchains for each board. We&#8217;ve also suffered from upgrading one tool breaks another tool in some obscure way. His solution? Use <a href="https://www.youtube.com/watch?v=-enIM4x-KPA&amp;feature=emb_logo" target="_blank">Github Codespaces</a> which you can get early access for beta testers.</p>
+<p>The idea is that you can spin off a container-specific to a GitHub repository that has all the proper versions and dependencies required to work with a project.</p>
+<p>If you sign up for the beta, you&#8217;ll be on a waitlist, but it is interesting to see [Benjamin] go through the steps. The service is free during the beta and you get two codespaces. Presumably, you&#8217;ll eventually be able to pay for more capability.</p>
+<p>The idea is good, but we&#8217;ll have to see about the implementation. A preconfigured container might move from machine to machine or even to deep storage for later reconstitution. Flashing the binary image to the device looked painful from the browser. We&#8217;ve seen it done nicely with, for example, the online Arduino IDE but it did take some installable software helpers to do that.</p>
+<p>We&#8217;ll be curious about how many different platforms this will support. However, you can roll your own version of this and avoid the cloud using <a href="https://hackaday.com/2016/09/01/how-to-use-docker-to-cross-compile-for-raspberry-pi-and-more/">Docker</a> or even a full-blown VM like VirtualBox. Sure, it is more work, but you control your destiny. Add something like <a href="https://hackaday.com/2017/04/07/platformio-and-visual-studio-take-over-the-world/">Platform.IO</a> and your choice of development tools and you can avoid having so many competing development tools all in your main computer.</p>
+<p><span id="more-430267"></span></p>
+<p><iframe class='youtube-player' width='800' height='480' src='https://www.youtube.com/embed/-enIM4x-KPA?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/07/codespaces-for-embedded-development/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">430267</post-id>	</item>
+		<item>
+		<title>Miniature Faux Floppy for 8-Bit Atari Looks the Part</title>
+		<link>https://hackaday.com/2020/09/07/miniature-faux-floppy-for-8-bit-atari-looks-the-part/</link>
+					<comments>https://hackaday.com/2020/09/07/miniature-faux-floppy-for-8-bit-atari-looks-the-part/#comments</comments>
+		
+		<dc:creator><![CDATA[Tom Nardi]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[Microcontrollers]]></category>
+		<category><![CDATA[Retrocomputing]]></category>
+		<category><![CDATA[atari]]></category>
+		<category><![CDATA[atmega32u4]]></category>
+		<category><![CDATA[Disk drive]]></category>
+		<category><![CDATA[emulator]]></category>
+		<category><![CDATA[sd card]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=430542</guid>
+
+					<description><![CDATA[<p>There&#8217;s plenty of fun to be had with retrocomputers of yesteryear, but for modern users, it can be something of a culture shock. Going back to floppy disks after all these years is a reminder of just how far storage technology has come in terms of speed, reliability, and of  <a href="https://hackaday.com/2020/09/07/miniature-faux-floppy-for-8-bit-atari-looks-the-part/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>There&#8217;s plenty of fun to be had with retrocomputers of yesteryear, but for modern users, it can be something of a culture shock. Going back to floppy disks after all these years is a reminder of just how far storage technology has come in terms of speed, reliability, and of course, capacity. Luckily, there are ways to combine the best of both worlds.</p>
+<p>Floppy drive emulators for classic computers are of course nothing new, but we think <a href="https://github.com/c0pperdragon/SIO2SD" target="_blank">this one [c0pperdragon] has put together is worthy of a closer look</a>. Not only does the ATmega32U4 based emulator have an exceptionally low part count, but the code has been written in the Arduino IDE. Both features make it easy for new players to duplicate and revise the design should they feel so inclined. In a pinch you could even implement it on a breadboard with a garden variety Arduino.</p>
+<p><a href="https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg" target="_blank"><img data-attachment-id="430557" data-permalink="https://hackaday.com/2020/09/07/miniature-faux-floppy-for-8-bit-atari-looks-the-part/ataridrive_detail/" data-orig-file="https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg" data-orig-size="573,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ataridrive_detail" data-image-description="" data-medium-file="https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg?w=400" data-large-file="https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg?w=573" loading="lazy" class="alignright size-medium wp-image-430557" src="https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg?w=400" alt="" width="400" height="251" srcset="https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg 573w, https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg?resize=250,157 250w, https://hackaday.com/wp-content/uploads/2020/09/ataridrive_detail.jpg?resize=400,251 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>The emulator is housed in a 3D printed enclosure designed to look like an era-appropriate Atari 1050 Disk Drive, except you&#8217;re using SD cards instead of floppies. The firmware can mimic two physical drives and supports up to 100 disk images on each SD card. The user interface is about as simple as it gets, with two push buttons and a pair of seven-segment LEDs to indicate which disk image is currently loaded up.</p>
+<p>We&#8217;ve seen <a href="https://hackaday.com/2018/05/07/raspberry-pi-becomes-cycle-exact-commodore-drive-emulator/">some very elaborate disk emulators over the years</a>, but there&#8217;s something compelling about how straightforward this version is. If it helps a few more people experience the unique joys of retrocomputing, it&#8217;s a win in our book.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/07/miniature-faux-floppy-for-8-bit-atari-looks-the-part/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">430542</post-id>	</item>
+		<item>
+		<title>Watch Winder Keeps Your Timepieces Ticking</title>
+		<link>https://hackaday.com/2020/09/06/watch-winder-keeps-your-timepieces-ticking/</link>
+					<comments>https://hackaday.com/2020/09/06/watch-winder-keeps-your-timepieces-ticking/#comments</comments>
+		
+		<dc:creator><![CDATA[Lewin Day]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 05:00:14 +0000</pubDate>
+				<category><![CDATA[Misc Hacks]]></category>
+		<category><![CDATA[mechanical watch]]></category>
+		<category><![CDATA[timepiece]]></category>
+		<category><![CDATA[watch]]></category>
+		<category><![CDATA[watch winder]]></category>
+		<category><![CDATA[watches]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=430064</guid>
+
+					<description><![CDATA[<p>Mechanical watches are triumphs of engineering on a tiny scale. Capable of keeping time by capturing the energy of the user&#8217;s own movements, they never need batteries changed. Unfortunately, they quickly lose time when not worn for a few days. To solve that problem, [sblantipodi] built a smart watch winder. <a href="https://hackaday.com/2020/09/06/watch-winder-keeps-your-timepieces-ticking/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Mechanical watches are triumphs of engineering on a tiny scale. Capable of keeping time by capturing the energy of the user&#8217;s own movements, they never need batteries changed. Unfortunately, they quickly lose time when not worn for a few days. To solve that problem, [sblantipodi] <a href="https://github.com/sblantipodi/smart_watch_winder" target="_blank">built a smart watch winder</a>.</p>
+<p>The overall build consists of six individual winder units. Each one has an ESP8266EX D1 Mini microcontroller, hooked up to a 28BYJ48 stepper motor with a ULN2003 motor driver. There&#8217;s also an OLED screen for status information. When commanded, the stepper motor turns, rotating a watch case to wind the timepieces. Control is via voice command, thanks to a Google Home Mini and a Raspberry Pi running Home Assistant. Watches can be wound individually, or all together, depending on the command given.</p>
+<p>It&#8217;s a device that would serve any collector well, and could come in handy for watchmakers to wind customer watches waiting for pickup. Other similar builds have used special silent drives <a href="https://hackaday.com/2019/01/24/silent-stepper-drive-makes-a-nicer-watch-winder/">to ensure the device doesn&#8217;t disturb sleep when used on a bedside table.</a> Video after the break.</p>
+<p><span id="more-430064"></span></p>
+<p><iframe class='youtube-player' width='800' height='480' src='https://www.youtube.com/embed/4MUGdeRXrfY?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/06/watch-winder-keeps-your-timepieces-ticking/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">430064</post-id>	</item>
+		<item>
+		<title>DIY Relay Module Saves Time</title>
+		<link>https://hackaday.com/2020/09/06/diy-relay-module-saves-time/</link>
+					<comments>https://hackaday.com/2020/09/06/diy-relay-module-saves-time/#comments</comments>
+		
+		<dc:creator><![CDATA[Bryan Cockfield]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 02:00:15 +0000</pubDate>
+				<category><![CDATA[hardware]]></category>
+		<category><![CDATA[Parts]]></category>
+		<category><![CDATA[driver board]]></category>
+		<category><![CDATA[efficiency]]></category>
+		<category><![CDATA[improvements]]></category>
+		<category><![CDATA[pcb]]></category>
+		<category><![CDATA[relay]]></category>
+		<category><![CDATA[switch]]></category>
+		<guid isPermaLink="false">https://hackaday.com/?p=429874</guid>
+
+					<description><![CDATA[<p>As any programmer could tell you, there&#8217;s significant value in automating a process that is performed often enough. The more times that process is used, the more it makes sense to automate it or at least improve its efficiency. This rule isn&#8217;t limited to software though; improvements to hardware design  <a href="https://hackaday.com/2020/09/06/diy-relay-module-saves-time/" class="read_more">&#8230;read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>As any programmer could tell you, there&#8217;s significant value in automating a process that is performed often enough. The more times that process is used, the more it makes sense to automate it or at least improve its efficiency. This rule isn&#8217;t limited to software though; improvements to hardware design can also see improvements in efficiency as well. For that reason, [Hulk] designed <a href="https://hackaday.io/project/174550-diy-relay-module" target="_blank">a simple relay module in order to cut the amount of time he spends implementing this solution</a> in his various other projects.</p>
+<p>While driving a relay with a transistor is something fundamental, this project isn&#8217;t really about that <em>per se</em>. It&#8217;s about recognizing something that you do too much, and then designing that drudgery out of your projects. [Hulk] was able to design a PCB with 12 modules on it, presumably saving fabrication costs. He can then easily populate them with specific components as soon as he needs one. Another benefit of designing something like this yourself, rather than an off-the-shelf relay module, is that you can do away with any useless features you&#8217;ll never need (or add ones that aren&#8217;t available in commercial devices).</p>
+<p>We can appreciate the <a href="https://xkcd.com/1205/" target="_blank">efficiency gains</a> this would make for our next project that needs a simple driver for a light, garage door opener, or any other binary electronic device. It can be a hassle to go find the correct transistor and relay, solder it all on the project board, and hope it all works. A pre-made solution solves all these issues, but we do wish the schematics were available to keep us from having to design our own. <a href="https://hackaday.com/2013/03/05/24v-relay-driver-circuit/">Driver boards are a pretty common project for all the different types of relays</a> we see around here, so there is probably one available out there.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hackaday.com/2020/09/06/diy-relay-module-saves-time/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">429874</post-id>	</item>
+	</channel>
+</rss>

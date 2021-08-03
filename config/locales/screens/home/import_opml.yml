@@ -1,0 +1,9 @@
+en:
+  screens:
+    home:
+      import_opml:
+        title: Importing OPML
+        progress: Imported {{left}} from {{total}}
+        finished:
+          button: 'Go back'
+          message: 'Importing feeds from opml finished'

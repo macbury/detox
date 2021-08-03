@@ -1,0 +1,8 @@
+mutation snooze($input: SnoozeInput!) {
+  snooze(input: $input) {
+    story {
+      id
+    }
+    errors
+  }
+}

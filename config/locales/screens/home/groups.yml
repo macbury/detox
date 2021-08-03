@@ -1,0 +1,6 @@
+en:
+  screens:
+    home:
+      groups:
+        title: Manage your groups
+        empty: 'Add groups to see them here'

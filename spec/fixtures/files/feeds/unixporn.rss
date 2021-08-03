@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	<category term="unixporn" label="r/unixporn"/>
+	<updated>2021-04-07T19:14:34+00:00</updated>
+	<icon>https://www.redditstatic.com/icon.png/</icon>
+	<id>/r/unixporn/.rss</id>
+	<link rel="self" href="https://www.reddit.com/r/unixporn/.rss" type="application/atom+xml" />
+	<link rel="alternate" href="https://www.reddit.com/r/unixporn/" type="text/html" />
+	<subtitle>Submit screenshots of all your *NIX desktops, themes, and nifty configurations, or submit anything else that will make ricers happy. Maybe a server running on an Amiga, or a thinkpad signed by Bjarne Stroustrup? Show the world how sexy your computer can be!</subtitle>
+	<title>r/unixporn - the home for *NIX customization!</title>
+	<entry>
+		<author>
+			<name>/u/AutoModerator</name>
+			<uri>https://www.reddit.com/user/AutoModerator</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is a thread to get answers for all your questions, no matter how stupid you think it may be. Feel free to share your default setups here too, someone might have some pointers for what to do next. In short you can make any on topic comment, in any format you like, and using any host. We hope this gives new users a chance to get some help with any problems they&amp;#39;re having and older users a chance to show off their knowledge by helping those in need.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AutoModerator&quot;&gt; /u/AutoModerator &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/m84ejf/weekly_workshop_20210319/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/m84ejf/weekly_workshop_20210319/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_m84ejf</id>
+		<link href="https://www.reddit.com/r/unixporn/comments/m84ejf/weekly_workshop_20210319/" />
+		<updated>2021-03-19T00:00:14+00:00</updated>
+		<published>2021-03-19T00:00:14+00:00</published>
+		<title>| Weekly Workshop 2021-03-19</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Minteck</name>
+			<uri>https://www.reddit.com/user/Minteck</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlz9pt/tty_nintendo_3ds/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/l3jhu99qcqr61.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9be3fcb436130d96a7efd739ecc8a3ab4c309f0e&quot; alt=&quot;[tty] Nintendo 3DS&quot; title=&quot;[tty] Nintendo 3DS&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Minteck&quot;&gt; /u/Minteck &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/l3jhu99qcqr61.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlz9pt/tty_nintendo_3ds/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlz9pt</id>
+		<media:thumbnail url="https://preview.redd.it/l3jhu99qcqr61.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9be3fcb436130d96a7efd739ecc8a3ab4c309f0e" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlz9pt/tty_nintendo_3ds/" />
+		<updated>2021-04-07T10:40:13+00:00</updated>
+		<published>2021-04-07T10:40:13+00:00</published>
+		<title>[tty] Nintendo 3DS</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Lanhild</name>
+			<uri>https://www.reddit.com/user/Lanhild</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlrtvh/gnome_some_will_hate_some_will_love/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/u8vj0s34qnr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3295a539b84e47818dfb9461821cf2303d7fcc52&quot; alt=&quot;[gnome] Some will hate, some will love...&quot; title=&quot;[gnome] Some will hate, some will love...&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Lanhild&quot;&gt; /u/Lanhild &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/u8vj0s34qnr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlrtvh/gnome_some_will_hate_some_will_love/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlrtvh</id>
+		<media:thumbnail url="https://preview.redd.it/u8vj0s34qnr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3295a539b84e47818dfb9461821cf2303d7fcc52" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlrtvh/gnome_some_will_hate_some_will_love/" />
+		<updated>2021-04-07T02:10:12+00:00</updated>
+		<published>2021-04-07T02:10:12+00:00</published>
+		<title>[gnome] Some will hate, some will love...</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/lkashl</name>
+			<uri>https://www.reddit.com/user/lkashl</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm44jb/oc_i_made_a_terminal_utility_to_monitor_some/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/dnmzkh4wnrr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=081452cec33dd9c0adbdcaa03044cf5d1979a768&quot; alt=&quot;[OC] I made a terminal utility to monitor some system stats and the kind people over at r/linux recommended I also post it here&quot; title=&quot;[OC] I made a terminal utility to monitor some system stats and the kind people over at r/linux recommended I also post it here&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/lkashl&quot;&gt; /u/lkashl &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/dnmzkh4wnrr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm44jb/oc_i_made_a_terminal_utility_to_monitor_some/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mm44jb</id>
+		<media:thumbnail url="https://preview.redd.it/dnmzkh4wnrr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=081452cec33dd9c0adbdcaa03044cf5d1979a768" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mm44jb/oc_i_made_a_terminal_utility_to_monitor_some/" />
+		<updated>2021-04-07T15:05:02+00:00</updated>
+		<published>2021-04-07T15:05:02+00:00</published>
+		<title>[OC] I made a terminal utility to monitor some system stats and the kind people over at r/linux recommended I also post it here</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Dadrophenia</name>
+			<uri>https://www.reddit.com/user/Dadrophenia</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm51yg/cwm_nausicaä_nord_on_openbsd/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/defi4u09vrr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e759cee1f70e47d94fe45204341e78963c08beda&quot; alt=&quot;[cwm] Nausicaä Nord on OpenBSD&quot; title=&quot;[cwm] Nausicaä Nord on OpenBSD&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dadrophenia&quot;&gt; /u/Dadrophenia &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/defi4u09vrr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm51yg/cwm_nausicaä_nord_on_openbsd/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mm51yg</id>
+		<media:thumbnail url="https://preview.redd.it/defi4u09vrr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e759cee1f70e47d94fe45204341e78963c08beda" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mm51yg/cwm_nausicaä_nord_on_openbsd/" />
+		<updated>2021-04-07T15:47:22+00:00</updated>
+		<published>2021-04-07T15:47:22+00:00</published>
+		<title>[cwm] Nausicaä Nord on OpenBSD</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/s0la90</name>
+			<uri>https://www.reddit.com/user/s0la90</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mli26x/gnome2_a_rice_from_12_years_ago_ahh_the_good_old/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qbo105qfhlr61.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3024d3a9430b7dbaa2d1e2fd140d8c04bfb808ba&quot; alt=&quot;[Gnome2] A rice from 12 years ago.. Ahh, the good old days :D&quot; title=&quot;[Gnome2] A rice from 12 years ago.. Ahh, the good old days :D&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/s0la90&quot;&gt; /u/s0la90 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/qbo105qfhlr61.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mli26x/gnome2_a_rice_from_12_years_ago_ahh_the_good_old/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mli26x</id>
+		<media:thumbnail url="https://preview.redd.it/qbo105qfhlr61.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3024d3a9430b7dbaa2d1e2fd140d8c04bfb808ba" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mli26x/gnome2_a_rice_from_12_years_ago_ahh_the_good_old/" />
+		<updated>2021-04-06T18:17:53+00:00</updated>
+		<published>2021-04-06T18:17:53+00:00</published>
+		<title>[Gnome2] A rice from 12 years ago.. Ahh, the good old days :D</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/giors83</name>
+			<uri>https://www.reddit.com/user/giors83</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm0odm/i3my_first_rice/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mnf27ae4tqr61.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d20bac928cee82bd9e33c2b08a749d53975730ed&quot; alt=&quot;[i3]my first rice&quot; title=&quot;[i3]my first rice&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/giors83&quot;&gt; /u/giors83 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/mnf27ae4tqr61.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm0odm/i3my_first_rice/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mm0odm</id>
+		<media:thumbnail url="https://preview.redd.it/mnf27ae4tqr61.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d20bac928cee82bd9e33c2b08a749d53975730ed" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mm0odm/i3my_first_rice/" />
+		<updated>2021-04-07T12:12:28+00:00</updated>
+		<published>2021-04-07T12:12:28+00:00</published>
+		<title>[i3]my first rice</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Lorago123</name>
+			<uri>https://www.reddit.com/user/Lorago123</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlme7n/awesome_trying_out_awesome_for_the_first_time/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ggwic4hdgmr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=30f91cc8f983f931efaadead3542f9d10d6709ae&quot; alt=&quot;[awesome] trying out awesome for the first time&quot; title=&quot;[awesome] trying out awesome for the first time&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Lorago123&quot;&gt; /u/Lorago123 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/ggwic4hdgmr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlme7n/awesome_trying_out_awesome_for_the_first_time/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlme7n</id>
+		<media:thumbnail url="https://preview.redd.it/ggwic4hdgmr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30f91cc8f983f931efaadead3542f9d10d6709ae" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlme7n/awesome_trying_out_awesome_for_the_first_time/" />
+		<updated>2021-04-06T21:36:52+00:00</updated>
+		<published>2021-04-06T21:36:52+00:00</published>
+		<title>[awesome] trying out awesome for the first time</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Corvance</name>
+			<uri>https://www.reddit.com/user/Corvance</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mla7h5/awesome_lowspec_first_rice/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/yhc6m6y1ojr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3776c23dbc55a1e2126af3241275740abc4c1bba&quot; alt=&quot;[Awesome] Low-Spec First Rice&quot; title=&quot;[Awesome] Low-Spec First Rice&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Corvance&quot;&gt; /u/Corvance &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/yhc6m6y1ojr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mla7h5/awesome_lowspec_first_rice/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mla7h5</id>
+		<media:thumbnail url="https://preview.redd.it/yhc6m6y1ojr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3776c23dbc55a1e2126af3241275740abc4c1bba" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mla7h5/awesome_lowspec_first_rice/" />
+		<updated>2021-04-06T12:12:08+00:00</updated>
+		<published>2021-04-06T12:12:08+00:00</published>
+		<title>[Awesome] Low-Spec First Rice</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Redditor1259</name>
+			<uri>https://www.reddit.com/user/Redditor1259</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlxg5a/gnome2_rise_from_2013/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yPBI01HBMsJf-VsRVjQjljF1TlDo-C6FuhAxm20Dhdg.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dca32318cb9f0b56e943f645938c02fba618a80b&quot; alt=&quot;[gnome2] rise from 2013&quot; title=&quot;[gnome2] rise from 2013&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Redditor1259&quot;&gt; /u/Redditor1259 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.imgur.com/99Vfpq8.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlxg5a/gnome2_rise_from_2013/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlxg5a</id>
+		<media:thumbnail url="https://external-preview.redd.it/yPBI01HBMsJf-VsRVjQjljF1TlDo-C6FuhAxm20Dhdg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dca32318cb9f0b56e943f645938c02fba618a80b" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlxg5a/gnome2_rise_from_2013/" />
+		<updated>2021-04-07T08:18:40+00:00</updated>
+		<published>2021-04-07T08:18:40+00:00</published>
+		<title>[gnome2] rise from 2013</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/RedditAlready19</name>
+			<uri>https://www.reddit.com/user/RedditAlready19</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm2bnv/kde_running_kde_with_a_tiling_window_manager/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fz7p4tyw8rr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=952378b05f108f30fab8ebb17a2ab749229498e4&quot; alt=&quot;[KDE] Running KDE with a tiling window manager!&quot; title=&quot;[KDE] Running KDE with a tiling window manager!&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/RedditAlready19&quot;&gt; /u/RedditAlready19 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/fz7p4tyw8rr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm2bnv/kde_running_kde_with_a_tiling_window_manager/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mm2bnv</id>
+		<media:thumbnail url="https://preview.redd.it/fz7p4tyw8rr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=952378b05f108f30fab8ebb17a2ab749229498e4" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mm2bnv/kde_running_kde_with_a_tiling_window_manager/" />
+		<updated>2021-04-07T13:40:55+00:00</updated>
+		<published>2021-04-07T13:40:55+00:00</published>
+		<title>[KDE] Running KDE with a tiling window manager!</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Tek_Ninja_Kevin</name>
+			<uri>https://www.reddit.com/user/Tek_Ninja_Kevin</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mls3yf/i3_gapsi_like_purple_and_dos/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/g8plblsawnr61.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2e97b1aeb21b769c4a347b2288bf528ae29ae13e&quot; alt=&quot;[i3 Gaps]I like Purple and Dos&quot; title=&quot;[i3 Gaps]I like Purple and Dos&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Tek_Ninja_Kevin&quot;&gt; /u/Tek_Ninja_Kevin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/g8plblsawnr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mls3yf/i3_gapsi_like_purple_and_dos/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mls3yf</id>
+		<media:thumbnail url="https://preview.redd.it/g8plblsawnr61.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2e97b1aeb21b769c4a347b2288bf528ae29ae13e" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mls3yf/i3_gapsi_like_purple_and_dos/" />
+		<updated>2021-04-07T02:25:42+00:00</updated>
+		<published>2021-04-07T02:25:42+00:00</published>
+		<title>[i3 Gaps]I like Purple and Dos</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/CuriousDelay</name>
+			<uri>https://www.reddit.com/user/CuriousDelay</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm91yh/bspwm_first_ever_rice_credits_and_info_in_the/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/2uwphwx1ssr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1cdb3391054c7c8921392982dbe67f8e6a2630d0&quot; alt=&quot;[bspwm] first ever rice! credits and info in the comments&quot; title=&quot;[bspwm] first ever rice! credits and info in the comments&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/CuriousDelay&quot;&gt; /u/CuriousDelay &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/2uwphwx1ssr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm91yh/bspwm_first_ever_rice_credits_and_info_in_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mm91yh</id>
+		<media:thumbnail url="https://preview.redd.it/2uwphwx1ssr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cdb3391054c7c8921392982dbe67f8e6a2630d0" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mm91yh/bspwm_first_ever_rice_credits_and_info_in_the/" />
+		<updated>2021-04-07T18:50:33+00:00</updated>
+		<published>2021-04-07T18:50:33+00:00</published>
+		<title>[bspwm] first ever rice! credits and info in the comments</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/FilthyPlay</name>
+			<uri>https://www.reddit.com/user/FilthyPlay</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm7lbp/plasma_simple_clean/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/csisnriknfr41.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d9bc6b380b056ea01d3986b848b897c8ddba0a47&quot; alt=&quot;[Plasma] Simple. Clean.&quot; title=&quot;[Plasma] Simple. Clean.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/FilthyPlay&quot;&gt; /u/FilthyPlay &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/csisnriknfr41.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mm7lbp/plasma_simple_clean/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mm7lbp</id>
+		<media:thumbnail url="https://preview.redd.it/csisnriknfr41.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9bc6b380b056ea01d3986b848b897c8ddba0a47" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mm7lbp/plasma_simple_clean/" />
+		<updated>2021-04-07T17:43:51+00:00</updated>
+		<published>2021-04-07T17:43:51+00:00</published>
+		<title>[Plasma] Simple. Clean.</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/AERegeneratel38</name>
+			<uri>https://www.reddit.com/user/AERegeneratel38</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlfzio/jdekde_first_rice_using_jingos_beta_darker_than/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/s18ebp7gykr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8f2dfdb988e8c4cc957fa32bb7865a282aec2a14&quot; alt=&quot;[JDE/KDE] First Rice using JingOS beta, Darker than Black&quot; title=&quot;[JDE/KDE] First Rice using JingOS beta, Darker than Black&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/AERegeneratel38&quot;&gt; /u/AERegeneratel38 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/s18ebp7gykr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlfzio/jdekde_first_rice_using_jingos_beta_darker_than/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlfzio</id>
+		<media:thumbnail url="https://preview.redd.it/s18ebp7gykr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f2dfdb988e8c4cc957fa32bb7865a282aec2a14" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlfzio/jdekde_first_rice_using_jingos_beta_darker_than/" />
+		<updated>2021-04-06T16:44:58+00:00</updated>
+		<published>2021-04-06T16:44:58+00:00</published>
+		<title>[JDE/KDE] First Rice using JingOS beta, Darker than Black</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Curious_Perspective8</name>
+			<uri>https://www.reddit.com/user/Curious_Perspective8</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml522l/gnome_trying_to_get_the_look_of_mac/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/n2nfjc9jvhr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=adbc5f924d9782879eff45286aed4a9833451337&quot; alt=&quot;[gnome] Trying to get the look of Mac&quot; title=&quot;[gnome] Trying to get the look of Mac&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Curious_Perspective8&quot;&gt; /u/Curious_Perspective8 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/n2nfjc9jvhr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml522l/gnome_trying_to_get_the_look_of_mac/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_ml522l</id>
+		<media:thumbnail url="https://preview.redd.it/n2nfjc9jvhr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=adbc5f924d9782879eff45286aed4a9833451337" />
+		<link href="https://www.reddit.com/r/unixporn/comments/ml522l/gnome_trying_to_get_the_look_of_mac/" />
+		<updated>2021-04-06T06:10:34+00:00</updated>
+		<published>2021-04-06T06:10:34+00:00</published>
+		<title>[gnome] Trying to get the look of Mac</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/siduck76</name>
+			<uri>https://www.reddit.com/user/siduck76</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mkra3w/bspwm_living_inside_neovim/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/uougfhfgcer61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=af58a1614c98bb92532182f69efec18604a39bdc&quot; alt=&quot;[BSPWM] Living inside Neovim&quot; title=&quot;[BSPWM] Living inside Neovim&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/siduck76&quot;&gt; /u/siduck76 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/uougfhfgcer61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mkra3w/bspwm_living_inside_neovim/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mkra3w</id>
+		<media:thumbnail url="https://preview.redd.it/uougfhfgcer61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=af58a1614c98bb92532182f69efec18604a39bdc" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mkra3w/bspwm_living_inside_neovim/" />
+		<updated>2021-04-05T18:24:07+00:00</updated>
+		<published>2021-04-05T18:24:07+00:00</published>
+		<title>[BSPWM] Living inside Neovim</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/sehnsuchtbsd</name>
+			<uri>https://www.reddit.com/user/sehnsuchtbsd</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml6w31/fvwm_suppers_ready/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hfvpqurfiir61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=14854f688250f0345f09271606119f4f8e1d0116&quot; alt=&quot;[FVWM] Supper's Ready&quot; title=&quot;[FVWM] Supper's Ready&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/sehnsuchtbsd&quot;&gt; /u/sehnsuchtbsd &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/hfvpqurfiir61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml6w31/fvwm_suppers_ready/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_ml6w31</id>
+		<media:thumbnail url="https://preview.redd.it/hfvpqurfiir61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=14854f688250f0345f09271606119f4f8e1d0116" />
+		<link href="https://www.reddit.com/r/unixporn/comments/ml6w31/fvwm_suppers_ready/" />
+		<updated>2021-04-06T08:21:57+00:00</updated>
+		<published>2021-04-06T08:21:57+00:00</published>
+		<title>[FVWM] Supper's Ready</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Nearphuture</name>
+			<uri>https://www.reddit.com/user/Nearphuture</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlafvg/ratpoison_keyboard_driven_window_manager_i_use/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/wdrkxecjqjr61.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d041213b274a28aff9a557a76c20e996d57c461f&quot; alt=&quot;[RATPOISON] keyboard driven window manager I use everywhere 😇&quot; title=&quot;[RATPOISON] keyboard driven window manager I use everywhere 😇&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Nearphuture&quot;&gt; /u/Nearphuture &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/wdrkxecjqjr61.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlafvg/ratpoison_keyboard_driven_window_manager_i_use/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlafvg</id>
+		<media:thumbnail url="https://preview.redd.it/wdrkxecjqjr61.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d041213b274a28aff9a557a76c20e996d57c461f" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlafvg/ratpoison_keyboard_driven_window_manager_i_use/" />
+		<updated>2021-04-06T12:25:15+00:00</updated>
+		<published>2021-04-06T12:25:15+00:00</published>
+		<title>[RATPOISON] keyboard driven window manager I use everywhere 😇</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Mountain_Ambition_11</name>
+			<uri>https://www.reddit.com/user/Mountain_Ambition_11</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml16c5/dwm_spaceduck_is_cool/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/r37z8rf1qgr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2065b98ef98925d1235377e238019ac4a5a67e9b&quot; alt=&quot;[DWM] Spaceduck is cool&quot; title=&quot;[DWM] Spaceduck is cool&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Mountain_Ambition_11&quot;&gt; /u/Mountain_Ambition_11 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/r37z8rf1qgr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml16c5/dwm_spaceduck_is_cool/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_ml16c5</id>
+		<media:thumbnail url="https://preview.redd.it/r37z8rf1qgr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2065b98ef98925d1235377e238019ac4a5a67e9b" />
+		<link href="https://www.reddit.com/r/unixporn/comments/ml16c5/dwm_spaceduck_is_cool/" />
+		<updated>2021-04-06T02:17:57+00:00</updated>
+		<published>2021-04-06T02:17:57+00:00</published>
+		<title>[DWM] Spaceduck is cool</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Specific-Principle94</name>
+			<uri>https://www.reddit.com/user/Specific-Principle94</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlbjs1/bspwm_archhardened_in_security_and_looks/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/f56yweml0kr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0a83b958cf8345546f7c4a5f75d5917b6a598d70&quot; alt=&quot;[BSPWM] arch-hardened, in security and looks&quot; title=&quot;[BSPWM] arch-hardened, in security and looks&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Specific-Principle94&quot;&gt; /u/Specific-Principle94 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/f56yweml0kr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlbjs1/bspwm_archhardened_in_security_and_looks/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlbjs1</id>
+		<media:thumbnail url="https://preview.redd.it/f56yweml0kr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a83b958cf8345546f7c4a5f75d5917b6a598d70" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlbjs1/bspwm_archhardened_in_security_and_looks/" />
+		<updated>2021-04-06T13:22:57+00:00</updated>
+		<published>2021-04-06T13:22:57+00:00</published>
+		<title>[BSPWM] arch-hardened, in security and looks</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/deijjji303</name>
+			<uri>https://www.reddit.com/user/deijjji303</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlcyuz/guide_i_guess_minimalistic_i3lock/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/A4RCK9Bvq9LR9YRXe92IeNAVtyJjjZWxK-9XDDtcM0w.jpg?width=108&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7f634a4b3045e922c88dfba5697ff42e0cfa9f32&quot; alt=&quot;| [Guide i guess] Minimalistic i3lock&quot; title=&quot;| [Guide i guess] Minimalistic i3lock&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Okay I don&amp;#39;t know if this is something for discussion or material, but anyways I&amp;#39;m gonna explain how you can really simply achieve this i3lock look:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/znr221lc3kr61.png?width=1280&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b635f05c116824ef14b5309cf2bafb212988f3c9&quot;&gt;customized i3lock&lt;/a&gt;&lt;/p&gt; &lt;p&gt;First off:&lt;/p&gt; &lt;p&gt;- all text outputs are hidden (things like invalid or verifying...)&lt;/p&gt; &lt;p&gt;- deletion is still visible (the arc is orange then)&lt;/p&gt; &lt;p&gt;- color can be changed (you could do that before too but if you don&amp;#39;t have a lot of experience with source code than this might make it easier to find those things in the code)&lt;/p&gt; &lt;p&gt;Steps:&lt;/p&gt; &lt;p&gt;- clone the i3lock repo&lt;/p&gt; &lt;p&gt;&lt;code&gt;git clone&lt;/code&gt; &lt;a href=&quot;https://github.com/i3/i3lock&quot;&gt;&lt;code&gt;https://github.com/i3/i3lock&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;- try to build as described in the readme:&lt;/p&gt; &lt;p&gt;&lt;code&gt;autoreconf --force --install rm -rf build/ mkdir -p build &amp;amp;&amp;amp; cd build/&lt;/code&gt; &lt;/p&gt; &lt;p&gt;&lt;code&gt;../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;make&lt;/code&gt;&lt;/p&gt; &lt;p&gt;- if that worked then you&amp;#39;re good to go to the next few steps. Otherwise try troubleshooting with Google and Stackoverflow&lt;/p&gt; &lt;p&gt;- open the file unlock_indicator.c in your favorite editor:&lt;/p&gt; &lt;p&gt;&lt;code&gt;vim unlock_indicator.c&lt;/code&gt;&lt;/p&gt; &lt;p&gt;(your current directory should by now be ~/i3lock/ or wherever you cloned the repo)&lt;/p&gt; &lt;p&gt;- add an #if 0 in line 138 (there should begin an if statement and what you want to achieve is that everything after the head of that if statement should be &amp;quot;commented out&amp;quot; by the #if 0)&lt;/p&gt; &lt;p&gt;- add #endif in line 268 (the next few lines should be a comment and then there should be another if statement)&lt;/p&gt; &lt;p&gt;Now you can save the file, make it (this time you just need to type &amp;quot;make&amp;quot;) and run it by typing &amp;quot;./i3lock&amp;quot; (the ./ is important because otherwise it would use the i3lock executable from the /bin directory if you had i3lock already installed)&lt;/p&gt; &lt;p&gt;You should see a result similar to what I got except for two things:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;The background is just white&lt;/li&gt; &lt;li&gt;There are still weird black dots or something like that at the end of the arc (those are the separators between the full circle and the arc)&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;The first one is something you can do with the -i argument and there&amp;#39;s a few guides out there that describe how to write a simple &amp;quot;blurlock&amp;quot; script. My i3 config already has a shortcut for that but it doesn&amp;#39;t work always so I rewrote that:&lt;/p&gt; &lt;p&gt;&lt;code&gt;#!/bin/bash&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;rm ~/.blurlock.png&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;scrot ~/.blurlock.png&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;convert ~/.blurlock.png -blur 0x8 ~/.blurlock.png&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;i3lock -i ~/.blurlock.png&lt;/code&gt;&lt;/p&gt; &lt;p&gt;Saved it as ~/blurlock.sh and used shc to compile it into a binary which I then saved as /bin/blurlock. (note: this runs the i3lock binary which is stored at /bin/i3lock but I&amp;#39;ll go over how to put the compiled binary in there in a few steps)&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;The other thing with the weird black seperator dots is also simple to remove:&lt;/p&gt; &lt;p&gt;- open unlock_indicator.c again&lt;/p&gt; &lt;p&gt;- go to line 290&lt;/p&gt; &lt;p&gt;- here are now three instructions:&lt;/p&gt; &lt;p&gt;&lt;code&gt;cairo_set_source_rgb...&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;cairo_arc...&lt;/code&gt;&lt;/p&gt; &lt;p&gt;&lt;code&gt;cairo_stroke...&lt;/code&gt;&lt;/p&gt; &lt;p&gt;Comment them out by using #if 0 and #endif (btw. I&amp;#39;m using those preprocessor statements because in the sourcecode there are a lot of inline comments so you can of course use double slashes but depending on what editor you are using and how many lines you need to comment out it might just be easier to use #if 0 and #endif)&lt;/p&gt; &lt;p&gt;If you now recompile those black separators should be gone.&lt;/p&gt; &lt;p&gt;To move the binary into /bin:&lt;/p&gt; &lt;p&gt;- I prefer to save the old one so first rename the old i3lock to something like i3lockold:&lt;/p&gt; &lt;p&gt;&lt;code&gt;sudo mv /bin/i3lock /bin/i3lockold&lt;/code&gt;&lt;/p&gt; &lt;p&gt;- When still developing I like just linking the binary so create a symlink:&lt;/p&gt; &lt;p&gt;&lt;code&gt;cd /bin; sudo ln -s ~/i3lock/build/i3lock&lt;/code&gt;&lt;/p&gt; &lt;p&gt;Now it should execute your own i3lock and not the previously installed one. (which means the bash script with the blurred background should also work now)&lt;/p&gt; &lt;p&gt;Also if you want to change colors of the arc play around with the cairo_set_source_rgb statements in line 284 and line 287.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;I hope this was helpful and btw. I think this was the first time that I changed something in the actual source code that my system uses and it was pretty rewarding so you too should try it some time if you don&amp;#39;t do that already all the time.&lt;/p&gt; &lt;p&gt;I&amp;#39;m planning now on expanding the blurlock script so it adds a lock icon in the middle and I think that&amp;#39;ll turn out pretty fresh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/deijjji303&quot;&gt; /u/deijjji303 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlcyuz/guide_i_guess_minimalistic_i3lock/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mlcyuz/guide_i_guess_minimalistic_i3lock/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mlcyuz</id>
+		<media:thumbnail url="https://external-preview.redd.it/A4RCK9Bvq9LR9YRXe92IeNAVtyJjjZWxK-9XDDtcM0w.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=7f634a4b3045e922c88dfba5697ff42e0cfa9f32" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mlcyuz/guide_i_guess_minimalistic_i3lock/" />
+		<updated>2021-04-06T14:30:38+00:00</updated>
+		<published>2021-04-06T14:30:38+00:00</published>
+		<title>| [Guide i guess] Minimalistic i3lock</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/MistaOmega</name>
+			<uri>https://www.reddit.com/user/MistaOmega</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml0wjx/kde5_my_first_attempt_at_making_a_cute_desktop/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/rs5raaamngr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=acb2e1ed1dcc81ee319d43a1efe8337f70ef5870&quot; alt=&quot;[KDE5] My first attempt at making a cute desktop&quot; title=&quot;[KDE5] My first attempt at making a cute desktop&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/MistaOmega&quot;&gt; /u/MistaOmega &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/rs5raaamngr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/ml0wjx/kde5_my_first_attempt_at_making_a_cute_desktop/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_ml0wjx</id>
+		<media:thumbnail url="https://preview.redd.it/rs5raaamngr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=acb2e1ed1dcc81ee319d43a1efe8337f70ef5870" />
+		<link href="https://www.reddit.com/r/unixporn/comments/ml0wjx/kde5_my_first_attempt_at_making_a_cute_desktop/" />
+		<updated>2021-04-06T02:03:39+00:00</updated>
+		<published>2021-04-06T02:03:39+00:00</published>
+		<title>[KDE5] My first attempt at making a cute desktop</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Synesthesianism</name>
+			<uri>https://www.reddit.com/user/Synesthesianism</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mkpl9n/freebsdkde5/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5qauvy220er61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=16701559348e1e7be773bc5c8decc05801762538&quot; alt=&quot;FreeBSD[KDE5]&quot; title=&quot;FreeBSD[KDE5]&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Synesthesianism&quot;&gt; /u/Synesthesianism &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/5qauvy220er61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mkpl9n/freebsdkde5/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mkpl9n</id>
+		<media:thumbnail url="https://preview.redd.it/5qauvy220er61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=16701559348e1e7be773bc5c8decc05801762538" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mkpl9n/freebsdkde5/" />
+		<updated>2021-04-05T17:09:09+00:00</updated>
+		<published>2021-04-05T17:09:09+00:00</published>
+		<title>FreeBSD[KDE5]</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/fackusps</name>
+			<uri>https://www.reddit.com/user/fackusps</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mklwbp/kwinkde_becase_arch_is_the_best_distr_waifu/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fz66iztw6dr61.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e7546e053f1ceaba20cc6a2dddb7a4a14d5ffe0a&quot; alt=&quot;[Kwin/KDE] Becase arch is the best distr- waifu&quot; title=&quot;[Kwin/KDE] Becase arch is the best distr- waifu&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fackusps&quot;&gt; /u/fackusps &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/fz66iztw6dr61.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mklwbp/kwinkde_becase_arch_is_the_best_distr_waifu/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mklwbp</id>
+		<media:thumbnail url="https://preview.redd.it/fz66iztw6dr61.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7546e053f1ceaba20cc6a2dddb7a4a14d5ffe0a" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mklwbp/kwinkde_becase_arch_is_the_best_distr_waifu/" />
+		<updated>2021-04-05T14:25:03+00:00</updated>
+		<published>2021-04-05T14:25:03+00:00</published>
+		<title>[Kwin/KDE] Becase arch is the best distr- waifu</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/parabolize</name>
+			<uri>https://www.reddit.com/user/parabolize</uri>
+		</author>
+		<category term="unixporn" label="r/unixporn"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mkez7r/phoshpinephone_mobile_mondays/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/dnzc21n83br61.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=272f05cced78afee8262f193dd4da4e5d82576d6&quot; alt=&quot;[Phosh][Pinephone] mobile mondays..?&quot; title=&quot;[Phosh][Pinephone] mobile mondays..?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/parabolize&quot;&gt; /u/parabolize &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/dnzc21n83br61.jpg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/unixporn/comments/mkez7r/phoshpinephone_mobile_mondays/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_mkez7r</id>
+		<media:thumbnail url="https://preview.redd.it/dnzc21n83br61.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=272f05cced78afee8262f193dd4da4e5d82576d6" />
+		<link href="https://www.reddit.com/r/unixporn/comments/mkez7r/phoshpinephone_mobile_mondays/" />
+		<updated>2021-04-05T07:20:16+00:00</updated>
+		<published>2021-04-05T07:20:16+00:00</published>
+		<title>[Phosh][Pinephone] mobile mondays..?</title>
+	</entry>
+</feed>

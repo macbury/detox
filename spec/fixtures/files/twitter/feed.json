@@ -1,0 +1,3122 @@
+{
+    "globalObjects": {
+        "tweets": {
+            "1396821275977388033": {
+                "created_at": "Mon May 24 13:31:58 +0000 2021",
+                "id": 1396821275977388000,
+                "id_str": "1396821275977388033",
+                "full_text": "I don't want to buy an Apple product but also it's really hard to bring myself to buy anything x86-based when the M1 exists. https://t.co/ExNi5yOEvB https://t.co/KIgSLPQlyT",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    148
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ExNi5yOEvB",
+                            "expanded_url": "https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/",
+                            "display_url": "dolphin-emu.org/blog/2021/05/2…",
+                            "indices": [
+                                125,
+                                148
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1396820823814647800,
+                            "id_str": "1396820823814647814",
+                            "indices": [
+                                149,
+                                172
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2KBI3pXMAYsTre.png",
+                            "media_url_https": "https://pbs.twimg.com/media/E2KBI3pXMAYsTre.png",
+                            "url": "https://t.co/KIgSLPQlyT",
+                            "display_url": "pic.twitter.com/KIgSLPQlyT",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1396821275977388033/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 764,
+                                "height": 408,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 729
+                                    },
+                                    {
+                                        "x": 120,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 408
+                                    },
+                                    {
+                                        "x": 145,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 358
+                                    },
+                                    {
+                                        "x": 222,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 204
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 764
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 363,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 764,
+                                    "h": 408,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 764,
+                                    "h": 408,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1396820823814647800,
+                            "id_str": "1396820823814647814",
+                            "indices": [
+                                149,
+                                172
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2KBI3pXMAYsTre.png",
+                            "media_url_https": "https://pbs.twimg.com/media/E2KBI3pXMAYsTre.png",
+                            "url": "https://t.co/KIgSLPQlyT",
+                            "display_url": "pic.twitter.com/KIgSLPQlyT",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1396821275977388033/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 764,
+                                "height": 408,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 729
+                                    },
+                                    {
+                                        "x": 120,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 408
+                                    },
+                                    {
+                                        "x": 145,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 358
+                                    },
+                                    {
+                                        "x": 222,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 204
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 408,
+                                        "w": 764
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 363,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 764,
+                                    "h": 408,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 764,
+                                    "h": 408,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1396820823814647814"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 26,
+                "conversation_id": 1396821275977388000,
+                "conversation_id_str": "1396821275977388033",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null,
+                "self_thread": {
+                    "id": 1396821275977388000,
+                    "id_str": "1396821275977388033"
+                }
+            },
+            "1400194160163004417": {
+                "created_at": "Wed Jun 02 20:54:36 +0000 2021",
+                "id": 1400194160163004400,
+                "id_str": "1400194160163004417",
+                "full_text": "If you're lost in Miami just start yelling \"BITCOIN\" at the top of your lungs and a pleb will be with you shortly.",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    114
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 79,
+                "favorite_count": 1393,
+                "conversation_id": 1400194160163004400,
+                "conversation_id_str": "1400194160163004417",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1396970433266733056": {
+                "created_at": "Mon May 24 23:24:40 +0000 2021",
+                "id": 1396970433266733000,
+                "id_str": "1396970433266733056",
+                "full_text": "just had my first day at my new job @voltage_cloud thank you to people who retweeted my looking for work post. super excited to have my first bitcoin gig!",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    154
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "voltage_cloud",
+                            "name": "Voltage",
+                            "id": 1254636289330159600,
+                            "id_str": "1254636289330159617",
+                            "indices": [
+                                36,
+                                50
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 113,
+                "conversation_id": 1396970433266733000,
+                "conversation_id_str": "1396970433266733056",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399070714527838209": {
+                "created_at": "Sun May 30 18:30:26 +0000 2021",
+                "id": 1399070714527838200,
+                "id_str": "1399070714527838209",
+                "full_text": "Fiat says: spend, get in debt, use resources now. \nBitcoin says: save, reduce debt, use resources later.\n\nThis is the real conflict. The war for our civilization rages not outside your door but inside, within you.",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    213
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 936842262553665500,
+                "user_id_str": "936842262553665538",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 139,
+                "favorite_count": 675,
+                "conversation_id": 1399070714527838200,
+                "conversation_id_str": "1399070714527838209",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399053326248038400": {
+                "created_at": "Sun May 30 17:21:20 +0000 2021",
+                "id": 1399053326248038400,
+                "id_str": "1399053326248038400",
+                "full_text": "Rudolf Diesel on Bitcoin adoption in a letter written shortly before his death in 1913. https://t.co/Omc0kpgblk",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    87
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1399052279668486100,
+                            "id_str": "1399052279668486151",
+                            "indices": [
+                                88,
+                                111
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2puosfXMAcQHKH.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2puosfXMAcQHKH.jpg",
+                            "url": "https://t.co/Omc0kpgblk",
+                            "display_url": "pic.twitter.com/Omc0kpgblk",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1399053326248038400/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1252,
+                                "height": 184,
+                                "focus_rects": [
+                                    {
+                                        "x": 618,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 329
+                                    },
+                                    {
+                                        "x": 690,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 184
+                                    },
+                                    {
+                                        "x": 702,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 161
+                                    },
+                                    {
+                                        "x": 736,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 92
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 1252
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1252,
+                                    "h": 184,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 176,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 100,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1399052279668486100,
+                            "id_str": "1399052279668486151",
+                            "indices": [
+                                88,
+                                111
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2puosfXMAcQHKH.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2puosfXMAcQHKH.jpg",
+                            "url": "https://t.co/Omc0kpgblk",
+                            "display_url": "pic.twitter.com/Omc0kpgblk",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1399053326248038400/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1252,
+                                "height": 184,
+                                "focus_rects": [
+                                    {
+                                        "x": 618,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 329
+                                    },
+                                    {
+                                        "x": 690,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 184
+                                    },
+                                    {
+                                        "x": 702,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 161
+                                    },
+                                    {
+                                        "x": 736,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 92
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 184,
+                                        "w": 1252
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1252,
+                                    "h": 184,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 176,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 100,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1399052279668486151"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 12,
+                "conversation_id": 1399053326248038400,
+                "conversation_id_str": "1399053326248038400",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1398814168384409607": {
+                "created_at": "Sun May 30 01:31:01 +0000 2021",
+                "id": 1398814168384409600,
+                "id_str": "1398814168384409607",
+                "full_text": "I cannot possibly recommend this piece by @selenelindstr6 and @stackerintherye highly enough. Once you begin to see the struggle of civilization against local entropy you don't unsee it. https://t.co/FoGaWybubn https://t.co/6uaW74WIvl",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    210
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "selenelindstr6",
+                            "name": "selene lindstrom",
+                            "id": 1396846701776887800,
+                            "id_str": "1396846701776887808",
+                            "indices": [
+                                42,
+                                57
+                            ]
+                        },
+                        {
+                            "screen_name": "stackerintherye",
+                            "name": "Hodl'n Caulfield",
+                            "id": 1170751017396445200,
+                            "id_str": "1170751017396445185",
+                            "indices": [
+                                62,
+                                78
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/FoGaWybubn",
+                            "expanded_url": "https://bitcoinandenergy.medium.com/bitcoin-mining-and-the-case-for-more-energy-90094ce25fac",
+                            "display_url": "bitcoinandenergy.medium.com/bitcoin-mining…",
+                            "indices": [
+                                187,
+                                210
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1398814166618628000,
+                            "id_str": "1398814166618628096",
+                            "indices": [
+                                211,
+                                234
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2mWEsQWYAAHRXD.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2mWEsQWYAAHRXD.jpg",
+                            "url": "https://t.co/6uaW74WIvl",
+                            "display_url": "pic.twitter.com/6uaW74WIvl",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1398814168384409607/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1067,
+                                "height": 1077,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 598,
+                                        "w": 1067
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1067,
+                                        "w": 1067
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1077,
+                                        "w": 945
+                                    },
+                                    {
+                                        "x": 134,
+                                        "y": 0,
+                                        "h": 1077,
+                                        "w": 539
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1077,
+                                        "w": 1067
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1067,
+                                    "h": 1077,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 674,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1067,
+                                    "h": 1077,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1398814166618628000,
+                            "id_str": "1398814166618628096",
+                            "indices": [
+                                211,
+                                234
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2mWEsQWYAAHRXD.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2mWEsQWYAAHRXD.jpg",
+                            "url": "https://t.co/6uaW74WIvl",
+                            "display_url": "pic.twitter.com/6uaW74WIvl",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1398814168384409607/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1067,
+                                "height": 1077,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 598,
+                                        "w": 1067
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1067,
+                                        "w": 1067
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1077,
+                                        "w": 945
+                                    },
+                                    {
+                                        "x": 134,
+                                        "y": 0,
+                                        "h": 1077,
+                                        "w": 539
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1077,
+                                        "w": 1067
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1067,
+                                    "h": 1077,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 674,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1067,
+                                    "h": 1077,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1398814166618628096"
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 11,
+                "conversation_id": 1398814168384409600,
+                "conversation_id_str": "1398814168384409607",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1400132731279863808": {
+                "created_at": "Wed Jun 02 16:50:31 +0000 2021",
+                "id": 1400132731279863800,
+                "id_str": "1400132731279863808",
+                "full_text": "FidelityFX Super Resolution, like other FidelityFX effects, will be open source using the MIT license. It will support both DirectX and Vulkan. In a perfect world, this is how all GPU features would be introduced.\n\nWant a more perfect world? Buy @Radeon! https://t.co/ZzmYzK0gb6",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    278
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Radeon",
+                            "name": "Radeon RX",
+                            "id": 23127272,
+                            "id_str": "23127272",
+                            "indices": [
+                                246,
+                                253
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZzmYzK0gb6",
+                            "expanded_url": "https://gpuopen.com/fsr-announce/",
+                            "display_url": "gpuopen.com/fsr-announce/",
+                            "indices": [
+                                255,
+                                278
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 814281563265495000,
+                "user_id_str": "814281563265495040",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 31,
+                "favorite_count": 200,
+                "conversation_id": 1400132731279863800,
+                "conversation_id_str": "1400132731279863808",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1396961688705019908": {
+                "created_at": "Mon May 24 22:49:55 +0000 2021",
+                "id": 1396961688705020000,
+                "id_str": "1396961688705019908",
+                "full_text": "everybody having a good day? https://t.co/EFB76nwmFz",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    28
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1396961622606946300,
+                            "id_str": "1396961622606946304",
+                            "indices": [
+                                29,
+                                52
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2MBMcBXIAAG_t3.png",
+                            "media_url_https": "https://pbs.twimg.com/media/E2MBMcBXIAAG_t3.png",
+                            "url": "https://t.co/EFB76nwmFz",
+                            "display_url": "pic.twitter.com/EFB76nwmFz",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1396961688705019908/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 283,
+                                "height": 75,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 134
+                                    },
+                                    {
+                                        "x": 12,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 75
+                                    },
+                                    {
+                                        "x": 16,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 66
+                                    },
+                                    {
+                                        "x": 30,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 38
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 283
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 283,
+                                    "h": 75,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 283,
+                                    "h": 75,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 75,
+                                    "h": 75,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 283,
+                                    "h": 75,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1396961622606946300,
+                            "id_str": "1396961622606946304",
+                            "indices": [
+                                29,
+                                52
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2MBMcBXIAAG_t3.png",
+                            "media_url_https": "https://pbs.twimg.com/media/E2MBMcBXIAAG_t3.png",
+                            "url": "https://t.co/EFB76nwmFz",
+                            "display_url": "pic.twitter.com/EFB76nwmFz",
+                            "expanded_url": "https://twitter.com/futurepaul/status/1396961688705019908/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 283,
+                                "height": 75,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 134
+                                    },
+                                    {
+                                        "x": 12,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 75
+                                    },
+                                    {
+                                        "x": 16,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 66
+                                    },
+                                    {
+                                        "x": 30,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 38
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 75,
+                                        "w": 283
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 283,
+                                    "h": 75,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 283,
+                                    "h": 75,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 75,
+                                    "h": 75,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 283,
+                                    "h": 75,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1396961622606946304"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 4,
+                "conversation_id": 1396961688705020000,
+                "conversation_id_str": "1396961688705019908",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1400432137397063683": {
+                "created_at": "Thu Jun 03 12:40:14 +0000 2021",
+                "id": 1400432137397063700,
+                "id_str": "1400432137397063683",
+                "full_text": "If you're in Miami I'm going to be doing a little workshop on @bitcoindevkit on Saturday at 12:30 in the open source dome. Learn how to make a Bitcoin wallet with Rust or your money back.",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    187
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "bitcoindevkit",
+                            "name": "bitcoindevkit",
+                            "id": 1276237018519888000,
+                            "id_str": "1276237018519887872",
+                            "indices": [
+                                62,
+                                76
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 53,
+                "conversation_id": 1400432137397063700,
+                "conversation_id_str": "1400432137397063683",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1400147389198082054": {
+                "created_at": "Wed Jun 02 17:48:45 +0000 2021",
+                "id": 1400147389198082000,
+                "id_str": "1400147389198082054",
+                "full_text": "RT @jeremy_soller: FidelityFX Super Resolution, like other FidelityFX effects, will be open source using the MIT license. It will support b…",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "jeremy_soller",
+                            "name": "Jeremy Soller",
+                            "id": 814281563265495000,
+                            "id_str": "814281563265495040",
+                            "indices": [
+                                3,
+                                17
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweeted_status_id": 1400132731279863800,
+                "retweeted_status_id_str": "1400132731279863808",
+                "is_quote_status": false,
+                "retweet_count": 31,
+                "favorite_count": 0,
+                "conversation_id": 1400147389198082000,
+                "conversation_id_str": "1400147389198082054",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399160122761428994": {
+                "created_at": "Mon May 31 00:25:43 +0000 2021",
+                "id": 1399160122761429000,
+                "id_str": "1399160122761428994",
+                "full_text": "I’ve been obsessively paying attention to the news for about 15 years now and the most infuriating thing to me is that “experts” can get things completely wrong, mock the people who get them right, never apologize or even acknowledge it, and continue being “experts.”",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    267
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 467661480,
+                "user_id_str": "467661480",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3937,
+                "favorite_count": 18856,
+                "conversation_id": 1399160122761429000,
+                "conversation_id_str": "1399160122761428994",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399118683608391691": {
+                "created_at": "Sun May 30 21:41:03 +0000 2021",
+                "id": 1399118683608391700,
+                "id_str": "1399118683608391691",
+                "full_text": "Why in the year 2021 do I still have to enter my credit card number by hand into random websites? I can boop to pay at a bodega but online payments infra can't figure out QR codes?",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    180
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 30,
+                "conversation_id": 1399118683608391700,
+                "conversation_id_str": "1399118683608391691",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1397242405301243909": {
+                "created_at": "Tue May 25 17:25:23 +0000 2021",
+                "id": 1397242405301244000,
+                "id_str": "1397242405301243909",
+                "full_text": "the only thing the \"clean energy\" movement has done has made our civilization less resilient, less capable, and less safe. according to them the weather is still getting worse. their rain dance hasn't worked. their proposed solution? more rain dance.",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    250
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 24,
+                "conversation_id": 1397242405301244000,
+                "conversation_id_str": "1397242405301243909",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null,
+                "self_thread": {
+                    "id": 1397242405301244000,
+                    "id_str": "1397242405301243909"
+                }
+            },
+            "1397009014572134403": {
+                "created_at": "Tue May 25 01:57:58 +0000 2021",
+                "id": 1397009014572134400,
+                "id_str": "1397009014572134403",
+                "full_text": "in this innovative new government i have designed you will see why it's best for me to have more money and for you to have less",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    127
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 6,
+                "conversation_id": 1397009014572134400,
+                "conversation_id_str": "1397009014572134403",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399496934042316807": {
+                "created_at": "Mon May 31 22:44:05 +0000 2021",
+                "id": 1399496934042316800,
+                "id_str": "1399496934042316807",
+                "full_text": "\"As iron sharpens iron,\n    so one person sharpens another.\"\nProverbs 27:17\n#BTC #Bitcoin https://t.co/0KT682YrRG",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    89
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "BTC",
+                            "indices": [
+                                76,
+                                80
+                            ]
+                        },
+                        {
+                            "text": "Bitcoin",
+                            "indices": [
+                                81,
+                                89
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1399496646409470000,
+                            "id_str": "1399496646409469958",
+                            "indices": [
+                                90,
+                                113
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "url": "https://t.co/0KT682YrRG",
+                            "display_url": "pic.twitter.com/0KT682YrRG",
+                            "expanded_url": "https://twitter.com/spinte8/status/1399496934042316807/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 682,
+                                "height": 567,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 185,
+                                        "h": 382,
+                                        "w": 682
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 567
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 497
+                                    },
+                                    {
+                                        "x": 45,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 284
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 682
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 565,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1399496646409470000,
+                            "id_str": "1399496646409469958",
+                            "indices": [
+                                90,
+                                113
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "url": "https://t.co/0KT682YrRG",
+                            "display_url": "pic.twitter.com/0KT682YrRG",
+                            "expanded_url": "https://twitter.com/spinte8/status/1399496934042316807/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 682,
+                                "height": 567,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 185,
+                                        "h": 382,
+                                        "w": 682
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 567
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 497
+                                    },
+                                    {
+                                        "x": 45,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 284
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 682
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 565,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1399496646409469958"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 1176792012806336500,
+                "user_id_str": "1176792012806336512",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 61,
+                "favorite_count": 266,
+                "conversation_id": 1399496934042316800,
+                "conversation_id_str": "1399496934042316807",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1398034296502431746": {
+                "created_at": "Thu May 27 21:52:05 +0000 2021",
+                "id": 1398034296502431700,
+                "id_str": "1398034296502431746",
+                "full_text": "So grateful for these two dudes. https://t.co/HT9qAnxRAs",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    32
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/HT9qAnxRAs",
+                            "expanded_url": "https://twitter.com/MartyBent/status/1398014119689822208",
+                            "display_url": "twitter.com/MartyBent/stat…",
+                            "indices": [
+                                33,
+                                56
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1398014119689822200,
+                "quoted_status_id_str": "1398014119689822208",
+                "quoted_status_permalink": {
+                    "url": "https://t.co/HT9qAnxRAs",
+                    "expanded": "https://twitter.com/MartyBent/status/1398014119689822208",
+                    "display": "twitter.com/MartyBent/stat…"
+                },
+                "retweet_count": 2,
+                "favorite_count": 31,
+                "conversation_id": 1398034296502431700,
+                "conversation_id_str": "1398034296502431746",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399135812751708160": {
+                "created_at": "Sun May 30 22:49:07 +0000 2021",
+                "id": 1399135812751708200,
+                "id_str": "1399135812751708160",
+                "full_text": "RT @ObiWanKenoBit: Fiat says: spend, get in debt, use resources now. \nBitcoin says: save, reduce debt, use resources later.\n\nThis is the re…",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    140
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ObiWanKenoBit",
+                            "name": "O₿iWan",
+                            "id": 936842262553665500,
+                            "id_str": "936842262553665538",
+                            "indices": [
+                                3,
+                                17
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweeted_status_id": 1399070714527838200,
+                "retweeted_status_id_str": "1399070714527838209",
+                "is_quote_status": false,
+                "retweet_count": 139,
+                "favorite_count": 0,
+                "conversation_id": 1399135812751708200,
+                "conversation_id_str": "1399135812751708160",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399510345992048644": {
+                "created_at": "Mon May 31 23:37:22 +0000 2021",
+                "id": 1399510345992048600,
+                "id_str": "1399510345992048644",
+                "full_text": "Is there a writeup anywhere of all the dominos that actually fall over in a \"3-5 business day\" money transfer?\n\nMy loose conception of it is: send -&gt;  middleman who does absolutely nothing for a random period of time -&gt;  anti-fraud??? -&gt; destination database.",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    268
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 15,
+                "conversation_id": 1399510345992048600,
+                "conversation_id_str": "1399510345992048644",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1398014119689822208": {
+                "created_at": "Thu May 27 20:31:54 +0000 2021",
+                "id": 1398014119689822200,
+                "id_str": "1398014119689822208",
+                "full_text": "The week's rip of RHR on @TFTC21 is live on all platforms! @matt_odell &amp; I discuss:\n\n- China mining migration\n- The Bitcoin Mining Council\n- Bitcoin Indy 500 car\n- New fundies stacking\n- New Texas bitcoin law\n- much more\n\nPeep. Share. Subscribe. SPEAK UP.\n\nhttps://t.co/oCB3FEXKj7",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    284
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "TFTC21",
+                            "name": "Tales from the Crypt: A Bitcoin Podcast",
+                            "id": 915954364774326300,
+                            "id_str": "915954364774326273",
+                            "indices": [
+                                25,
+                                32
+                            ]
+                        },
+                        {
+                            "screen_name": "matt_odell",
+                            "name": "ODELL",
+                            "id": 47966112,
+                            "id_str": "47966112",
+                            "indices": [
+                                59,
+                                70
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/oCB3FEXKj7",
+                            "expanded_url": "https://anchor.fm/tales-from-the-crypt/episodes/Rabbit-Hole-Recap-Bitcoin-Week-of-2021-05-24-e11ne65",
+                            "display_url": "anchor.fm/tales-from-the…",
+                            "indices": [
+                                261,
+                                284
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 375707743,
+                "user_id_str": "375707743",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 25,
+                "favorite_count": 129,
+                "conversation_id": 1398014119689822200,
+                "conversation_id_str": "1398014119689822208",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1396472188098777091": {
+                "created_at": "Sun May 23 14:24:49 +0000 2021",
+                "id": 1396472188098777000,
+                "id_str": "1396472188098777091",
+                "full_text": "I feel like it's been a full week since I've heard the term \"NFT,\" even in a joking context.",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    92
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 13,
+                "conversation_id": 1396472188098777000,
+                "conversation_id_str": "1396472188098777091",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1396966903428562945": {
+                "created_at": "Mon May 24 23:10:38 +0000 2021",
+                "id": 1396966903428563000,
+                "id_str": "1396966903428562945",
+                "full_text": "the only truly clean way to mine is by hand, preferably while drinking oat milk. stop larping everybody https://t.co/Nnfuy7UGVO",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    127
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Nnfuy7UGVO",
+                            "expanded_url": "https://www.youtube.com/watch?v=y3dqhixzGVo",
+                            "display_url": "youtube.com/watch?v=y3dqhi…",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 9,
+                "favorite_count": 68,
+                "conversation_id": 1396966903428563000,
+                "conversation_id_str": "1396966903428562945",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1396453240061968388": {
+                "created_at": "Sun May 23 13:09:31 +0000 2021",
+                "id": 1396453240061968400,
+                "id_str": "1396453240061968388",
+                "full_text": "working on a bdk rust bitcoin wallet cli tutorial\n\nLEARN SECRETS ABOUT MY WRITING PROCESS NEVER BEFORE TOLD\n\nhttps://t.co/ZkoxArMNoq",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    132
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZkoxArMNoq",
+                            "expanded_url": "https://www.twitch.tv/futurepaul",
+                            "display_url": "twitch.tv/futurepaul",
+                            "indices": [
+                                109,
+                                132
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 5,
+                "conversation_id": 1396453240061968400,
+                "conversation_id_str": "1396453240061968388",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1400166331467669507": {
+                "created_at": "Wed Jun 02 19:04:01 +0000 2021",
+                "id": 1400166331467669500,
+                "id_str": "1400166331467669507",
+                "full_text": "I'm in Miami what's step 2",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    26
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 15,
+                "conversation_id": 1400166331467669500,
+                "conversation_id_str": "1400166331467669507",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399498906111782913": {
+                "created_at": "Mon May 31 22:51:55 +0000 2021",
+                "id": 1399498906111783000,
+                "id_str": "1399498906111782913",
+                "full_text": "RT @spinte8: \"As iron sharpens iron,\n    so one person sharpens another.\"\nProverbs 27:17\n#BTC #Bitcoin https://t.co/0KT682YrRG",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    126
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "BTC",
+                            "indices": [
+                                89,
+                                93
+                            ]
+                        },
+                        {
+                            "text": "Bitcoin",
+                            "indices": [
+                                94,
+                                102
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "spinte8",
+                            "name": "Spinte.HODL ∞/21M ☣🐝⚡️🟧⬛",
+                            "id": 1176792012806336500,
+                            "id_str": "1176792012806336512",
+                            "indices": [
+                                3,
+                                11
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1399496646409470000,
+                            "id_str": "1399496646409469958",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "url": "https://t.co/0KT682YrRG",
+                            "display_url": "pic.twitter.com/0KT682YrRG",
+                            "expanded_url": "https://twitter.com/spinte8/status/1399496934042316807/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 682,
+                                "height": 567,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 185,
+                                        "h": 382,
+                                        "w": 682
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 567
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 497
+                                    },
+                                    {
+                                        "x": 45,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 284
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 682
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 565,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                }
+                            },
+                            "source_status_id": 1399496934042316800,
+                            "source_status_id_str": "1399496934042316807",
+                            "source_user_id": 1176792012806336500,
+                            "source_user_id_str": "1176792012806336512"
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1399496646409470000,
+                            "id_str": "1399496646409469958",
+                            "indices": [
+                                103,
+                                126
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/E2wCyPmWQAYP3IL.jpg",
+                            "url": "https://t.co/0KT682YrRG",
+                            "display_url": "pic.twitter.com/0KT682YrRG",
+                            "expanded_url": "https://twitter.com/spinte8/status/1399496934042316807/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 682,
+                                "height": 567,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 185,
+                                        "h": 382,
+                                        "w": 682
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 567
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 497
+                                    },
+                                    {
+                                        "x": 45,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 284
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 567,
+                                        "w": 682
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 565,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 682,
+                                    "h": 567,
+                                    "resize": "fit"
+                                }
+                            },
+                            "source_status_id": 1399496934042316800,
+                            "source_status_id_str": "1399496934042316807",
+                            "source_user_id": 1176792012806336500,
+                            "source_user_id_str": "1176792012806336512",
+                            "media_key": "3_1399496646409469958"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweeted_status_id": 1399496934042316800,
+                "retweeted_status_id_str": "1399496934042316807",
+                "is_quote_status": false,
+                "retweet_count": 61,
+                "favorite_count": 0,
+                "conversation_id": 1399498906111783000,
+                "conversation_id_str": "1399498906111782913",
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "supplemental_language": null
+            },
+            "1399166114089914374": {
+                "created_at": "Mon May 31 00:49:31 +0000 2021",
+                "id": 1399166114089914400,
+                "id_str": "1399166114089914374",
+                "full_text": "RT @ComicDaveSmith: I’ve been obsessively paying attention to the news for about 15 years now and the most infuriating thing to me is that…",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    139
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ComicDaveSmith",
+                            "name": "Dave Smith",
+                            "id": 467661480,
+                            "id_str": "467661480",
+                            "indices": [
+                                3,
+                                18
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user_id": 979811,
+                "user_id_str": "979811",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweeted_status_id": 1399160122761429000,
+                "retweeted_status_id_str": "1399160122761428994",
+                "is_quote_status": false,
+                "retweet_count": 3937,
+                "favorite_count": 0,
+                "conversation_id": 1399166114089914400,
+                "conversation_id_str": "1399166114089914374",
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en",
+                "supplemental_language": null
+            }
+        },
+        "users": {
+            "979811": {
+                "id": 979811,
+                "id_str": "979811",
+                "name": "Paul Miller",
+                "screen_name": "futurepaul",
+                "location": "Brooklyn",
+                "description": "Jesus and #bitcoin\n46A5 B614 0473 3479 B27C  F14A F37A B2F0 83E6 DEFF",
+                "url": "https://t.co/vME4kCTan4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vME4kCTan4",
+                                "expanded_url": "https://paul.lol",
+                                "display_url": "paul.lol",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28468,
+                "fast_followers_count": 0,
+                "normal_followers_count": 28468,
+                "friends_count": 953,
+                "listed_count": 1317,
+                "created_at": "Mon Mar 12 03:29:17 +0000 2007",
+                "favourites_count": 4243,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 10247,
+                "media_count": 504,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "D7D7D7",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1362748387276320774/OoFJWBld_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362748387276320774/OoFJWBld_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/979811/1367468919",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1259238909407617000
+                ],
+                "pinned_tweet_ids_str": [
+                    "1259238909407617030"
+                ],
+                "has_custom_timelines": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "advertiser_account_type": "promotable_user",
+                "advertiser_account_service_levels": [],
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "require_some_consent": false
+            },
+            "375707743": {
+                "id": 375707743,
+                "id_str": "375707743",
+                "name": "Marty Bent",
+                "screen_name": "MartyBent",
+                "location": "A village by the sea",
+                "description": "Editor in Chief of Marty's Ƀent, a daily newsletter about #Bitcoin. Host of @TFTC21, a podcast about Bitcoin. Subscribe. Bringing Market to Molecule - @GAMdotAI",
+                "url": "https://t.co/jqoWDeTuHH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/jqoWDeTuHH",
+                                "expanded_url": "http://tftc.io",
+                                "display_url": "tftc.io",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 80475,
+                "fast_followers_count": 0,
+                "normal_followers_count": 80475,
+                "friends_count": 2924,
+                "listed_count": 1635,
+                "created_at": "Sun Sep 18 16:08:14 +0000 2011",
+                "favourites_count": 115545,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 49277,
+                "media_count": 2681,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1362747135981199370/mSy97J12_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362747135981199370/mSy97J12_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/375707743/1396971655",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    872623036486352900
+                ],
+                "pinned_tweet_ids_str": [
+                    "872623036486352896"
+                ],
+                "has_custom_timelines": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "advertiser_account_type": "promotable_user",
+                "advertiser_account_service_levels": [
+                    "smb"
+                ],
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "require_some_consent": false
+            },
+            "467661480": {
+                "id": 467661480,
+                "id_str": "467661480",
+                "name": "Dave Smith",
+                "screen_name": "ComicDaveSmith",
+                "location": "NYC",
+                "description": "Husband, Father, Comedian, libertarian, Host of Part Of The Problem, 1/3 of LOS https://t.co/anYukAHUy3",
+                "url": "https://t.co/dqi1wTjwjn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dqi1wTjwjn",
+                                "expanded_url": "https://linktr.ee/theproblemdavesmith",
+                                "display_url": "linktr.ee/theproblemdave…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/anYukAHUy3",
+                                "expanded_url": "http://gasdigitalnetwork.com",
+                                "display_url": "gasdigitalnetwork.com",
+                                "indices": [
+                                    80,
+                                    103
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 125133,
+                "fast_followers_count": 0,
+                "normal_followers_count": 125133,
+                "friends_count": 795,
+                "listed_count": 677,
+                "created_at": "Wed Jan 18 18:20:00 +0000 2012",
+                "favourites_count": 14467,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 12452,
+                "media_count": 161,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1019515212486053888/YU1J4lDp_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019515212486053888/YU1J4lDp_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/467661480/1591624417",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1376665260455780400
+                ],
+                "pinned_tweet_ids_str": [
+                    "1376665260455780353"
+                ],
+                "has_custom_timelines": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "advertiser_account_type": "promotable_user",
+                "advertiser_account_service_levels": [
+                    "analytics"
+                ],
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "require_some_consent": false
+            },
+            "1176792012806336512": {
+                "id": 1176792012806336500,
+                "id_str": "1176792012806336512",
+                "name": "Spinte.HODL ∞/21M ☣🐝⚡️🟧⬛",
+                "screen_name": "spinte8",
+                "location": "Capistan",
+                "description": "#Bitcoin Carnivore. Sovereignist. Toxic Maxi Pleb.\nMemes are my peaceful weapon of choice @moscowmemetards\nI WILL DIE ON THIS HILL",
+                "url": "https://t.co/U63oqppxA1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/U63oqppxA1",
+                                "expanded_url": "http://mises.org",
+                                "display_url": "mises.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2085,
+                "fast_followers_count": 0,
+                "normal_followers_count": 2085,
+                "friends_count": 853,
+                "listed_count": 18,
+                "created_at": "Wed Sep 25 09:34:24 +0000 2019",
+                "favourites_count": 11389,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2520,
+                "media_count": 1186,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1391314431787868163/iXhfxXGr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391314431787868163/iXhfxXGr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176792012806336512/1618396858",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1394374185338687500
+                ],
+                "pinned_tweet_ids_str": [
+                    "1394374185338687500"
+                ],
+                "has_custom_timelines": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "advertiser_account_type": "none",
+                "advertiser_account_service_levels": [],
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "require_some_consent": false
+            },
+            "936842262553665538": {
+                "id": 936842262553665500,
+                "id_str": "936842262553665538",
+                "name": "O₿iWan",
+                "screen_name": "ObiWanKenoBit",
+                "location": "Moon",
+                "description": "#Bitcoin\nhttps://t.co/ANyRKDctGe",
+                "url": "https://t.co/8YnLcf20xi",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/8YnLcf20xi",
+                                "expanded_url": "https://obiwankenobit.medium.com/",
+                                "display_url": "obiwankenobit.medium.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ANyRKDctGe",
+                                "expanded_url": "http://tippin.me/@ObiWanKenoBit",
+                                "display_url": "tippin.me/@ObiWanKenoBit",
+                                "indices": [
+                                    9,
+                                    32
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 10673,
+                "fast_followers_count": 0,
+                "normal_followers_count": 10673,
+                "friends_count": 469,
+                "listed_count": 181,
+                "created_at": "Sat Dec 02 06:19:35 +0000 2017",
+                "favourites_count": 9730,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3951,
+                "media_count": 416,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1391562528946225153/jEsnbhab_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391562528946225153/jEsnbhab_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/936842262553665538/1615326138",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1011337718213668900
+                ],
+                "pinned_tweet_ids_str": [
+                    "1011337718213668868"
+                ],
+                "has_custom_timelines": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "advertiser_account_type": "promotable_user",
+                "advertiser_account_service_levels": [
+                    "analytics"
+                ],
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "require_some_consent": false
+            },
+            "814281563265495040": {
+                "id": 814281563265495000,
+                "id_str": "814281563265495040",
+                "name": "Jeremy Soller",
+                "screen_name": "jeremy_soller",
+                "location": "Colorado",
+                "description": "@System76 Principal Engineer, Pop!_OS Maintainer, @Redox_OS BDFL, @RustLang Fanatic, and #Bitcoin Aficionado",
+                "url": "https://t.co/tpLNoPe77I",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/tpLNoPe77I",
+                                "expanded_url": "https://redox-os.org",
+                                "display_url": "redox-os.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5649,
+                "fast_followers_count": 0,
+                "normal_followers_count": 5649,
+                "friends_count": 742,
+                "listed_count": 60,
+                "created_at": "Thu Dec 29 01:27:08 +0000 2016",
+                "favourites_count": 11081,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4218,
+                "media_count": 93,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/822633852434837505/9vYffzN6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/822633852434837505/9vYffzN6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/814281563265495040/1612562484",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "pinned_tweet_ids": [
+                    1399830747419005000
+                ],
+                "pinned_tweet_ids_str": [
+                    "1399830747419004928"
+                ],
+                "has_custom_timelines": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "advertiser_account_type": "promotable_user",
+                "advertiser_account_service_levels": [
+                    "analytics"
+                ],
+                "business_profile_state": "none",
+                "translator_type": "none",
+                "withheld_in_countries": [],
+                "require_some_consent": false
+            }
+        },
+        "moments": {},
+        "cards": {},
+        "places": {},
+        "media": {},
+        "broadcasts": {},
+        "topics": {},
+        "lists": {}
+    },
+    "timeline": {
+        "id": "search-6806513731430719911",
+        "instructions": [
+            {
+                "addEntries": {
+                    "entries": [
+                        {
+                            "entryId": "sq-I-t-1400432137397063683",
+                            "sortIndex": "999980",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1400432137397063683",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1400194160163004417",
+                            "sortIndex": "999970",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1400194160163004417",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1400166331467669507",
+                            "sortIndex": "999960",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1400166331467669507",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1400147389198082054",
+                            "sortIndex": "999950",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1400147389198082054",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1399510345992048644",
+                            "sortIndex": "999940",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1399510345992048644",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1399498906111782913",
+                            "sortIndex": "999930",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1399498906111782913",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1399166114089914374",
+                            "sortIndex": "999920",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1399166114089914374",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1399135812751708160",
+                            "sortIndex": "999910",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1399135812751708160",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1399118683608391691",
+                            "sortIndex": "999900",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1399118683608391691",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1399053326248038400",
+                            "sortIndex": "999890",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1399053326248038400",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1398814168384409607",
+                            "sortIndex": "999880",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1398814168384409607",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1398034296502431746",
+                            "sortIndex": "999870",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1398034296502431746",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAEAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1397242405301243909",
+                            "sortIndex": "999860",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1397242405301243909",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1397009014572134403",
+                            "sortIndex": "999850",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1397009014572134403",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1396970433266733056",
+                            "sortIndex": "999840",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1396970433266733056",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1396966903428562945",
+                            "sortIndex": "999830",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1396966903428562945",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1396961688705019908",
+                            "sortIndex": "999820",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1396961688705019908",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1396821275977388033",
+                            "sortIndex": "999810",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1396821275977388033",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1396472188098777091",
+                            "sortIndex": "999800",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1396472188098777091",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-I-t-1396453240061968388",
+                            "sortIndex": "999790",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1396453240061968388",
+                                            "displayType": "Tweet"
+                                        }
+                                    },
+                                    "clientEventInfo": {
+                                        "component": "result",
+                                        "element": "tweet",
+                                        "details": {
+                                            "timelinesDetails": {
+                                                "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAAAAAAwAAgoAAQAAAAAAAAAACgACk3k8dc+Ks8wAAAAAAA=="
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-cursor-top",
+                            "sortIndex": "999999999",
+                            "content": {
+                                "operation": {
+                                    "cursor": {
+                                        "value": "refresh:thGAVUV0VFVBaIgLL11rSZ4SYWhsC-mf7mqu8mEnEV3IV6FYCJehgHREVGQVVMVDUBFQAVAAA=",
+                                        "cursorType": "Top"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "sq-cursor-bottom",
+                            "sortIndex": "0",
+                            "content": {
+                                "operation": {
+                                    "cursor": {
+                                        "value": "scroll:thGAVUV0VFVBaIgLL11rSZ4SYWhsC-mf7mqu8mEnEV3IV6FYCJehgHREVGQVVMVDUBFQAVAAA=",
+                                        "cursorType": "Bottom"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+# The behavior of RuboCop can be controlled via the .rubocop.yml
+# configuration file. It makes it possible to enable/disable
+# certain cops (checks) and to alter their behavior if they accept
+# any parameters. The file can be placed either in your home
+# directory or in some project directory.
+#
+# RuboCop will start looking for the configuration file in the directory
+# where the inspected file is and continue its way up to the root directory.
+#
+# See https://github.com/rubocop-hq/rubocop/blob/master/manual/configuration.md
+
+require:
+  - rubocop-rails
+  - rubocop-performance
+  - rubocop-rspec
+  - rubocop-graphql
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 3.0
+  Exclude:
+    - app/javascript/**/*
+    - 'bin/**/*'
+    - 'config/**/*'
+    - 'db/**/*'
+    - spec/spec_helper.rb
+    - 'lib/tasks/**/*'
+    - 'Rakefile'
+    - 'vendor/**/*'
+    - spec/support/**/*
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Layout/TrailingEmptyLines:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Layout/LineLength:
+  Max: 200
+Metrics/PerceivedComplexity:
+  Max: 40
+Metrics/MethodLength:
+  Enabled: false
+Metrics/CyclomaticComplexity:
+  Enabled: false
+Metrics/AbcSize:
+  Enabled: false
+Style/SymbolArray:
+  Enabled: false
+Metrics/ClassLength:
+  Max: 200
+Metrics/ParameterLists:
+  Enabled: false
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: false
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: false
+Lint/DeprecatedOpenSSLConstant:
+  Enabled: false
+Lint/MixedRegexpCaptureTypes:
+  Enabled: false
+Lint/RaiseException:
+  Enabled: false
+Lint/StructNewOverride:
+  Enabled: false
+Style/ExponentialNotation:
+  Enabled: false
+Style/HashEachMethods:
+  Enabled: false
+Style/HashTransformKeys:
+  Enabled: false
+Style/HashTransformValues:
+  Enabled: false
+Style/RedundantRegexpCharacterClass:
+  Enabled: false
+Style/RedundantRegexpEscape:
+  Enabled: false
+Style/SlicingWithRange:
+  Enabled: false
+Lint/ToJSON:
+  Enabled: false
+Rails/Delegate:
+  Enabled: false
+Rails/UniqueValidationWithoutIndex:
+  Enabled: false
+Rails/OutputSafety:
+  Enabled: false
+RSpec/ExampleLength:
+  Max: 20
+RSpec/MultipleExpectations:
+  Enabled: false
+Style/RedundantFetchBlock:
+  Enabled: false
+RSpec/MessageSpies:
+  Enabled: false
+Style/Semicolon:
+  Enabled: false
+Style/WordArray:
+  Enabled: false
+GraphQL/FieldDescription:
+  Enabled: false
+RSpec/DescribeClass:
+  Enabled: false
+GraphQL/ArgumentDescription:
+  Enabled: false
+Layout/FirstHashElementIndentation:
+  Enabled: false
+Style/StringLiterals:
+  Enabled: true
+  Exclude:
+    - spec/**/*
+GraphQL/ExtractInputType:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: true
+  Exclude:
+    - spec/**/*

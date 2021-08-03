@@ -1,0 +1,19 @@
+version: '3'
+services:
+  www:
+    build: ./docker/nginx/
+    network_mode: host
+  postgres:
+    image: postgres:10
+    restart: always
+    ports:
+      - 19371:5432
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      PGDATA: /data
+    volumes:
+      - db-data:/data
+volumes:
+  db-data:
+  redis-data:

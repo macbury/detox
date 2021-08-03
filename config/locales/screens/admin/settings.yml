@@ -1,0 +1,34 @@
+en:
+  screens:
+    admin:
+      settings:
+        title: Settings
+        dialogs:
+          change_theme:
+            title: Select theme
+            keys:
+              dark: Dark
+              light: Light
+              automatic: Automatic
+          words_blacklist:
+            title: 'Global word blacklist'
+            description:
+              With this black list you can ignore articles with a title that match the word. Ignored articles won’t be saved into the database.
+              Specified word need to be split by comma
+          youtube_cookies:
+            title: 'Set youtube cookies'
+            description: |
+              HTTP Error 429: Too Many Requests or 402: Payment Required -
+              these two error codes indicate that the service is blocking your IP address because of overuse. Usually this is a soft block meaning that you can gain access again after solving CAPTCHA. Just open a browser and solve a CAPTCHA the service suggests you and after that pass cookies here. 
+        options:
+          theme:
+            title: Theme
+            description: Change to light or dark theme
+          youtube_cookies:
+            icon: youtube
+            title: 'YouTube Cookie'
+            description: 'Fix HTTP Error 429: Too Many Requests or 402: Payment Required'
+          words_blacklist:
+            icon: playlist-remove
+            title: 'Global word blacklist'
+            description: 'Ignore articles with a title that match the word'

@@ -1,0 +1,18 @@
+en:
+  screens:
+    home:
+      unreadFeed:
+        title: 'Stories ({{unread}}/{{total}})'
+      feed:
+        new_stories: '{{unread}} new stories appeared'
+        actions:
+          mark_all_as_read: Mark all as read
+          sync: Sync in background
+          refresh: Refresh
+          cancel: Cancel
+          show_channel: Show channel
+        success:
+          favorite: Story marked as favorite
+          snooze: Story will appear again on the feed in near future
+          sync: Refreshing channels in background
+        empty: Your feed is empty

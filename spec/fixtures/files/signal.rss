@@ -1,0 +1,2896 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Blog</title>
+    <link>https://signal.org/blog/</link>
+    <atom:link href="https://signal.org/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Signal Blog</description>
+    <language>en-us</language>
+    <pubDate>Tue, 06 Apr 2021 16:29:54 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Apr 2021 16:29:54 +0000</lastBuildDate>
+
+    
+    <item>
+      
+      <title>Help us test payments in Signal</title>
+      <link>https://signal.org/blog/help-us-test-payments-in-signal/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/help-us-test-payments-in-signal</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/payments_hero.jpg&quot; alt=&quot;Payments hero image.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The latest Signal betas are rolling out today. Inside, youâ€™ll find performance enhancements, a slew of bug fixes, improvements to the mute settings, and if youâ€™re in the United Kingdom, youâ€™ll see support for Signal Payments â€“ a new feature that enables you to send and receive privacy focused payments as easily as sending or receiving a message. This is a beta feature in a &lt;a href=&quot;https://support.signal.org/hc/en-us/articles/360007318471-How-do-I-join-Signal-s-beta-&quot;&gt;beta build&lt;/a&gt;, but for those in the United Kingdom living life on the edge, please help us test and give feedback.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/help-us-test-payments-in-signal/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Help users in Iran reconnect to Signal</title>
+      <link>https://signal.org/blog/help-iran-reconnect/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/help-iran-reconnect</guid>
+      <description>
+        
+        &lt;p&gt;Just over a week ago, &lt;a href=&quot;https://twitter.com/signalapp/status/1353839763388649473&quot;&gt;we announced&lt;/a&gt; that Iranian censors had started blocking all Signal traffic in the country. As an interim solution to help people in Iran get connected again, weâ€™ve added support in Signal for a &lt;a href=&quot;https://github.com/signalapp/Signal-TLS-Proxy&quot;&gt;simple TLS proxy&lt;/a&gt; that is easy to set up, can be used to bypass the network block, and will securely route traffic to the Signal service.&lt;/p&gt;
+
+&lt;p&gt;This new connection method is supported in the latest Signal Android beta release, and will be rolling out to production users in a few days. Our hope is that this will help many people in Iran start sending and receiving messages again while we continue to explore additional censorship circumvention techniques that will work there.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/help-iran-reconnect/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>No, Cellebrite cannot 'break Signal encryption.'</title>
+      <link>https://signal.org/blog/cellebrite-and-clickbait/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/cellebrite-and-clickbait</guid>
+      <description>
+        
+        &lt;p&gt;Yesterday, the BBC ran a story with the factually untrue headline, â€œCellebrite claimed to have cracked chat appâ€™s encryption.â€ This is false.
+Not only can Cellebrite not break Signal encryption, but Cellebrite never even claimed to be able to.&lt;/p&gt;
+
+&lt;p&gt;Since we werenâ€™t actually given the opportunity to comment in that story, weâ€™re posting this to help to clarify things for anyone who may have
+seen the headline.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/cellebrite-and-clickbait/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Adding Encrypted Group Calls to Signal</title>
+      <link>https://signal.org/blog/group-calls/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/group-calls</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/group-calling-hero-compressed.jpg&quot; alt=&quot;An illustration Signal group calls.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2020 has seen its fair number of challenges and changes. Weâ€™ve all adapted to new ways of staying in touch, getting work done, celebrating birthdays and weddings, and even exercising. As more and more of our critical and personal moments move online, we want to continue to provide you with new ways to share and connect privately.&lt;/p&gt;
+
+&lt;p&gt;Today, weâ€™re launching group calls in Signal with the latest versions of our apps. Group calls are free, private, and end-to-end encrypted â€” &lt;a href=&quot;/blog/looking-back-as-the-world-moves-forward/&quot;&gt;like everything else&lt;/a&gt; on Signal.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/group-calls/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Link Up with Group Links</title>
+      <link>https://signal.org/blog/group-links/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/group-links</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/group-links.jpg&quot; alt=&quot;An illustration of a phone with a balloon and a link.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We recently released &lt;a href=&quot;/blog/new-groups/&quot;&gt;a new version of Signal groups&lt;/a&gt; with group admins, @mentions, permissions, and more. Today weâ€™re adding one more feature into the mix: group links, which let you quickly create a link that anyone can follow to join your group. Like our other new group features, you can create a new group to try it out now, but these features will be coming soon to your existing Signal groups.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/group-links/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Research on your terms</title>
+      <link>https://signal.org/blog/signal-research/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-research</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/research-header.png&quot; alt=&quot;An illustration of circles and chat bubbles.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Signal has always benefitted from our engaged and supportive community, and wouldnâ€™t be what it is without your input and feedback. As the number of people using Signal has grown, so have our efforts to keep pace with what people expect from a messaging app, and where we might find new opportunities for Signal.&lt;/p&gt;
+
+&lt;p&gt;Software companies typically overflow with data that explains the past and forecasts possible futures. They know exactly who is doing what with their products, how often, and where. While an abundance of data can contribute to their product and user experience decisions, these data collection practices are often rife with overreach and abuse. Signal doesnâ€™t track you, collect your data, or measure which features you use. Anything and everything you do with Signal is your business. Which means that for us to dial in the features and experiences you expect calls for a respectful practice of research.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-research/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Multi-device calls with ICE forking</title>
+      <link>https://signal.org/blog/ice-forking/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/ice-forking</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-calling-illustration.jpg&quot; alt=&quot;An illustration of desktop calling.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that voice and video calls are &lt;a href=&quot;/blog/desktop-calling-beta&quot;&gt;available for everyone&lt;/a&gt; on Signal Desktop and iPad, in addition to our mobile clients, we want to share a closer look at the technology that makes it possible for incoming calls to ring across multiple devices. Every call placed on Signal has always been private and end-to-end encrypted, but we previously supported only calls to or from one primary device per person. Now, you can make and receive secure audio and video calls from the devices in your pocket, on your lap, or at your desk.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/ice-forking/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>New Features Coming to Signal Groups</title>
+      <link>https://signal.org/blog/new-groups/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/new-groups</guid>
+      <description>
+        
+        &lt;div class=&quot;text-center&quot;&gt;
+&lt;center&gt;
+&lt;lottie-player src=&quot;/blog/animations/new-groups.json&quot; background=&quot;#FFFFFF&quot; speed=&quot;1&quot; style=&quot;width: 75%;&quot; autoplay=&quot;&quot;&gt;&lt;/lottie-player&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Whether itâ€™s staying in touch with family and friends, planning a party, scheduling an event, getting work done, or &lt;a href=&quot;/blog/blur-tools/&quot;&gt;organizing for change&lt;/a&gt;, group chats are an increasingly important part of Signal. Today weâ€™re releasing a new version of Signal groups that gives you a richer private group experience with group admins, granular permissions, @mentions and more. If youâ€™re excited to try out these features now, you can create a new group to do so. These features will be coming soon to your existing Signal groups in a future update.&lt;/p&gt;
+
+&lt;p&gt;Signal groups are built on top of the new &lt;a href=&quot;/blog/signal-private-group-system/&quot;&gt;private group system&lt;/a&gt; technology we previewed last year, which gives you a modern group chat experience while keeping your groups private: the Signal service has no access to your group memberships, group titles, group avatars, or group attributes.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/new-groups/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>A new platform is calling: Help us test one-to-one voice and video conversations on Signal Desktop</title>
+      <link>https://signal.org/blog/desktop-calling-beta/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/desktop-calling-beta</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-calling-preview-header.jpg&quot; alt=&quot;Screenshot of a video call on Signal Desktop.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; This feature is now available in production.&lt;/p&gt;
+
+&lt;p&gt;The latest beta release of Signal Desktop includes preliminary support for one-to-one voice and video calls. Call your friends and family on macOS, Windows, and Linux; see their smiles on a larger screen; hear their laughter through the big speakers on your desk; and help us test the next generation of calling on Signal.&lt;/p&gt;
+
+&lt;p&gt;Beta users get an early chance to evaluate call quality and performance while we continue to improve the interface and work on upcoming features.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/desktop-calling-beta/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Accept the unexpected: Message requests are now available in Signal</title>
+      <link>https://signal.org/blog/message-requests/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/message-requests</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/message-requests-header.jpg&quot; alt=&quot;Screenshot of an incoming message request.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The number of people who join Signal every day is still growing at a record pace. With so many new conversations getting started, weâ€™ve heard from a lot of users that theyâ€™d like more control over how they begin.&lt;/p&gt;
+
+&lt;p&gt;With message requests, when someone who isnâ€™t in your contacts starts a new chat with you or adds you to a group, you can quickly see more info before accepting the request, deleting it, or blocking the conversation.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/message-requests/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Certifiably "F"ine</title>
+      <link>https://signal.org/blog/certifiably-fine/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/certifiably-fine</guid>
+      <description>
+        
+        &lt;p&gt;Sometimes people dive into Signalâ€™s code looking for domain names, and then they send us screenshots asking if they should be concerned:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/ssllabs-screenshot.png&quot; alt=&quot;Screenshot of 'T' rating on ssl labs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We reply with a short explanation that lays out why thereâ€™s nothing wrong, but we understand the confusion. Nobody would be excited about getting a grade like this on a homework assignment â€“ and youâ€™d have to stay after class and ask the teacher what the hell a â€œTâ€ even means on your report about summer vacation (â€œTâ€oo cool for school?).&lt;/p&gt;
+
+&lt;p&gt;Letâ€™s take a deeper look at whatâ€™s going on.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/certifiably-fine/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Help us encrypt even more faces</title>
+      <link>https://signal.org/blog/encrypt-more-faces/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/encrypt-more-faces</guid>
+      <description>
+        
+        &lt;p&gt;Itâ€™s been about two weeks since we announced &lt;a href=&quot;/blog/encrypt-your-face/&quot;&gt;an initiative&lt;/a&gt; to distribute versatile face coverings to help support everyone who is self-organizing for change in the streets. Since then, weâ€™ve shipped over $25,000 worth of face coverings to organizers throughout the United States. Over $6,000 worth of merchandise was sent to Washington D.C. last week in time for the Juneteenth events in the heart of the city.&lt;/p&gt;
+
+&lt;p&gt;We continue to be inspired by the energy and enthusiasm that is helping to shape change in America, and many people have reached out and asked how they can help. In order to make it as easy as possible, weâ€™re opening up a separate donation space to continue funding these efforts.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/encrypt-more-faces/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>It's OK to be a little Emojional</title>
+      <link>https://signal.org/blog/more-reactions/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/more-reactions</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/emoji-reactions-header.png&quot; alt=&quot;The reaction selector next to a collage of new emojis.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The world was a different place when we &lt;a href=&quot;https://signal.org/blog/reactions/&quot;&gt;announced message reactions&lt;/a&gt; back in February, but expressing the way you feel has never been more important. Instead of being limited to the default set of reactions that we started with, the latest Signal updates for Android, Desktop, and iOS let you react with even more emoji.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/more-reactions/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Your next upgrade deserves an upgrade</title>
+      <link>https://signal.org/blog/ios-device-transfer/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/ios-device-transfer</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/ios-device-transfer-header.jpg&quot; alt=&quot;A mock-up showing Signal information being transferred from an older phone (with a broken screen) to a brand-new phone.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Signal iOS now includes a new feature that makes it possible to switch to a brand-new iPhone or iPad while securely transferring Signal information from your existing iOS device. As with every new Signal feature, the process is end-to-end encrypted and &lt;a href=&quot;/blog/looking-back-as-the-world-moves-forward/&quot;&gt;designed to protect your privacy&lt;/a&gt;. Transfers also occur over a local connection (similar to AirDrop), so even large migrations can be completed quickly.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/ios-device-transfer/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Encrypt your face</title>
+      <link>https://signal.org/blog/encrypt-your-face/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/encrypt-your-face</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/encrypt-your-face.jpg&quot; alt=&quot;A picture of someone wearing the face covering.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One immediate thing seems clear about 2020: itâ€™s a good year to cover your face. Online, weâ€™re working to scale and &lt;a href=&quot;/blog/blur-tools/&quot;&gt;improve Signal&lt;/a&gt; for everyone that is relying on it, but as one small offline way to help support everyone self-organizing for change in the streets, weâ€™re also distributing face coverings free of charge.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/encrypt-your-face/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Looking back at how Signal works, as the world moves forward</title>
+      <link>https://signal.org/blog/looking-back-as-the-world-moves-forward/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/looking-back-as-the-world-moves-forward</guid>
+      <description>
+        
+        &lt;p&gt;In the midst of world-wide protests against racism and police brutality, a lot of people are becoming more immediately aware and concerned about the security of their data and online communication. Weâ€™ve gotten a lot of questions at Signal over the past week, so we wanted to briefly recap how it is that weâ€™ve designed Signal, and how we think about concepts like privacy, security, and trust.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/looking-back-as-the-world-moves-forward/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Blur tools for Signal</title>
+      <link>https://signal.org/blog/blur-tools/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/blur-tools</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/blur-header.jpg&quot; alt=&quot;The Signal app displaying the new blur interface in the image editor.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Right now, people around the world are marching and protesting against racism and police brutality, outraged by the most recent police murders of George Floyd and Breonna Taylor. At Signal, we support the people who have gone into the streets to make their voices heard. We believe that something in America needs to change, and even if we donâ€™t know exactly how, we support and trust in the people who are self-organizing around the country to figure it out.&lt;/p&gt;
+
+&lt;p&gt;Many of the people and groups who are organizing for that change are using Signal to communicate, and weâ€™re working hard to keep up with the increased traffic. Weâ€™ve also been working to figure out additional ways we can support everyone in the street right now.&lt;/p&gt;
+
+&lt;p&gt;One immediate thing seems clear: 2020 is a pretty good year to cover your face.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/blur-tools/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Introducing Signal PINs</title>
+      <link>https://signal.org/blog/signal-pins/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-pins</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-pins.png&quot; alt=&quot;An illustration of asterisks superimposed over the shape of a smartphone.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At Signal, our goal is to build a reliable, secure, and private communication experience that is broadly accessible and simple to use. From the beginning, weâ€™ve designed Signal so that your information is in your hands rather than ours.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-pins/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>230, or not 230? That is the EARN IT question.</title>
+      <link>https://signal.org/blog/earn-it/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/earn-it</guid>
+      <description>
+        
+        &lt;p&gt;Over the past several weeks, Signal traffic has gone through the roof. New users are signing up at unprecedented rates, and weâ€™ve expanded our server capacity faster than we ever anticipated.&lt;/p&gt;
+
+&lt;p&gt;It means a lot to us that so many people are relying on Signal during this difficult time. When users check in on their families, share moments of solace, smile with their friends, or discuss sensitive health issues with their doctors, Signalâ€™s end-to-end encryption and privacy-preserving technology helps keep this information secure.&lt;/p&gt;
+
+&lt;p&gt;At a time when more people than ever are benefiting from these protections, the EARN IT bill proposed by the Senate Judiciary Committee threatens to put them at risk. COVID-19 has us sheltering in place, but we cannot quarantine our concerns.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/earn-it/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Take a shortcut through keyboard history</title>
+      <link>https://signal.org/blog/keyboard-shortcuts/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/keyboard-shortcuts</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/keyboard-shortcuts-header.jpg&quot; alt=&quot;A stylized version of the Signal keyboard shortcuts reference card for macOS.&quot; /&gt;&lt;/p&gt;
+
+&lt;style&gt;
+ul.kbtimeline {
+  list-style-type: none;
+  position: relative;
+}
+ul.kbtimeline:before {
+  content: ' ';
+  background: #d4d9df;
+  display: inline-block;
+  margin-top: 1rem;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+}
+ul.kbtimeline &gt; li {
+  margin: 20px 0;
+  padding-left: 60px;
+}
+ul.kbtimeline &gt; li:before {
+  content: ' ';
+  background: white;
+  display: inline-block;
+  margin-top: 0.40em;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #2090ea;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+}
+&lt;/style&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/keyboard-shortcuts/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal Artist Series: Two new sticker packs from Swoon</title>
+      <link>https://signal.org/blog/swoon/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/swoon</guid>
+      <description>
+        
+        &lt;p&gt;We &lt;a href=&quot;https://signal.org/blog/make-privacy-stick/&quot;&gt;announced support for stickers in Signal&lt;/a&gt; less than two months ago. Since then, over five thousand sticker packs have been uploaded. Today we are officially adding two more: &lt;a href=&quot;https://signal.art/addstickers/#pack_id=e61fa0867031597467ccc036cc65d403&amp;amp;pack_key=13ae7b1a7407318280e9b38c1261ded38e0e7138b9f964a6ccbb73e40f737a9b&quot;&gt;Hands&lt;/a&gt; and &lt;a href=&quot;https://signal.art/addstickers/#pack_id=cca32f5b905208b7d0f1e17f23fdc185&amp;amp;pack_key=8bf8e95f7a45bdeafe0c8f5b002ef01ab95b8f1b5baac4019ccd6b6be0b1837a&quot;&gt;Faces&lt;/a&gt; by &lt;a href=&quot;https://swoonstudio.org&quot;&gt;Swoon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/swoon/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Give reactions a thumbs up</title>
+      <link>https://signal.org/blog/reactions/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/reactions</guid>
+      <description>
+        
+        &lt;p&gt;When youâ€™re standing next to a friend who says something funny, you can just laugh. You donâ€™t need to pause and say â€œI found what you just said humorousâ€ or quote their own words back to them before displaying a real-world emoji on your face. This feeling of immediacy and effortless response is what reactions are all about. Theyâ€™re a quick way to share your take on any message, and you can try them today in the latest Signal beta.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/reactions/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Improving Registration Lock with Secure Value Recovery</title>
+      <link>https://signal.org/blog/improving-registration-lock/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/improving-registration-lock</guid>
+      <description>
+        
+        &lt;p&gt;&lt;a href=&quot;https://support.signal.org/hc/en-us/articles/360007059792-Registration-Lock&quot;&gt;Registration Lock&lt;/a&gt; allows you to set a PIN that is required for account registration in addition to standard SMS-based verification. Todayâ€™s Signal beta release enhances the security of these PINs by transitioning them to use &lt;a href=&quot;/blog/secure-value-recovery/&quot;&gt;Secure Value Recovery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/improving-registration-lock/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Storage management for Signal Android</title>
+      <link>https://signal.org/blog/storage-management-for-android/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/storage-management-for-android</guid>
+      <description>
+        
+        &lt;p&gt;Signal for Android now includes storage management functionality that helps visualize files across all of your conversations, sorted by size and type, in order to assist you in reducing the amount of space Signal uses on your device.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/storage-management-for-android/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Sometimes once is better than a lifetime</title>
+      <link>https://signal.org/blog/view-once/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/view-once</guid>
+      <description>
+        
+        &lt;p&gt;Todayâ€™s beta releases of Signal for Android and iOS include a new way to send individual photos and videos that are automatically removed from a conversation thread after they have been viewed.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/view-once/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Technology Preview for secure value recovery</title>
+      <link>https://signal.org/blog/secure-value-recovery/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/secure-value-recovery</guid>
+      <description>
+        
+        &lt;p&gt;At Signal, we want to make privacy simple. From the beginning, weâ€™ve designed Signal so that your information is in your hands rather than ours. Technologies like &lt;a href=&quot;/docs/&quot;&gt;Signal Protocol&lt;/a&gt; secure your messages so that they are never visible by anyone but you and the intended recipients. Technologies like &lt;a href=&quot;/blog/private-contact-discovery/&quot;&gt;private contact discovery&lt;/a&gt;, &lt;a href=&quot;/blog/signal-private-group-system/&quot;&gt;private groups&lt;/a&gt;, and &lt;a href=&quot;/blog/sealed-sender/&quot;&gt;sealed sender&lt;/a&gt; mean that we donâ€™t have a plaintext record of your contacts, social graph, profile name, location, group memberships, groups titles, group avatars, group attributes, or who is messaging whom. Plaintext databases have never been our style. We donâ€™t want to build a system where you trust us with your data; we want to build a system where you donâ€™t have to.&lt;/p&gt;
+
+&lt;p&gt;Weâ€™ve been working on new techniques based on secure enclaves and key splitting that are designed to enhance and expand general capabilities for private cloud storage. Our aim is to unlock new possibilities and new functionality within Signal which require cross-platform long-term durable state, while verifiably keeping this state inaccessible to everyone but the user who created it.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/secure-value-recovery/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Make privacy stick</title>
+      <link>https://signal.org/blog/make-privacy-stick/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/make-privacy-stick</guid>
+      <description>
+        
+        &lt;p&gt;They get slapped on street signs. We wear them on our clothes to identify ourselves to distant coworkers during awkward holiday parties. Some people create massive galleries on their laptops in overlapping levels stacked so deep that the hinges begin to lose their structural integrity and LCD screens struggle to remain upright. The digital versions are even more popular, and we get asked about them a lot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stickers are everywhere, and now theyâ€™re in Signal too.&lt;/strong&gt; Theyâ€™re a fun way to add a new layer of expression to your conversations â€“ and just like every other Signal feature, they are also encrypted, private, and secure.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/make-privacy-stick/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Technology Preview: Signal Private Group System</title>
+      <link>https://signal.org/blog/signal-private-group-system/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-private-group-system</guid>
+      <description>
+        
+        &lt;p&gt;Groups are inherently social, and Signal is a social app. Whether youâ€™re planning a surprise party, discussing last nightâ€™s book club meeting, exchanging photos with your family, or organizing something important, group messaging has always been a key feature of Signal.&lt;/p&gt;
+
+&lt;p&gt;Signal provides &lt;em&gt;private groups:&lt;/em&gt; the Signal service has no record of your group memberships, group titles, group avatars, or group attributes. Weâ€™ve been working on new private group technology that will enable group administrators and access control, improve group scalability, and set the stage for a much richer group experience â€“ all while maintaining Signalâ€™s unique group security and privacy properties. Weâ€™re moving into the future while keeping what we loved about the past.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-private-group-system/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal for iPad, and other iOS improvements</title>
+      <link>https://signal.org/blog/signal-for-ipad/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-for-ipad</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-ios-3.0-on-ipad.jpg&quot; alt=&quot;Signal running on an iPad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Signal 3.0 is &lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8&quot;&gt;now available in the App Store&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iPad support has arrived. Set up your favorite tablet as a linked device.&lt;/li&gt;
+  &lt;li&gt;Forward messages between threads. Editing support lets you amend, extend, append, explain what you intend, or tie up loose ends before you hit send.&lt;/li&gt;
+  &lt;li&gt;Built-in support for video trimming can help any clip turn into a highlight.&lt;/li&gt;
+  &lt;li&gt;Tap on someoneâ€™s avatar in a group conversation to quickly message or call them. While the group agonizes over dinner plans, subtly exert your influence by making a case for your favorite restaurant in one-on-one conversations.&lt;/li&gt;
+  &lt;li&gt;Jump between threads and survey your message landscape (in landscape) with a horizontal inbox/conversation view on larger devices.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We would like to thank all of the alpha and beta users who helped us test and stabilize this release. If you want to get an early preview of new Signal features, you can &lt;a href=&quot;https://support.signal.org/hc/en-us/articles/360007318471-How-do-I-join-Signal-s-beta-&quot;&gt;join the beta community here&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>I link therefore I am</title>
+      <link>https://signal.org/blog/i-link-therefore-i-am/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/i-link-therefore-i-am</guid>
+      <description>
+        
+        &lt;p&gt;The latest releases of Signal for Android, Desktop, and iOS are rolling out now with the ability to send optional link previews. This feature is built
+on the same foundation that has powered Signalâ€™s animated GIF search for more than two years and that we have since &lt;a href=&quot;/blog/signal-and-giphy-update/&quot;&gt;expanded with additional privacy
+enhancements&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/link-previews-animation.gif&quot; width=&quot;360&quot; height=&quot;180&quot; alt=&quot;Animation that displays a link preview being created on iOS.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Weâ€™re launching link previews with initial support for &lt;a href=&quot;https://imgur.com/&quot;&gt;Imgur&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/&quot;&gt;Instagram&lt;/a&gt;,
+&lt;a href=&quot;https://www.reddit.com/&quot;&gt;Reddit&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/&quot;&gt;YouTube&lt;/a&gt;. These are four of the most popular sites on the Internet and their heavy
+focus on visual content makes them a perfect fit for this feature. We donâ€™t believe that privacy is about austerity, and now Signal users can see
+whatâ€™s behind the URL while sharing this content with their friends.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/i-link-therefore-i-am/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Setback in the outback</title>
+      <link>https://signal.org/blog/setback-in-the-outback/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/setback-in-the-outback</guid>
+      <description>
+        
+        &lt;p&gt;Like many others, we have been following the latest developments in Australia related to the â€œAssistance and Accessâ€ bill with a growing sense of
+frustration. The widespread adoption of strong cryptography and end-to-end encryption has given people around the world the ability to protect their
+personal information and communicate securely. Life is increasingly lived online, and the everyday actions of billions of people depend on this
+foundation remaining strong.&lt;/p&gt;
+
+&lt;p&gt;Attempting to roll back the clock on security improvements which have massively benefited Australia and the entire global community is a
+disappointing development.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/setback-in-the-outback/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Technology preview: Sealed sender for Signal</title>
+      <link>https://signal.org/blog/sealed-sender/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/sealed-sender</guid>
+      <description>
+        
+        &lt;p&gt;In addition to the end-to-end encryption that protects every Signal message, the Signal service is designed to &lt;a href=&quot;https://signal.org/bigbrother/&quot;&gt;minimize the data that is retained
+about Signal users&lt;/a&gt;. By design, it does not store a record of your contacts, social graph, conversation list,
+location, user avatar, user profile name, group memberships, group titles, or group avatars.&lt;/p&gt;
+
+&lt;p&gt;We have been &lt;a href=&quot;/blog/private-contact-discovery/&quot;&gt;exploring techniques&lt;/a&gt; to further reduce the amount of information that is accessible to the service,
+and the latest beta release includes changes designed to move Signal incrementally closer to the goal of hiding another piece of metadata:
+who is messaging whom.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/sealed-sender/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>A letter from Amazon</title>
+      <link>https://signal.org/blog/looking-back-on-the-front/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/looking-back-on-the-front</guid>
+      <description>
+        
+        &lt;p&gt;Last week, we received the following email from Amazon:&lt;/p&gt;
+
+&lt;div style=&quot;font-family: Menlo,Monaco,Consolas,monospace; margin-left: 30px;&quot;&gt;
+&lt;p&gt;
+From: [redacted], [redacted] &amp;lt;[redacted]@amazon.com&amp;gt;&lt;br /&gt;
+Subject: Notification of potential account suspension regarding AWS Service Terms
+&lt;/p&gt;
+&lt;p&gt;
+Moxie,
+&lt;/p&gt;
+&lt;p&gt;
+Yesterday AWS became aware of your GitHub and Hacker News/ycombinator posts describing how Signal plans to make its traffic look like traffic from another site, (popularly known as â€œdomain frontingâ€) by using a domain owned by Amazon --  Souq.com.  You do not have permission from Amazon to use Souq.com for any purpose.  Any use of Souq.com or any other domain to masquerade as another entity without express permission of the domain owner is in clear violation of the AWS Service Terms (Amazon CloudFront, Sec. 2.1: â€œYou must own or have all necessary rights to use any domain name or SSL certificate that you use in conjunction with Amazon CloudFrontâ€).  It is also a violation of our Acceptable Use Policy by falsifying the origin of traffic and the unauthorized use of a domain.
+&lt;/p&gt;
+&lt;p&gt;
+We are happy for you to use AWS Services, but you must comply with our Service Terms.  We will immediately suspend your use of CloudFront if you use third party domains without their permission to masquerade as that third party.
+&lt;/p&gt;
+&lt;p&gt;
+Thank you,
+&lt;/p&gt;
+&lt;p&gt;
+[redacted]
+&lt;/p&gt;
+&lt;p&gt;
+General Manager, Amazon CloudFront
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/looking-back-on-the-front/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal Foundation</title>
+      <link>https://signal.org/blog/signal-foundation/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-foundation</guid>
+      <description>
+        
+        &lt;p&gt;Long before we knew that it would be called Signal, we knew what we wanted it to be. Instead of teaching the rest of the world cryptography,
+we wanted to see if we could develop cryptography that worked for the rest of the world. At the time, the industry consensus was largely that
+encryption and cryptography would remain unusable, but we started Signal with the idea that private communication could be simple.&lt;/p&gt;
+
+&lt;p&gt;Since then, weâ€™ve made some progress. Weâ€™ve built a service used by millions, and software used by billions. The stories that make it back to
+us and keep us going are the stories of people discovering each other in moments where they found they could speak freely over Signal, of people
+falling in love over Signal, of people organizing ambitious plans over Signal. When we ask friends who at their workplace is on Signal and they
+respond â€œevery C-level executive, and the kitchen staff.â€ When we receive a subpoena for user data and have nothing to send back but a blank
+sheet of paper. When we catch that glimpse of â€œSignal blueâ€ on a metro commuterâ€™s phone and smile.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-foundation/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal partners with Microsoft to bring end-to-end encryption to Skype</title>
+      <link>https://signal.org/blog/skype-partnership/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/skype-partnership</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/skype-header.jpg&quot; alt=&quot;Skype displaying a Private Conversation acceptance screen.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In collaboration with Signal, Microsoft is introducing a &lt;a href=&quot;https://go.skype.com/privateconversations&quot;&gt;Private Conversations&lt;/a&gt; feature in Skype, powered by Signal Protocol.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/skype-partnership/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Expanding Signal GIF search</title>
+      <link>https://signal.org/blog/signal-and-giphy-update/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-and-giphy-update</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/giphy-ios-header.jpg&quot; alt=&quot;Signal for iOS displaying GIF search results&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todayâ€™s Signal beta for iOS includes support for animated GIF search. Signal iOS has long supported sending and receiving GIFs, but todayâ€™s
+beta adds support for browsing and searching popular GIFs from within Signal.&lt;/p&gt;
+
+&lt;p&gt;We &lt;a href=&quot;/blog/giphy-experiment&quot;&gt;previously announced&lt;/a&gt; experimental support for animated GIF search in Signal Android, which weâ€™re now bringing
+to iOS, along with some privacy updates to the process.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-and-giphy-update/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Standalone Signal Desktop</title>
+      <link>https://signal.org/blog/standalone-signal-desktop/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/standalone-signal-desktop</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/standalone-signal-desktop.png&quot; alt=&quot;Standalone version of Signal running on a laptop.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Signal Desktop is &lt;a href=&quot;/download/&quot;&gt;now available&lt;/a&gt; in a new, standalone
+form, and the &lt;a href=&quot;https://developer.chrome.com/apps/about_apps&quot;&gt;Chrome App&lt;/a&gt; has been
+deprecated.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/standalone-signal-desktop/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Read receipts are coming to Signal</title>
+      <link>https://signal.org/blog/read-receipts/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/read-receipts</guid>
+      <description>
+        
+        &lt;p&gt;Todayâ€™s beta release of Signal for Android and iOS includes support for read receipts. This is an optional new feature that gives you the ability to see and share when messages have been read. Something tells us that you might find this usefulâ€¦&lt;/p&gt;
+
+&lt;div style=&quot;margin:0 auto;text-align:center;border:1px solid black&quot;&gt;
+&lt;video width=&quot;360&quot; height=&quot;360&quot; poster=&quot;/blog/videos/read-receipts-poster.png&quot; onclick=&quot;this.play()&quot; autobuffer=&quot;&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/blog/videos/read-receipts.webm&quot; type=&quot;video/webm&quot; /&gt;
+  &lt;source src=&quot;/blog/videos/read-receipts.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/read-receipts/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Technology preview: Private contact discovery for Signal</title>
+      <link>https://signal.org/blog/private-contact-discovery/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/private-contact-discovery</guid>
+      <description>
+        
+        &lt;p&gt;At Signal, weâ€™ve been thinking about &lt;a href=&quot;/blog/contact-discovery/&quot;&gt;the difficulty of private contact discovery&lt;/a&gt;
+for a long time. Weâ€™ve been working on strategies to improve our current design, and
+today weâ€™ve &lt;a href=&quot;https://github.com/signalapp/ContactDiscoveryService/&quot;&gt;published a new private contact discovery service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Using this service, Signal clients will be able to efficiently and scalably determine
+whether the contacts in their address book are Signal users &lt;strong&gt;without revealing the contacts
+in their address book to the Signal service&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/private-contact-discovery/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Encrypted profiles for Signal now in public beta</title>
+      <link>https://signal.org/blog/signal-profiles-beta/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-profiles-beta</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-profile-beta-1.jpg&quot; alt=&quot;Signal Profile being cropped&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The latest Signal beta for Android and iOS introduces support for Signal Profiles.&lt;/p&gt;
+
+&lt;p&gt;Profiles allow you to add a picture and display name that will be shown alongside your existing phone number when communicating with other users. Conversations will feel more personal. Group threads will be less confusing.&lt;/p&gt;
+
+&lt;p&gt;All of this is possible without sacrificing the privacy and security that you have come to expect from Signal.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-profiles-beta/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Safety number updates</title>
+      <link>https://signal.org/blog/verified-safety-number-updates/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/verified-safety-number-updates</guid>
+      <description>
+        
+        &lt;p&gt;The latest Signal beta includes some changes to the way safety numbers work. Back in November, we &lt;a href=&quot;/blog/safety-number-updates&quot;&gt;introduced experimental
+support&lt;/a&gt; for â€œadvisoryâ€ safety number changes, with the objective of collecting feedback in
+order to eventually make this the default experience.&lt;/p&gt;
+
+&lt;p&gt;Weâ€™ve taken the feedback weâ€™ve received over the past six months and incorporated it into a set of changes that weâ€™re
+releasing into beta today.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/verified-safety-number-updates/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Video calls for Signal out of beta</title>
+      <link>https://signal.org/blog/signal-video-calls/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-video-calls</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/callkit.png&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;badgebox&quot; style=&quot;display: block; margin-left: auto; margin-right:auto; max-width:100%;text-align:center;&quot;&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
+  &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; style=&quot;display:inline;&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We recently &lt;a href=&quot;/blog/signal-video-calls-beta&quot;&gt;released encrypted video calling as an opt-in beta&lt;/a&gt;. Weâ€™ve spent the past month
+collecting feedback and addressing the issues that the Signal community found in order to get it ready for production. Todayâ€™s Signal
+release for Android and iOS enables support for end-to-end encrypted video calls by default, which also greatly enhances the
+quality of Signal voice calls as well.&lt;/p&gt;
+
+&lt;p&gt;We think itâ€™s a big improvement, and hope you will to.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-video-calls/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Video calls for Signal now in public beta</title>
+      <link>https://signal.org/blog/signal-video-calls-beta/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-video-calls-beta</guid>
+      <description>
+        
+        &lt;div style=&quot;margin:0 auto;text-align:center&quot;&gt;
+&lt;video loop=&quot;&quot; autoplay=&quot;&quot;&gt;
+ &lt;source src=&quot;/blog/images/video.webm&quot; type=&quot;video/webm&quot; /&gt;
+ &lt;source src=&quot;/blog/images/video.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;badgebox&quot; style=&quot;display: block; margin-left: auto; margin-right:auto; max-width:100%;text-align:center;&quot;&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
+  &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; style=&quot;display:inline;&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Todayâ€™s Signal release for Android and iOS includes beta support for video calls.&lt;/p&gt;
+
+&lt;p&gt;This represents an entirely new calling infrastructure for Signal, and should increase voice call quality as well.
+We think itâ€™s a big improvement, but weâ€™re rolling it out in stages to collect feedback from people with different
+devices, networks, and regions in order to ensure there are no surprises when itâ€™s enabled for everyone by default.&lt;/p&gt;
+
+&lt;p&gt;To help us test on Android and iOS, toggle Signal Settings -&amp;gt; Advanced -&amp;gt; Video calling beta.&lt;/p&gt;
+
+&lt;p&gt;Only calls between Signal users who have &lt;em&gt;both&lt;/em&gt; enabled the video calling beta will use the new calling system.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-video-calls-beta/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>There is no WhatsApp 'backdoor'</title>
+      <link>https://signal.org/blog/there-is-no-whatsapp-backdoor/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/there-is-no-whatsapp-backdoor</guid>
+      <description>
+        
+        &lt;p&gt;Today, The Guardian published a story falsely claiming that WhatsAppâ€™s end-to-end encryption contains a â€œbackdoor.â€&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/there-is-no-whatsapp-backdoor/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Doodles, stickers, and censorship circumvention for Signal Android</title>
+      <link>https://signal.org/blog/doodles-stickers-censorship/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/doodles-stickers-censorship</guid>
+      <description>
+        
+        &lt;p&gt;The latest Signal for Android release includes support for adding doodles, stickers, and text to images.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/censorship.jpg&quot; alt=&quot;Doodle status of Egyptian censorship&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This release also includes support for censorship circumvention in Egypt and the United Arab Emirates.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/doodles-stickers-censorship/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Safety number updates</title>
+      <link>https://signal.org/blog/safety-number-updates/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/safety-number-updates</guid>
+      <description>
+        
+        &lt;p&gt;The latest Signal release includes some changes to the way safety numbers work.&lt;/p&gt;
+
+&lt;p&gt;Safety numbers allow Signal users to verify the privacy of their communication with a contact, either by comparing
+a number or by scanning a single QR code.  We recently introduced this new design as an update to Signalâ€™s previous UX,
+which we felt was no longer adequate for what people had come to expect from Signal.  Letâ€™s look at the safety numbers
+design in more detail, then go over whatâ€™s new in this release.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/safety-number-updates/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal and GIPHY</title>
+      <link>https://signal.org/blog/giphy-experiment/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/giphy-experiment</guid>
+      <description>
+        
+        &lt;p&gt;The latest Signal release for Android includes support for GIF search and browsing.  Signal has long
+supported sending and receiving GIFs, but this is an experiment that allows users to browse, search, and select
+popular GIFs from within Signal.&lt;/p&gt;
+
+&lt;video width=&quot;100%&quot; loop=&quot;&quot; autoplay=&quot;&quot;&gt;
+ &lt;source src=&quot;/blog/images/giphy.webm&quot; type=&quot;video/webm&quot; /&gt; 
+ &lt;source src=&quot;/blog/images/giphy.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/giphy-experiment/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Disappearing messages for Signal</title>
+      <link>https://signal.org/blog/disappearing-messages/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/disappearing-messages</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/disappearing-messages.jpg&quot; alt=&quot;Disappearing messages screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The latest Signal release for iPhone, Android, and Desktop now includes support for disappearing messages.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-timer-has-come&quot;&gt;The timer has come&lt;/h2&gt;
+
+&lt;p&gt;With this update, any conversation can be configured to delete sent and received messages after a specified interval.
+The configuration applies to all parties of a conversation, and the clock starts ticking for each recipient once
+theyâ€™ve read their copy of the message.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/disappearing-messages/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Desktop support comes to Signal for iPhone</title>
+      <link>https://signal.org/blog/signal-desktop-ios/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-desktop-ios</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-desktop-ios.jpg&quot; alt=&quot;Signal Desktop, OSX Theme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The latest Signal for iPhone release now includes multi-device support, allowing you to seamlessly move your private
+messaging experience from your iPhone to your desktop computer and back.  Once youâ€™ve linked a desktop
+client from within the Signal iPhone app, you can switch to the desktop at any time, whether your phone is online
+or not.&lt;/p&gt;
+
+&lt;p&gt;The Signal Desktop app also supports a new iOS theme, which is enabled by default whenever you link a desktop
+client from the Signal iPhone app.  Try it out!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
+  &lt;img alt=&quot;Get it in the Chrome Web Store&quot; src=&quot;https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal for Android Attachment Bug</title>
+      <link>https://signal.org/blog/signal-android-attachment-bug/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-android-attachment-bug</guid>
+      <description>
+        
+        &lt;p&gt;We recently received a great bug report from Jean-Philippe Aumasson and Markus Vervier, who identified
+a problem with the way that image, audio, and video attachments are processed by the Signal for Android
+code.  We consider the implications of the bug to be low risk to Signal users, but have
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;released an update&lt;/a&gt;
+for the Signal Android app that addresses the problems they reported.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-android-attachment-bug/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Facebook Messenger deploys Signal Protocol for end-to-end encryption</title>
+      <link>https://signal.org/blog/facebook-messenger/</link>
+      <pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/facebook-messenger</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/fbmessenger.png&quot; alt=&quot;FB Messenger Secret Conversation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Facebook Messenger has started rolling out &lt;a href=&quot;https://newsroom.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/&quot;&gt;Secret Conversations&lt;/a&gt;, a feature that enables end-to-end
+encryption for conversations within Messenger.  Secret Conversations is built on Signal Protocol,
+a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt; we developed for asynchronous
+messaging systems.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/facebook-messenger/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>License update</title>
+      <link>https://signal.org/blog/license-update/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/license-update</guid>
+      <description>
+        
+        &lt;p&gt;Signal Protocol is a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt; for asynchronous messaging
+systems.  We use Signal Protocol as the foundation for our own private messaging app, Signal, but
+also make Signal Protocol libraries available &lt;a href=&quot;/blog/whatsapp-complete&quot;&gt;for other applications to use&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our Signal Protocol libraries are open source, licensed GPLv3.  We like the GPL for the quality control that it
+provides.  If someone publicly says that theyâ€™re using our software, we want to see if theyâ€™ve made
+any modifications, and whether theyâ€™re using it correctly.  This helps to increase transparency and
+accountability in deployments of our software, which we feel are important for end-to-end encryption.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/license-update/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Open Whisper Systems partners with Google on end-to-end encryption for Allo</title>
+      <link>https://signal.org/blog/allo/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/allo</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/allo-incognito.png&quot; alt=&quot;Allo Incognito Chat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At Open Whisper Systems, our goal is to make private communication simple. The foundation of our
+technology is Signal Protocol, a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt;
+for asynchronous messaging systems. It is built from the ground up to make seamless end-to-end
+encrypted messaging possible.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/allo/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Reflections: The ecosystem is moving</title>
+      <link>https://signal.org/blog/the-ecosystem-is-moving/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/the-ecosystem-is-moving</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;At Open Whisper Systems, weâ€™ve been developing open source â€œconsumer-facingâ€ software for
+the past four years.  We want to share some of the things weâ€™ve learned while doing it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As a software developer, I envy writers, musicians, and filmmakers.  Unlike software, when
+they create something, it is really done â€” forever.  A recorded album can be just the same 20 years
+later, but software has to change.&lt;/p&gt;
+
+&lt;p&gt;Software exists as part of an ecosystem, and &lt;strong&gt;the ecosystem is moving&lt;/strong&gt;.  The platform changes
+out from under it, the networks evolve, security threats and countermeasures are in constant shift,
+and the collective UX language rarely sits still.  As more money, time, and focus has gone into the
+ecosystem, the faster the whole thing has begun to travel.&lt;/p&gt;
+
+&lt;p&gt;All of this means that the set of expectations users have for social and communication features
+are evolving rapidly. Anyone building software today knows that it is not possible to stand still.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/the-ecosystem-is-moving/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal Desktop beta now publicly available</title>
+      <link>https://signal.org/blog/signal-desktop-public/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-desktop-public</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-beta-placed.png&quot; alt=&quot;Signal Desktop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
+  &lt;img alt=&quot;Get it in the Chrome Web Store&quot; src=&quot;https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For the past few months, the Signal Desktop beta has been available through an
+&lt;a href=&quot;/blog/signal-desktop&quot;&gt;invitation program&lt;/a&gt;.  Weâ€™ve gotten a lot of feedback,
+made a lot of improvements, and are now ready to open the beta up for &lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;public
+access&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-desktop-public/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>WhatsApp's Signal Protocol integration is now complete</title>
+      <link>https://signal.org/blog/whatsapp-complete/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/whatsapp-complete</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/whatsappcomplete2.png&quot; alt=&quot;WhatsApp Verification Screen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At Open Whisper Systems, our goal is to make private communication simple.  A year ago, we &lt;a href=&quot;https://whispersystems.org/blog/whatsapp/&quot;&gt;announced
+a partnership&lt;/a&gt; with WhatsApp and committed to
+integrating the Signal Protocol into their product, moving towards full end-to-end encryption for all of their users by default.&lt;/p&gt;
+
+&lt;p&gt;Over the past year, weâ€™ve been progressively rolling out Signal Protocol support for all WhatsApp
+communication across all WhatsApp clients.  This includes chats, group chats, attachments,
+voice notes, and voice calls across Android, iPhone, Windows Phone, Nokia S40, Nokia S60, Blackberry, and BB10.&lt;/p&gt;
+
+&lt;p&gt;As of today, the integration is &lt;a href=&quot;https://www.whatsapp.com/security&quot;&gt;fully complete&lt;/a&gt;. Users running the most
+recent versions of WhatsApp on any platform now get full end-to-end encryption for every message they send
+and every WhatsApp call they make when communicating with each other.  This includes all the benefits of the
+Signal Protocol â€“ a modern, open source, forward secure,
+&lt;a href=&quot;https://whispersystems.org/blog/advanced-ratcheting/&quot;&gt;strong encryption protocol&lt;/a&gt; for asynchronous messaging
+systems, designed to make end-to-end encrypted messaging as seamless as possible.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/whatsapp-complete/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Reproducible Signal builds for Android</title>
+      <link>https://signal.org/blog/reproducible-android/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/reproducible-android</guid>
+      <description>
+        
+        &lt;p&gt;As of our latest Android release, Signal builds are reproducible.  Reproducible builds help to verify
+that the source code in our &lt;a href=&quot;https://github.com/signalapp/Signal-Android&quot;&gt;GitHub repository&lt;/a&gt;
+is the exact source code used to build the compiled Signal APK being distributed through Google Play.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/reproducible-android/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal on the outside, Signal on the inside</title>
+      <link>https://signal.org/blog/signal-inside-and-out/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-inside-and-out</guid>
+      <description>
+        
+        &lt;p&gt;A few months ago &lt;a href=&quot;/blog/just-signal&quot;&gt;we completed&lt;/a&gt; the process of unifying all of our apps across Android, iOS,
+and the Desktop under the name â€˜Signal.â€™  This simplified the language around our apps and eliminated a lot of
+confusion. Now weâ€™re doing the same thing â€œinsideâ€ our apps by renaming Axolotl to Signal Protocol.&lt;/p&gt;
+
+&lt;p&gt;Axolotl has been the name of the cryptographic protocol that our apps use for end-to-end encryption, but itâ€™s not
+the easiest word to pronounce.  Sometimes people use â€˜Axolotlâ€™ to refer to just the base &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;double ratchet&lt;/a&gt;
+instead of the &lt;a href=&quot;/blog/asynchronous-security/&quot;&gt;full&lt;/a&gt; &lt;a href=&quot;/blog/simplifying-otr-deniability/&quot;&gt;messaging&lt;/a&gt;
+&lt;a href=&quot;/blog/private-groups/&quot;&gt;protocol&lt;/a&gt;, so there has also been some confusion around what people mean when they say â€˜Axolotl.â€™&lt;/p&gt;
+
+&lt;p&gt;To continue eliminating confusion and simplifying everything within the Signal ecosystem, weâ€™re renaming
+Axolotl to Signal Protocol. The implementations have been renamed, so there are open source Signal
+Protocol libraries available for C, Objective C, Java, and JavaScript in our
+&lt;a href=&quot;https://github.com/signalapp/&quot;&gt;GitHub repository&lt;/a&gt;, as before.  These have been making their
+way into an increasing number of communication apps, and weâ€™re excited for the future of the Signal Protocol
+as it continues to spread.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal Desktop</title>
+      <link>https://signal.org/blog/signal-desktop/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-desktop</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-desktop-fred.jpg&quot; alt=&quot;Signal Desktop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
+  &lt;img alt=&quot;Get it in the Chrome Web Store&quot; src=&quot;https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today weâ€™re making the Signal Desktop beta available. Signal Desktop brings the
+trusted private messaging experience of Signal to the desktop, with a simplicity
+that allows you to seamlessly continue conversations back and forth between
+your mobile device and your desktop computer.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-desktop/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Just Signal</title>
+      <link>https://signal.org/blog/just-signal/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/just-signal</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/justsignal.png&quot; alt=&quot;Just Signal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
+  &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today weâ€™ve started rolling out &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;Signal for Android&lt;/a&gt;,
+which unites simple private messaging and simple private calling into a single app on Android.
+This is the culmination of our effort to combine TextSecure and RedPhone into one app, which
+we &lt;a href=&quot;/blog/the-new-signal/&quot;&gt;began on iPhone&lt;/a&gt; and are now bringing to completion on Android.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/just-signal/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>No Risk No Reward</title>
+      <link>https://signal.org/blog/no-risk-no-reward/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/no-risk-no-reward</guid>
+      <description>
+        
+        &lt;p&gt;After immersing myself for years and years in the world of finance
+(specifically, options market making and algorithmic trading), there
+was no escaping this mantra of â€œno risk, no reward.â€  Most of the
+time, my (trading) style was fairly risk-averse.  I knew how to find
+the signals of opportunities among the daily noise to reap small
+rewards.  Fortunately, I also learned how to think about the outliers
+and to take the occasional big but calculated risks.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/no-risk-no-reward/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Saying goodbye to encrypted SMS/MMS</title>
+      <link>https://signal.org/blog/goodbye-encrypted-sms/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/goodbye-encrypted-sms</guid>
+      <description>
+        
+        &lt;p&gt;Itâ€™s 2015, and the end of the road for encrypted SMS/MMS in TextSecure.&lt;/p&gt;
+
+&lt;p&gt;The TextSecure story started back in 2009, at the dawn of the smartphone era. Back then, TextSecure focused on
+securing the transport that everyone coming from feature phones was familiar with: SMS.  Today, many things have
+changed, and TextSecure now emphasizes the â€œTextSecure transport,â€ which uses data rather than SMS. While we remain
+committed to supporting &lt;em&gt;plaintext&lt;/em&gt; SMS/MMS in addition to the encrypted TextSecure transport so that the app can
+function as a unified messenger, we are beginning the process of phasing out support for SMS/MMS as an &lt;em&gt;encrypted&lt;/em&gt;
+transport in favor of the TextSecure data protocol.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/goodbye-encrypted-sms/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal 2.0: Private messaging comes to the iPhone</title>
+      <link>https://signal.org/blog/the-new-signal/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/the-new-signal</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-new.jpg&quot; alt=&quot;The New Signal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today weâ€™re releasing &lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;Signal 2.0&lt;/a&gt;, with
+support for TextSecure private messaging.&lt;/p&gt;
+
+&lt;p&gt;It is now possible to send end-to-end encrypted group, text, picture, and video messages between Signal on iPhone and
+TextSecure on Android, all without SMS and MMS fees. Signal 2.0 blends private phone calls and private messaging into a
+single frictionless interface, allowing you to focus on whatâ€™s important by quickly organizing your conversations
+using an inbox/archive work flow.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/the-new-signal/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Beyond the Grunts and Clicks: An Exploration into Doing Things the Hard Way</title>
+      <link>https://signal.org/blog/hardness/</link>
+      <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/hardness</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Nineteen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/gregg-cyberpunk.jpg&quot; class=&quot;nice&quot; alt=&quot;Cyberpunk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently had the opportunity to listen to another amazing podcast from 99% Invisible, a program about â€œdesign, architecture and the 99% invisible activity that shapes our world.â€ It got me thinking about how my world is shaped by the way I engage with computers. The podcast is a story about a computer scientist named Doug Engelbart who was, in essence, a crazy brilliant genius. He thought of ways to change how we interacted with computers and, most famously, was the inventor of the computer mouse. He also invented a specialized companion device to the mouse that worked like the one-hand equivalent of a keyboard.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/hardness/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Paddle Out</title>
+      <link>https://signal.org/blog/paddle-out/</link>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/paddle-out</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Eighteen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/luke-paddle-out.jpg&quot; class=&quot;nice&quot; alt=&quot;Paddle Out&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Late this afternoon I took a break from working to surf. The sun was setting and a cool breeze was picking up as grey clouds billowed behind the mountains along Hanalei Bay. I had spent most of the day wrangling content, markup, and CSS, and the Pacific was calling. There was still plenty of work to be done, but balance is important, and my mind needed to reset. Surfing would be todayâ€™s lesson.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/paddle-out/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Mutiny!</title>
+      <link>https://signal.org/blog/mutiny/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/mutiny</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Seventeen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc15-loners.jpg&quot; class=&quot;nice&quot; alt=&quot;wboc15 on the beach&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this life nearly every relationship we create and maintain is built upon expectations. You do
+this, Iâ€™ll do that, and together weâ€™ll fail to oppose entropy but stand a chance at plotting and
+navigating a loose course through it. These expectations extend beyond the individual, past the
+family, and onto society.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/mutiny/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Naked</title>
+      <link>https://signal.org/blog/naked/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/naked</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;A post from Natalie, Winter Break Of Code, Day Sixteen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I watched sunlight dance atop billowing waves,
+a natural circus spectacular.&lt;/p&gt;
+
+&lt;p&gt;I meditated on two syllables,
+allowing my breath and heartbeat
+to synchronize,
+and I too became a part of the show.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/naked/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>They Live</title>
+      <link>https://signal.org/blog/they-live/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/they-live</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code, Day Fifteen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The 1988 film &lt;a href=&quot;http://www.imdb.com/title/tt0096256/?ref_=nv_sr_1&quot;&gt;&lt;em&gt;They Live&lt;/em&gt;&lt;/a&gt; is one of the last great
+masterpieces to &lt;a href=&quot;https://www.youtube.com/watch?v=18qD9hmU9xg&quot;&gt;come out of the Hollywood left&lt;/a&gt;.  In the
+film, a drifter named John Nada discovers a box of sunglasses that, when worn, allows the wearer to
+really &lt;em&gt;see&lt;/em&gt; the world around him.&lt;/p&gt;
+
+&lt;p&gt;For instance, when wearing the glasses, simple advertisements for consumer products are revealed as something other
+than what they appear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/theylive-messages.png&quot; class=&quot;nice&quot; alt=&quot;Consume. Submit. Obey.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/they-live/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Real World Kauai</title>
+      <link>https://signal.org/blog/real-world-kauai/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/real-world-kauai</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Fourteen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I agreed to take part in Winter Break of Code, I had no idea what to really expect.  While many people
+questioned my choice to spend my winter vacation writing code, I was excited for the opportunity to spend a week
+hanging out with an eclectic group of people while doing two of my favorite things: coding and surfing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/tina-wboc2.jpg&quot; class=&quot;nice&quot; alt=&quot;house&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/real-world-kauai/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>There's no you in srveillance</title>
+      <link>https://signal.org/blog/theres-no-you-in-srveillance/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/theres-no-you-in-srveillance</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Thirteen&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My ten-year-old mind was completely blown when I realized that I could eavesdrop on the walkie-talkie conversations of the other kids in my neighborhood. I rode my bike to the library in stunned silence, found a book about codes and puzzles, and raced home to my computer. I reluctantly transformed &lt;a href=&quot;http://en.wikipedia.org/wiki/QBasic&quot;&gt;QBasic&lt;/a&gt; into something other than a conduit for modified games of &lt;a href=&quot;http://en.wikipedia.org/wiki/NIBBLES.BAS&quot;&gt;NIBBLES.BAS&lt;/a&gt; and &lt;a href=&quot;http://en.wikipedia.org/wiki/GORILLA.BAS&quot;&gt;GORILLA.BAS&lt;/a&gt;, and wrote a &lt;a href=&quot;http://en.wikipedia.org/wiki/Caesar_cipher&quot;&gt;Caesar cipher&lt;/a&gt; implementation that worked in both directions. That ended up being the easy part.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/theres-no-you-in-srveillance/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Mahalo</title>
+      <link>https://signal.org/blog/mahalo/</link>
+      <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/mahalo</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Twelve&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-joyce-scenery.jpg&quot; class=&quot;nice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A few days ago, someone suggested that we go scuba diving and I said â€œyeah sure, that sounds funâ€. Once
+we actually got to the dive site I realized I had no clue what I signed up for. I was scared out of my
+fucking mind, squirming against the oceanâ€™s currents, and convinced I would have to go back to shore while
+everyone else had fun since I was too much of a wuss. It took some time and a fair amount of patience from
+my dive instructor before I even made it underwater. But once I reached the calm depths of the ocean, I went
+from frantically holding my instructorâ€™s hand to feeling comfortable exploring the reefs on my own. Instead
+of feeling disoriented by being underwater, it began to feel natural to swim among tropical fish and sea turtles.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/mahalo/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Aloha But Not</title>
+      <link>https://signal.org/blog/aloha-but-not/</link>
+      <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/aloha-but-not</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day Eleven&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Every morning at standup Iâ€™d watch the knife spin in slow motion, dread filling my chest and
+a voice in my head repeating, over and over, â€œnot Slytherin.â€ (The target of the knife is the
+author of the next dayâ€™s blog post). I wasnâ€™t sure that I could find new ways to marvel at
+the wonderful absurdity of stepping on a plane and trading reality for this â€“ a chance to
+work on the world with a group of people that Iâ€™ve only admired from afar. I wasnâ€™t sure
+that I had anything to say that hadnâ€™t already been said by my new friends.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/aloha-but-not/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>For the Love of Humans and Technology</title>
+      <link>https://signal.org/blog/for-humans-and-tech/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/for-humans-and-tech</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code Day Ten&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A couple of days ago, &lt;a href=&quot;https://twitter.com/clpwn&quot;&gt;Jake&lt;/a&gt;, one of the brilliant full-timers on
+&lt;a href=&quot;https://twitter.com/signalapp&quot;&gt;Open Whisper Systems&lt;/a&gt;, looked up from his laptop and asked
+me with a smile, â€œSo, Yoko, whatâ€™s your life story? How did you come to love humans so much?â€ It
+was a whimsical way of asking why I do what I do and why I am here. Having studied Human Computer
+Interaction and being a user experience (UX) designer, Iâ€™ve been asked variations of this question
+many times before. But it was on this trip I realized my answer needs a little probing.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/for-humans-and-tech/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>The pool on the roof must have a leak</title>
+      <link>https://signal.org/blog/the-pool-on-the-roof-must-have-a-leak/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/the-pool-on-the-roof-must-have-a-leak</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 9&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Today we hiked the Kalalau Trail and swam beneath the cold spray of a waterfall.&lt;/p&gt;
+
+&lt;p&gt;Today we discussed the finer points of the axolotl protocol used by TextSecure.&lt;/p&gt;
+
+&lt;p&gt;Today we delighted in â€œshave iceâ€, a local delicacy that is definitely &lt;em&gt;not&lt;/em&gt; a snow cone.&lt;/p&gt;
+
+&lt;p&gt;Today we wrote copy, polished features, closed bugs, and merged pull requests.&lt;/p&gt;
+
+&lt;p&gt;Measured by lines of code, today was short. Measured by steps taken, it was tall. Measured by ideas discussed, things learned, and sights seen, it was towering.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-falls.jpg&quot; alt=&quot;Hanakapi'ai Falls&quot; class=&quot;nice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/the-pool-on-the-roof-must-have-a-leak/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Encryption, encryption everywhere</title>
+      <link>https://signal.org/blog/encryption-encryption-everywhere/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/encryption-encryption-everywhere</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 8&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-water.jpg&quot; class=&quot;nice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago, an email full of information to help prep for Winter Break of Code popped up in my inbox. Throughout my personal countdown to the day I got to leave San Francisco for Hawaii, one line from that email continuously resonated throughout my mind: â€œHave your development environment ready to go.â€&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/encryption-encryption-everywhere/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>A curve by any other name</title>
+      <link>https://signal.org/blog/a-curve-by-any-other-name/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/a-curve-by-any-other-name</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 7&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yesterday was a day of meetings. Discussion and debate flourished.
+Conversations ranged over all parts of every project. Words spoken aloud may
+have outnumbered lines of code shipped. The entire team was fully engaged and
+people nearly had to be dragged out of the house for an afternoon hike to the
+top of the ridge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/lilia-ridge-hike.jpg&quot; class=&quot;nice&quot; alt=&quot;View from the top of the ridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite our intense collective focus on conceptual progress, when
+&lt;a href=&quot;https://twitter.com/trevp__&quot;&gt;Trevor&lt;/a&gt; agreed to present an overview of elliptic
+curve cryptography, the entire team, veterans and â€œliâ€™l Whisperersâ€ alike, fell
+silent and gathered â€˜round the whiteboard.&lt;/p&gt;
+
+&lt;p&gt;We learned about fields and curves and groups, of basepoints and cofactors,
+secrets and signatures. Questions abounded and Trevor delivered the answers,
+one after another, albeit with enough handwaving that I thought he might lift
+off and fly himself back to the mainland. However, there was one question that
+even he could not answer: &lt;strong&gt;Why are they called elliptic curves?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From Weierstrass to Montgomery to Edwards formats, these geometric objects
+that form the essential mathematical underpinnings of many modern crypto
+systems are not defined by ellipses, nor do they resemble ellipses. Not
+even for very stretchy definitions of an ellipse. There is no immediately
+obvious connection. So why do we call them that?&lt;/p&gt;
+
+&lt;p&gt;As usual, to understand the universe, we must first bake an apple pie from
+scratch. Or at least pretend to.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/a-curve-by-any-other-name/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>The View From here</title>
+      <link>https://signal.org/blog/the-view-from-here/</link>
+      <pubDate>Sun, 18 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/the-view-from-here</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code, Day 6&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Iâ€™ve been working with Open Whisper Systems on TextSecure for about
+a year and a half.  I feel like Iâ€™ve earned better treatment than
+being forced to blog at knifepoint, but here we are, so Iâ€™ll tell my
+story.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/the-view-from-here/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Surrendering to the Potential of Constraints</title>
+      <link>https://signal.org/blog/surrendering-to-the-potential-of-constraints/</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/surrendering-to-the-potential-of-constraints</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code, Day 5&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The prophetic discourse of the Karai can be summed up in an observation and a promise: on the one hand, they constantly affirmed the fundamentally evil character of the world, on the other, they insisted that conquest of a good world was possible. â€œThe world is evil! The world is ugly!â€ they said. â€œLet us abandon it!â€ they concluded. [â€¦] In short, it was not the discourse of the prophets that was unhealthy, but indeed, the world in which they spoke, the society in which they lived.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;â€“ &lt;a href=&quot;http://www.amazon.com/Archeology-Violence-Semiotext-Foreign-Agents/dp/1584350938&quot;&gt;&lt;em&gt;Archeology of Violence&lt;/em&gt;&lt;/a&gt;, Pierre Clastres&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At the peak of the Soviet Unionâ€™s civic society, more than five-hundred thousand Soviets belonged to a complex, almost ecological system of bureaucracy known as &lt;em&gt;the Nomenklatura&lt;/em&gt;. Itself a reference to the Roman â€˜list of namesâ€™ â€“ a codified taxonomy into which people could be organized and signified â€“ the Soviet government was built and constrained through &lt;em&gt;social proximity&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The initial idea was to institute a horizontal decision-making system. A methodology that could define and populate thousands of roles for the collaborative administration of social order: ministers of industry, pedagogy, natural resources, foreign relations, internal affairs, communications, and so on.&lt;/p&gt;
+
+&lt;p&gt;It was a form of governance intended to gradually flatten a hierarchy that the early industrial revolution had exaggerated. However, over time the mechanics revealed â€“ somewhat conversely â€“Â a total institutionalization of â€˜nepotismâ€™. Certain senior members of the Nomenklatura had the privilege to appoint new members, and maintain long lists of qualified candidates. New members, now obliged from a favor, formed allegiances to their patrons. Patrons themselves carried social debts to those who appointed &lt;em&gt;them&lt;/em&gt;, and it went on like this up the stack into the inner circle. The hierarchy didnâ€™t flatten, it sharpened.&lt;/p&gt;
+
+&lt;p&gt;Speed ahead to our modern life. My social relations are all but completely virtualized. My list of friends and followers, contacts and matches, profiles and handles â€¦ all thrum wildly. Apps are released every week which impose and constrain my lists into new formations, reconstructing my social life over and over. Itâ€™s possible to see the reflection of Soviet governance in our own lives today; perhaps there are hundreds of thousands of members (less, probably) of a new bureaucratic class â€“Â technocratic knowledge workers, letâ€™s say â€“ who organize and signify civic life in the contemporary age. Building cooperative protocols and APIs and apps and networks. Designing the interfaces and behaviors and experiences of everyone else. Teaching but sometimes refusing to learn, giving generously but sometimes taking without permission, anticipating what we want but often supposing what we want without asking. Designing our dismal fate. Slowly appointing their heirs by proximity.&lt;/p&gt;
+
+&lt;p&gt;As a publisher and designer, I count myself among this degenerate few and tread carefully whenever I manage to move or speak at all.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/surrendering-to-the-potential-of-constraints/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Signal to Noise</title>
+      <link>https://signal.org/blog/signal-to-noise/</link>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal-to-noise</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 4&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Iâ€™m not sure those attending their first break of code know what they are getting into. When I said &lt;a href=&quot;https://whispersystems.org/blog/sure/&quot;&gt;â€œsureâ€ to Moxie my first break, I sure didnâ€™t&lt;/a&gt;. During that week I had already come to the conclusion â€œI have to see this (TextSecure iOS) throughâ€. In the intervening time, Iâ€™ve become an expert on the &lt;a href=&quot;http://codexgalactic.com/2014/01/27/axolotl-protocol-for-cryptographically-secure-messaging/&quot;&gt;Axolotl protocol&lt;/a&gt;, &lt;a href=&quot;https://whispersystems.org/blog/a-whisper/&quot;&gt;come to understand ZRTP&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/fredericjacobs&quot;&gt;picked up the worldâ€™s best collaborator&lt;/a&gt;, helped with &lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8&quot;&gt;the final polish of Signal with RedPhone support&lt;/a&gt; and contributed &lt;a href=&quot;https://github.com/signalapp/TextSecure-iOS/graphs/contributors&quot;&gt;a lot of code to the TextSecure prototype&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal-to-noise/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Third Day Of Code</title>
+      <link>https://signal.org/blog/third-day-of-code/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/third-day-of-code</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 3&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As it does every morning, the day started with Moxie singing the stand-up song, reminding us all
+(and waking up the slackers) that at 9am sharp we all get in a circle to discuss what we
+accomplished the day before and what our priorities are for the coming day.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/third-day-of-code/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Star Quality</title>
+      <link>https://signal.org/blog/star-quality/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/star-quality</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Because I might get sappy, hereâ€™s a picture to ease that before I let it all out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-hanaleitown.jpg&quot; class=&quot;nice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After being promptly woken up by numerous roosters at 7:30 AM, I still canâ€™t believe Iâ€™m here. My application
+was pretty last-minute, completed when I was in a state of droopiness and scholarship-application-hyperdrive.
+But I got on a plane from the Midwest, went from cloudy, 20 degrees with windchill making it feel like 0 to
+sunny, 77 degrees with mild winds making it feel still 77 degrees.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/star-quality/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>If you see a bug in the code, it's probably dying</title>
+      <link>https://signal.org/blog/if-you-see-a-bug/</link>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/if-you-see-a-bug</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 1&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I woke up this morning feeling like this routine was normal, instead of implausible.
+Two days ago, I was in New York City, riding the train with millions of other commuters
+in the freezing snow. Today, I went surfing on a beach in beautiful Kauai. In the same
+absurd fashion, I shared meals, stories, and workspaces with people, who days earlier,
+I had only read about and admired from afar. The promises of the Winter Break of Code
+seem impossible: a vacation in paradise, large milestones of work to be met, a welcoming
+space with talented companions. But when Moxie came into the bedroom this morning strumming
+his ukulele to wake us for the daily morning stand-up, up we were, ready to claim the small
+victories in the browser extension project, the Signal iOS client, and the Android applications
+from the day prior and to lay out plans to further the state of user-friendly secure
+communication tools.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/if-you-see-a-bug/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Winter Of Code Lineup 2014-2015</title>
+      <link>https://signal.org/blog/winter-lineup-2014/</link>
+      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/winter-lineup-2014</guid>
+      <description>
+        
+        &lt;p&gt;Every year when we do this kind of &lt;a href=&quot;/blog/winter-of-code&quot;&gt;call for proposals&lt;/a&gt;, our experience from past events sets our
+expectations higher.  Even with really high expectations this time around, we were blown away by the number of high-quality
+proposals we received for this winter.  Itâ€™s inspiring to know how many people are thinking seriously about the development
+of privacy-enhancing technology, and we hope that one day weâ€™ll have a space large enough to accept all the proposals
+that we wish we could.&lt;/p&gt;
+
+&lt;p&gt;The lineup for this January is set to be really great:&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/winter-lineup-2014/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Open Whisper Systems partners with WhatsApp to provide end-to-end encryption</title>
+      <link>https://signal.org/blog/whatsapp/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/whatsapp</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, our goal is to make private communication simple.  For the past three years, weâ€™ve
+been developing a modern, open source, &lt;a href=&quot;https://whispersystems.org/blog/advanced-ratcheting/&quot;&gt;strong encryption protocol&lt;/a&gt;
+for asynchronous messaging systems, designed to make seamless end-to-end encrypted messaging possible.&lt;/p&gt;
+
+&lt;p&gt;Today weâ€™re excited to publicly announce a partnership with WhatsApp, the most popular messaging app in the world,
+to incorporate the TextSecure protocol into their clients and provide end-to-end encryption for their users by default.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/whatsapp/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Winter Of Code</title>
+      <link>https://signal.org/blog/winter-of-code/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/winter-of-code</guid>
+      <description>
+        
+        &lt;p&gt;This January, Open Whisper Systems will be hosting a &lt;em&gt;Winter Break Of Code&lt;/em&gt;.  Weâ€™ve managed to get access to a
+large beachfront house in Kauai for three weeks, and weâ€™re inviting people to join us.  If youâ€™re interested in spending
+one to three weeks in Hawaii working collaboratively on an Open Source project to make private communication simple, weâ€™ll take
+care of your airfare and housing so that you can be there.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Winter Break Of Code&lt;/em&gt; is an opportunity for designers, developers, writers, strategists, and creative thinkers interested in privacy
+and security to spend some time contributing to privacy-related projects in a retreat-like setting with other co-conspirators.
+Think of it as an extended hackathon, but with your travel expenses paid, and with breaks for surfing, hiking, swimming, and
+just generally being in Kauai.&lt;/p&gt;
+
+&lt;p&gt;Everything that Open Whisper Systems produces is free and Open Source.  Weâ€™ve been working on apps like
+&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;Signal&lt;/a&gt;,
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt;,
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&quot;&gt;RedPhone&lt;/a&gt;, and
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.anhonesteffort.flock&quot;&gt;Flock&lt;/a&gt;
+for years now, because we believe that itâ€™s possible to develop well-designed
+apps that are both privacy-preserving &lt;em&gt;and&lt;/em&gt; a joy to use.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/winter-of-code/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Free, Worldwide, Encrypted Phone Calls for iPhone</title>
+      <link>https://signal.org/blog/signal/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/signal</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, we want everyone to have access to advanced secure communication tools that
+are as easy and reliable to use as making a normal phone call or sending a normal text message.&lt;/p&gt;
+
+&lt;p&gt;Over the past year, weâ€™ve been working to bring the privacy software weâ€™ve developed for Android to the iPhone,
+and today weâ€™re releasing &lt;a href=&quot;https://itunes.apple.com/app/id874139669&quot;&gt;Signal&lt;/a&gt; â€“ free, worldwide, encrypted
+voice calls for iPhone, and fully compatible with RedPhone for Android.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/signal/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Flock, Private Contact and Calendar Cloud Sync.</title>
+      <link>https://signal.org/blog/flock/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/flock</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, we believe users should have both privacy and powerful services.
+Today weâ€™re releasing &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.anhonesteffort.flock&quot;&gt;Flock&lt;/a&gt;,
+a private cloud sync service for your personal data.&lt;/p&gt;
+
+&lt;p&gt;Your contacts and calendars belong to you.  So does your privacy.  Flock makes it possible
+to have both.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/flock.png&quot; class=&quot;nice&quot; alt=&quot;Screenshot of Flock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/flock/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Private Group Messaging</title>
+      <link>https://signal.org/blog/private-groups/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/private-groups</guid>
+      <description>
+        
+        &lt;p&gt;One of the major features we introduced in the &lt;a href=&quot;/blog/the-new-textsecure/&quot;&gt;TextSecure v2&lt;/a&gt; release was private group chat.
+We believe that group chat is an important feature for encrypted communications projects, so we wanted
+to try to summarize some of the existing work in this area, as well as how TextSecureâ€™s group chat protocol
+functions.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/private-groups/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>The New TextSecure: Privacy Beyond SMS</title>
+      <link>https://signal.org/blog/the-new-textsecure/</link>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/the-new-textsecure</guid>
+      <description>
+        
+        &lt;p&gt;Todayâ€™s &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;release of TextSecure&lt;/a&gt; is the final
+step in the transition from a private SMS app to a private asynchronous IM app that does not depend on SMS/MMS.&lt;/p&gt;
+
+&lt;p&gt;Using the lessons weâ€™ve learned from the SMS environment over the past four years, weâ€™ve developed an open protocol
+for asynchronous chat that enables private communication instantly with friends, private groups for real-time collaboration, 
+and the ability to quickly and seamlessly share media privately â€“ all without depending on SMS.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/the-new-textsecure/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Android Contacts, the Social Graph Collider</title>
+      <link>https://signal.org/blog/android-contacts-the-social-graph-collider/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/android-contacts-the-social-graph-collider</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day Seven&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-rhodey-surfn.jpg&quot; alt=&quot;Rhodey surfing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spring Break of Code 2013 I cut open my foot and hand while surfing; both wounds
+easily warranted stitches. Winter Break of Code 2014 I banged the top of my foot
+surfing over some coral; the cuts were sealed within minutes. Spring Break of
+Code 2013 I struggled with the Android SDK, while Winter Break of Code 2014 I
+caught myself taking a few too many short-cuts. On day zero nothing is easy, but
+over time you improve, spilling a little less blood every time.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/android-contacts-the-social-graph-collider/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Moments to keep</title>
+      <link>https://signal.org/blog/moments-to-keep/</link>
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/moments-to-keep</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day Six&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of great memories will stay with me after this intense week. The house 
+surrounded by palm trees, people with computers in every corner, laying down on a 
+sofa, chatting on the balcony, and sitting down on the carpet. The surf and hiking 
+breaks on this astonishing Kauaiâ€™s landscape, sharp mountains covered by forests 
+falling into beaches of fine sand and fun waves. The nights spiced with Moxieâ€™s 
+tasty cocktails and long deep conversations about the meaning of life, the 
+internet and everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-meskio-mountains.jpg&quot; alt=&quot;Northern sea cliffs of Kauai from the Na Pail Coast trail&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/moments-to-keep/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>The value of our confidences</title>
+      <link>https://signal.org/blog/the-value-of-our-confidences/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/the-value-of-our-confidences</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day Five&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/wboc-tyler-jump.png&quot; alt=&quot;Jumping off the pier at Hanalei Bay&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-digital-privacy-under-capitalism&quot;&gt;Understanding digital privacy under capitalism&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If commodities could speak, they would say this: our use-value may interest men [sic], but it does not belong to us as objects. What does belong to us as objects, however, is our value. Our own intercourse as commodities proves it. We relate to each other merely as exchange-values.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;â€“ Marx, &lt;em&gt;Capital: A Critique of Political Economy, Vol 1&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;thus-spake-the-commodity&quot;&gt;Thus spake the commodity&lt;/h3&gt;
+
+&lt;p&gt;Marx saw modernity more acutely than most of his contemporaries, and provided a description of capitalism that remains, in my opinion, quite useful.&lt;/p&gt;
+
+&lt;p&gt;However, we must be brave enough to attempt to  understand his description of the relationship between commodity and value in the context of a world very different from Industrial Revolution-era Europe. That is, one which includes the strange new primordial soup of the internet and capital.&lt;/p&gt;
+
+&lt;p&gt;Imagine, as Marx expects of us in the passage above, that an â€œinternetâ€ commodity could speak. What would it say?&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/the-value-of-our-confidences/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>A Whisper</title>
+      <link>https://signal.org/blog/a-whisper/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/a-whisper</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day Four&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At the Open Whisper Systems &lt;a href=&quot;https://whispersystems.org/blog/sure/&quot;&gt;spring break of code&lt;/a&gt; in 2013, I started work on
+&lt;a href=&quot;https://github.com/signalapp/TextSecure-iOS&quot;&gt;TextSecure iOS&lt;/a&gt;. People are chomping at the bit to
+use our software on iOS. After a hiatus from the project, Iâ€™ve been happy to return to it over the last
+few months, joining some other contributors, including &lt;a href=&quot;https://www.fredericjacobs.com/&quot;&gt;Frederic Jacobs&lt;/a&gt;
+as co-lead, &lt;a href=&quot;https://github.com/nabla-c0d3&quot;&gt;Alban Diquet&lt;/a&gt;, and &lt;a href=&quot;http://www.cvursache.com/&quot;&gt;Claudiu-Vlad Ursache&lt;/a&gt;
+submitting pull requests, even over the holidays, with important cryptographic storage and UI-polishing
+contributions, and Bitcoin donations coming in from around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/signalapp/TextSecure-iOS&quot;&gt;Contribute code&lt;/a&gt; or &lt;a href=&quot;https://whispersystems.org/blog/bithub/&quot;&gt;coins&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/a-whisper/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Design of Crypto</title>
+      <link>https://signal.org/blog/design-of-crypto/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/design-of-crypto</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day Three&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We are at the halfway point of Winter Break of Code. We have two homes near the beach shared by 12 people. 10 of us are working on the apps &amp;amp; website and 2 are leading up delicious dinner efforts. Weâ€™ve spent time on the beach, in the ocean, in the mountains, and of course working. Concepts for future startups and tactics about self-publishing books are brewing, and conversations are lined with politics and activism. Work sessions are focused on making cryptography usable in existing Android apps and soon-to-be-released iPhone apps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/meghana-wboc-working.jpg&quot; class=&quot;nice&quot; alt=&quot;Working in the living room&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/design-of-crypto/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Better than cake</title>
+      <link>https://signal.org/blog/better-than-cake/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/better-than-cake</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day Two&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;By all rights, I should not be here. My application was last-minute to say the
+least, and little more than a casual note that Iâ€™d be down to reprise my role
+from SBoC as web hacker for whispersystems.org. Maybe it was because of my work
+in the previous months on tweaking the site layout to be responsive, or because
+&lt;a href=&quot;https://www.twitter.com/bcrypt&quot;&gt;@bcrypt&lt;/a&gt; (who is infinitely more qualified)
+was too dedicated to her work at the EFF to take the time off, or because my
+birthday happened to fall on this week, but for one reason or another, the
+universe smiled, and here I am.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/lilia-wboc-pier.jpg&quot; class=&quot;nice&quot; alt=&quot;The pier at Hanalei Bay, Island of Kauai&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/better-than-cake/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Roosters and a mountain of design</title>
+      <link>https://signal.org/blog/roosters-and-a-mountain-of-design/</link>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/roosters-and-a-mountain-of-design</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Winter Break of Code, Day One&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/jake-wboc-pier.jpg&quot; class=&quot;nice&quot; alt=&quot;The pier at Hanalei Bay, island of Kauai&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;/blog/winter-break-of-code&quot;&gt;Winter Break of Code&lt;/a&gt;, being closely linked by name to the season of Winter, began with a calm trickle of ex{hausted,cited} people carrying laptops and cell phone collections after a parade of delays and weather issues. Off the plane after a pitch-black descent, the humid fresh smell distinct to this place along with my feet landing on soil was a good hint that we were indeed on an island and this was actually happening. It was very welcome.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/roosters-and-a-mountain-of-design/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>The Difficulty Of Private Contact Discovery</title>
+      <link>https://signal.org/blog/contact-discovery/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/contact-discovery</guid>
+      <description>
+        
+        &lt;p&gt;Building a social network is not easy.  Social networks have value proportional to their size, 
+so participants arenâ€™t motivated to join new social networks which arenâ€™t
+already large.  Itâ€™s a paradox where if people havenâ€™t already joined, people arenâ€™t motivated to join.&lt;/p&gt;
+
+&lt;p&gt;The trouble is that while building a social network is hard, most interesting software today is
+acutely â€œsocial.â€  Even privacy-enhancing technology, which seems anathema to the aesthetic of 
+social networking, is tremendously social.  For people to effectively use private communication software
+like TextSecure, they need to be able to know how to contact their friends using TextSecure.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/contact-discovery/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>BitHub = Bitcoin + GitHub. An experiment in funding privacy OSS.</title>
+      <link>https://signal.org/blog/bithub/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/bithub</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, we often get emails from people whoâ€™d like to donate money to the project.  For an OSS project, 
+particularly one that aspires to a collective sense of ownership, handling donations is not always entirely straightforward.&lt;/p&gt;
+
+&lt;p&gt;The fundamental contradiction is that while donations are meant for a &lt;em&gt;project&lt;/em&gt;, theyâ€™re traditionally sent to a &lt;em&gt;person&lt;/em&gt;.
+Even if a project sets up a bank account, there are still only a few people who have access to the money itself, and 
+distributing it appropriately can be hard to figure out.&lt;/p&gt;
+
+&lt;p&gt;Itâ€™s never been clear to us how we should handle small donations, so oftentimes when people ask about donating, we just tell
+them that the best way to help is to use the software, spread the word, and file well-documented bugs when they find them.  Which
+is true!  But itâ€™d also be great if we had a nice system for handling donations that matched our objectives for collective ownership.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/bithub/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>WBoC Lineup</title>
+      <link>https://signal.org/blog/winter-break-of-code-lineup/</link>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/winter-break-of-code-lineup</guid>
+      <description>
+        
+        &lt;p&gt;After our wonderful experience with &lt;a href=&quot;https://whispersystems.org/blog/sure&quot;&gt;Spring Break Of Code&lt;/a&gt;, we were excited to try this
+again.  Even with high expectations based on our experience in the Spring, the response was still better than what
+we could have hoped for.  The hundreds of high-quality proposals we received were really inspiring, and
+we hope that one day we can get a space large enough for all of the amazing people who are passionate 
+about the development of privacy-enhancing technology.&lt;/p&gt;
+
+&lt;p&gt;We think the final lineup of those attending in January is going to be great:&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/winter-break-of-code-lineup/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>TextSecure, Now With 10 Million More Users</title>
+      <link>https://signal.org/blog/cyanogen-integration/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/cyanogen-integration</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, weâ€™re working to both advance the state of the art for secure communication
+and also reduce the friction required for ordinary people to make use of it.  We want everyone to have
+access to advanced secure communication methods that are as easy and reliable to use as making a normal phone call or sending 
+a normal text message.&lt;/p&gt;
+
+&lt;p&gt;With these goals in mind, weâ€™ve been working with &lt;a href=&quot;http://www.cyanogenmod.org/&quot;&gt;CyanogenMod&lt;/a&gt; over the past few months.
+CyanogenMod is an open source aftermarket Android firmware distribution with &lt;a href=&quot;http://stats.cyanogenmod.com/&quot;&gt;ten million users&lt;/a&gt; 
+and ~20k installs a day. Their rapid growth is beginning to rival Microsoft for the third-largest smartphone OS distribution.&lt;/p&gt;
+
+&lt;p&gt;As of today, the TextSecure protocol will begin shipping as part of the CyanogenMod OS-level SMS provider, in an effort to provide
+completely transparent end-to-end text message encryption between all of their users.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/cyanogen-integration/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Advanced cryptographic ratcheting</title>
+      <link>https://signal.org/blog/advanced-ratcheting/</link>
+      <pubDate>Tue, 26 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/advanced-ratcheting</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, weâ€™ve been working on improving our encrypted asynchronous chat protocol for TextSecure.
+The TextSecure protocol was originally a derivative of &lt;a href=&quot;https://otr.cypherpunks.ca/Protocol-v3-4.0.0.html&quot;&gt;OTR&lt;/a&gt;, 
+with minor changes to accommodate it for transports with constraints like SMS or Push.  Some of the recent 
+changes weâ€™ve made include 
+&lt;a href=&quot;https://whispersystems.org/blog/simplifying-otr-deniability&quot;&gt;simplifying and improving OTRâ€™s deniability&lt;/a&gt;, as well as
+creating a &lt;a href=&quot;/blog/asynchronous-security&quot;&gt;key exchange mechanism for asynchronous transports&lt;/a&gt;.
+Our most recent change incorporates what we believe to be substantial improvements to OTRâ€™s forward secrecy â€œratchet.â€&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/advanced-ratcheting/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Winter Break Of Code</title>
+      <link>https://signal.org/blog/winter-break-of-code/</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/winter-break-of-code</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems, weâ€™re focused on creating easy-to-use privacy-enhancing technology.  Our projects are free, Open Source,
+and tend to be oriented around the mobile environment.  Weâ€™ve been working on apps like &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&quot;&gt;RedPhone&lt;/a&gt; 
+(which provide secure text messages and secure phone calls) for years now, because we believe that itâ€™s possible to develop 
+well-designed secure communication tools that are both privacy-preserving &lt;em&gt;and&lt;/em&gt; a joy to use.&lt;/p&gt;
+
+&lt;p&gt;This winter, weâ€™d like to invite you to join us for â€œWinter Break Of Code,â€ a week-long free trip to Kauai for anyone
+whoâ€™d like to spend a week working on this type of easy-to-use privacy-enhancing technology in a collaborative
+environment.  Weâ€™ve rented a large beachfront house on the north coast of Kauai for everyone to stay
+in, and weâ€™ll pay for your airfare.  While there, you can split your time between island living and working on an Open Whisper
+Systems-related privacy project that you propose.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/winter-break-of-code/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Alpine Hackathon Reportback</title>
+      <link>https://signal.org/blog/alpine-hackathon-reportback/</link>
+      <pubDate>Tue, 22 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/alpine-hackathon-reportback</guid>
+      <description>
+        
+        &lt;p&gt;My cell phone used to be a black and white Nokia until a couple of weeks ago when I decided to enter in the smartphone world. 
+Now that there are more mobile devices connected to the internet than computers, I think itâ€™s time for me as well to discover 
+the possibilities of this technology. During this few weeks Iâ€™ve been playing with my new toy, checking how to secure it, and seeing 
+what free software is around to use cryptography on it.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/alpine-hackathon-reportback/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Open Whisper Systems Alpine Hackathon</title>
+      <link>https://signal.org/blog/hackathon-zurich/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/hackathon-zurich</guid>
+      <description>
+        
+        &lt;p&gt;From October 11th to October 13th, weâ€™ll be hosting an informal Open Whisper Systems &lt;em&gt;Alpine Hackathon&lt;/em&gt; for those in or
+around Zurich, Switzerland who would like to contribute to Open Whisper Systems-related projects in a collaborative 
+setting with other co-conspirators.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/hackathon-zurich/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Forward Secrecy for Asynchronous Messages</title>
+      <link>https://signal.org/blog/asynchronous-security/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/asynchronous-security</guid>
+      <description>
+        
+        &lt;p&gt;Traditionally, asynchronous messaging systems such as email have relied on protocols like PGP or S/MIME for
+cryptographic security.  These protocols work the way most people are familiar with: one who wishes to receive
+encrypted email advertises a public key, and those wishing to send encrypted email to that person encrypt their
+outgoing message with that public key.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/asynchronous-security/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Simplifying OTR deniability.</title>
+      <link>https://signal.org/blog/simplifying-otr-deniability/</link>
+      <pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/simplifying-otr-deniability</guid>
+      <description>
+        
+        &lt;p&gt;At Open Whisper Systems we help develop &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt;, an
+encrypted chat application for Android.  TextSecure was designed as a general purpose SMS/MMS client which would also 
+automatically encrypt conversations when communicating with other TextSecure users.  For those encrypted sessions, TextSecure
+uses a compact derivative of the well-known &lt;a href=&quot;http://www.cypherpunks.ca/otr/&quot;&gt;OTR protocol&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Weâ€™re currently in the process of transitioning TextSecure to use a deviceâ€™s data channel as a transport for communication 
+with other TextSecure users whenever possible.  This enables communication with the upcoming &lt;a href=&quot;/blog/iphone-rsn&quot;&gt;TextSecure for iOS&lt;/a&gt;,
+helps users avoid SMS fees, and obscures conversation metadata from telcos.&lt;/p&gt;
+
+&lt;p&gt;The transition to a new transport is also a good opportunity for us to evaluate and introduce additional cryptographic 
+protocol changes.  Below is one cryptographic protocol change weâ€™re thinking of making that weâ€™d welcome feedback on.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/simplifying-otr-deniability/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Open Whisper Systems is coming to iPhone!</title>
+      <link>https://signal.org/blog/iphone-rsn/</link>
+      <pubDate>Thu, 25 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/iphone-rsn</guid>
+      <description>
+        
+        &lt;p&gt;&lt;img src=&quot;/blog/images/redphone-ios-soon.png&quot; class=&quot;nice&quot; alt=&quot;A mockup of the WhisperSystems logo on an iPhone.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/iphone-rsn/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Interested in privacy-enhancing technology? How to get involved at Open Whisper Systems.</title>
+      <link>https://signal.org/blog/how-to-help/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/how-to-help</guid>
+      <description>
+        
+        &lt;p&gt;Open Whisper Systems is a project focused on developing Open Source security and privacy apps for the
+mobile environment.  With all of the recent discussion about &lt;a href=&quot;https://en.wikipedia.org/wiki/PRISM_(surveillance_program)&quot;&gt;PRISM&lt;/a&gt;, 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Boundless_Informant&quot;&gt;Boundless Informant&lt;/a&gt;, and 
+&lt;a href=&quot;http://www.guardian.co.uk/world/interactive/2013/jun/06/verizon-telephone-data-court-order&quot;&gt;FISA orders&lt;/a&gt;,
+there has been a surge of new users and inquiries about how to get involved.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/how-to-help/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>SBoC Farewell</title>
+      <link>https://signal.org/blog/sboc-goodbye/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/sboc-goodbye</guid>
+      <description>
+        
+        &lt;p&gt;The last code committed, the final waves surfed in to the shore, the closing sunset of Spring Break Of Code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/sboc-goodbye.jpg&quot; class=&quot;nice&quot; alt=&quot;Group shot on the beach&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/sboc-goodbye/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Call Quality Metrics</title>
+      <link>https://signal.org/blog/call-quality-metrics/</link>
+      <pubDate>Sat, 30 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/call-quality-metrics</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Spring Break Of Code, Day Six&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Because secure systems arenâ€™t valuable if theyâ€™re not used, Whisper Systems has always focused on delivering strong 
+cryptography alongside a great user experience.  Thatâ€™s the reason &lt;a href=&quot;http://www.whispersystems.org/blog/client-side-audio-quality&quot;&gt;call quality&lt;/a&gt; has always been a priority in RedPhoneâ€™s development.&lt;/p&gt;
+
+&lt;p&gt;We know that, for many users, RedPhone has consistently delivered a call quality experience comparable to commercial 
+mobile VoIP solutions.  But we also hear from users who report problems like dropped calls, distracting levels of echo 
+and latency, or inaudibly low in-call volume.  While we investigate these reports and attempt to resolve them, we donâ€™t 
+have a clear view of what situations cause RedPhoneâ€™s call quality to degrade, or how to prioritize our development efforts.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/call-quality-metrics/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>All The Things That Pull And Push</title>
+      <link>https://signal.org/blog/all-the-things-that-pull-and-push/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/all-the-things-that-pull-and-push</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Spring Break Of Code, Day Five&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/feet.png&quot; class=&quot;nice&quot; alt=&quot;Bare feet in the sand&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I know very well that each and every crisis of modernity is concentrating, concatenating, and seating more deeply into 
+everyday life. I know the struggles of the worldâ€™s unseen and unheard are being subsumed â€“ appropriated â€“ under and 
+into the framework of a liberal democracy, leaving those at the periphery still under the yoke of capital. The Right further 
+entrenches itself into political discourse, both in the &lt;a href=&quot;http://www.alecexposed.org/&quot;&gt;United States&lt;/a&gt;, and (more extremely) 
+abroad (&lt;a href=&quot;http://yle.fi/uutiset/book_racism_becoming_more_acceptable_in_finland/6360055&quot;&gt;Finland&lt;/a&gt;, 
+&lt;a href=&quot;http://www.economist.com/blogs/charlemagne/2013/03/greek-politics&quot;&gt;Greece&lt;/a&gt;, â€¦ et al.). The Left is no less problematic: 
+reiterating the petty values of social democracy, negotiating the terms of our entrapment within capitalism. Every season, 
+new horrors fall from the clouds and rise from the seas as industrial civilization demonstrates that terraforming can also 
+work in reverse. The worldâ€™s genetic library â€“ the most prime commons, if ever one existed â€“ is rapidly contracting via 
+extinction, privatization, and engineering. The colossal failure of ideology in the twentieth century has left the radicals 
+of today no other choice but to see themselves as â€œpost-ideologicalâ€. This is a deeply concerning conundrum, as ideology 
+survives in post-ideology, different only to the extent that it is less apparent. Yes, it seems like we are living in end 
+times â€“ an entire era of Apocalypse â€“ made only more insidious by our optimism in its shadow.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/all-the-things-that-pull-and-push/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Sure!</title>
+      <link>https://signal.org/blog/sure/</link>
+      <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/sure</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Spring Break Of Code, Day Four&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The main sound on top of the ocean is the click clack of laptop keys,
+and the jangle of test calls and SMSes. A neighbor stopped by to
+comment that we must be the next Facebook, the next Google; working
+instead of surfing made sense in his mind only in the land of money at
+the end of the tunnel. He loaned us his stand up paddle boards, surely
+expecting a return on investment 10 fold down the line when we exited
+into the sunset. A journalist visiting Open Whisper Systemsâ€™ Spring
+Break of Code commented that she expected more philosophy, politics,
+and conversation. After all this group is composed of people who are
+not only technologists, but also open source evangelists, activists,
+and humanists. &lt;a href=&quot;/blog/streamlining-textsecure-settings/&quot;&gt;Lilia&lt;/a&gt; went over 
+some of the &lt;em&gt;why&lt;/em&gt;, but practically anyone
+could see we were concentrating on the &lt;em&gt;how&lt;/em&gt;, and in the frenzied silence
+it was clear that a common philosophy was assumed and what bound us
+here was the challenges in the technology to power that philosophy.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/sure/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Streamlining TextSecure Settings</title>
+      <link>https://signal.org/blog/streamlining-textsecure-settings/</link>
+      <pubDate>Wed, 27 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/streamlining-textsecure-settings</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Spring Break Of Code, Day Three&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am no stranger to Hawaii. Although Iâ€™ve never lived here myself, Iâ€™ve visited
+the islands perhaps a dozen times. My grandmother and my father were born and
+raised here. My mother attended college here. I have aunts, uncles, and cousins
+whoâ€™ve lived on various islands, moved away, came back, moved away and back
+again. I even have Native Hawaiian blood in my veins.&lt;/p&gt;
+
+&lt;p&gt;But this trip is different. This time itâ€™s not about family or heritage. This
+time, I have a mission: to make secure text messaging and calling easier, more
+accessible, and more prevalent.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/streamlining-textsecure-settings/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Highly Unconventional Suggested First Aid</title>
+      <link>https://signal.org/blog/highly-unconventional-suggested-first-aid/</link>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/highly-unconventional-suggested-first-aid</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Spring Break Of Code, Day Two&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;â€œI am torn on how best to introduce myself out of context like this, the idea of rattling off facts from my resume is my 
+first instinct, but that seems terribly conventional. With the goal of introducing myself and the entirety of my character, 
+my second (highly unconventional) instinct is to link you to my online dating profile with the prayer that such an action 
+would be taken in the desired context. Through my indecision I hope to explain who I am and why I would like to travel 
+across the country to be involved with the Institute for Disruptive Studies. So here goesâ€¦â€&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/highly-unconventional-suggested-first-aid/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Dirigibles, Chinese Junk Rigs, and Surfboards</title>
+      <link>https://signal.org/blog/dirigibles-chinese-junk-rigs-and-surfboards/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/dirigibles-chinese-junk-rigs-and-surfboards</guid>
+      <description>
+        
+        &lt;p&gt;&lt;em&gt;Spring Break Of Code, Day One.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the first times I met up with &lt;a href=&quot;https://twitter.com/moxie&quot;&gt;Moxie&lt;/a&gt; while travelling, we met at a dive bar in 
+San Franciscoâ€™s Mission District, packed with hipsters. I had nineteen years, a modified state ID card, and just 
+hitchhiked into town. We sat at the bar, and both ordered well gin and tonics.&lt;/p&gt;
+
+&lt;p&gt;I had a proposal, the sort of get-rich-quick scheme it seems that only 18th century pirates and lazy hacker-squatters are 
+capable of contriving: We fly to China. Then, we spend a few grand purchasing a Chinese junk rig, and equip it with a system 
+of pulleys so that we can man the sails from the cockpit, solo if necessary. Next, we fill the cabin with about as much potable 
+water as we can carry and enough dried food to stave off starvation, and set a course across the northern arc of the 
+Pacific â€“ avoiding the treachery of the South Seas â€“ for San Francisco. The choice of vessel was key, the battened sails 
+and flattened hull of a Chinese junk rig make it arguably one of the safest ships to make a transoceanic voyage alone, not 
+to mention the financial incentives: being rare in the Americas, a well-kept junk rig would go for anywhere from $50,000 
+to $250,000 USD â€“ not to mention grant you free slip fees at just about any marina from Anchorage to Punta Arenas. How could 
+anyone turn down such a preposterous plot which included adventure on the high seas, a high mortality risk, riches and notoriety?&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/dirigibles-chinese-junk-rigs-and-surfboards/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Merchandise</title>
+      <link>https://signal.org/blog/merch/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/merch</guid>
+      <description>
+        
+        &lt;p&gt;Itâ€™s a busy time here at the Open Whisper Systems factory, and we need all the floor space we can get.  We still have some 
+first-edition T-Shirts that are taking up some space, so weâ€™re offering them to you for the cost of shipping and handling.&lt;/p&gt;
+
+&lt;p&gt;There are two designs available in a number of sizes:&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/merch/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>SBoC Lineup</title>
+      <link>https://signal.org/blog/spring-break-of-code-lineup/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/spring-break-of-code-lineup</guid>
+      <description>
+        
+        &lt;p&gt;We were excited about our &lt;a href=&quot;/blog/spring-break-of-code/&quot;&gt;Spring Break Of Code announcement&lt;/a&gt;, but the response 
+was better than we anticipated: over 100 extremely impressive proposals from folks around the world who are 
+passionate about pushing the envelope of security and privacy software.  After reading all the proposals, we 
+really wish weâ€™d rented a bigger house.&lt;/p&gt;
+
+&lt;p&gt;We think the final lineup of accepted proposals is great:&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/spring-break-of-code-lineup/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Client-side call quality</title>
+      <link>https://signal.org/blog/client-side-audio-quality/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/client-side-audio-quality</guid>
+      <description>
+        
+        &lt;p&gt;In our &lt;a href=&quot;/blog/low-latency-switching&quot;&gt;previous post&lt;/a&gt;, we discussed the global infrastructure that allows RedPhone clients 
+to find low-latency servers when establishing a call.  This post discusses the techniques we use to retain call quality 
+when network conditions are less than ideal.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/client-side-audio-quality/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Creating a low-latency calling network</title>
+      <link>https://signal.org/blog/low-latency-switching/</link>
+      <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/low-latency-switching</guid>
+      <description>
+        
+        &lt;p&gt;RedPhone is our mobile app for end-to-end encrypted voice calls.  When we talk about RedPhone, we tend to 
+emphasize the cryptography, and how using it can help keep your communications safe.  What we donâ€™t talk about 
+as much is the VoIP application underneath all of that, which it turns out was actually the hard part.&lt;/p&gt;
+
+&lt;p&gt;When we were developing RedPhone, we discovered that the cryptographic aspects of it were relatively straightforward. 
+What we didnâ€™t anticipate was how difficult the mechanics of delivering high-quality, low-latency, and highly available 
+voice communication would be.&lt;/p&gt;
+
+&lt;p&gt;This describes the basic strategy we developed for the network side of low-latency and highly available calls.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/low-latency-switching/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>Spring Break Of Code</title>
+      <link>https://signal.org/blog/spring-break-of-code/</link>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/spring-break-of-code</guid>
+      <description>
+        
+        &lt;p&gt;This Spring will be the first Open Whisper Systems &lt;em&gt;Spring Break Of Code&lt;/em&gt;, a week-long, expenses-paid retreat to
+Maui for folks who like software development, security, and the beach.  Weâ€™ve rented a large beachfront house on 
+the west coast of Maui for everyone to stay in, and will pay for your airfare.  While there, you can split your 
+time between island living and working on an Open Whisper Systems-related project that you propose.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;nice&quot; src=&quot;/blog/images/maui.png&quot; alt=&quot;View of the beach at Puamana, island of Maui.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/spring-break-of-code/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+    <item>
+      
+      <title>A New Home</title>
+      <link>https://signal.org/blog/welcome/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://signal.org/blog/welcome</guid>
+      <description>
+        
+        &lt;p&gt;Whisper Systems was a company focused on the development of mobile security software, which was acquired by 
+Twitter in late 2011.  Twitter very generously made some of the Whisper Systems software available under an 
+Open Source license (GPLv3), which has since been under open development by the community.  The software has 
+seen a number of new releases based on that open development, and weâ€™ve been calling the project for this 
+continued work â€œOpen Whisper Systems.â€  Welcome to the projectâ€™s new home.&lt;/p&gt;
+
+&lt;p&gt;
+        
+        <a href="https://signal.org/blog/welcome/"><em>Read more...</em></a>
+        
+      </description>
+    </item>
+    
+
+  </channel>
+</rss>

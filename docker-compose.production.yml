@@ -1,0 +1,28 @@
+version: '3'
+services:
+  www:
+    build: ./docker/nginx/
+    network_mode: host
+  app:
+    image: macbury/detox:latest
+    network_mode: host
+    environment:
+      DETOX_DATABASE_URL: postgresql://postgres:postgres@localhost:5432/detox_production
+    env_file:
+      - '.env.production'
+    volumes:
+      - .docker/data:/detox/public/data
+  postgres:
+    image: postgres:10
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+      PGDATA: /data
+    volumes:
+      - db-data:/data
+    ports:
+      - '5432:5432'
+volumes:
+  db-data:
+  images:

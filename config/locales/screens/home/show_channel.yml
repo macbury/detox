@@ -1,0 +1,5 @@
+en:
+  screens:
+    home:
+      show_channel:
+        title: Channel information

@@ -1,0 +1,24 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  # For details on connection pooling, see Rails configuration guide
+  # https://guides.rubyonrails.org/configuring.html#database-pooling
+  pool: <%= (ENV.fetch("RAILS_MAX_THREADS") { 30 }).to_i + 1 %>
+  url: <%= ENV['DETOX_DATABASE_URL'] %>
+  timeout: 5000
+  variables:
+    tcp_keepalives_idle: 60
+    tcp_keepalives_interval: 60
+    tcp_keepalives_count: 100
+
+development:
+  <<: *default
+  database: detox_development
+
+test:
+  <<: *default
+  database: detox_test
+
+production:
+  <<: *default
+  url: <%= ENV.fetch('DETOX_DATABASE_URL') %>

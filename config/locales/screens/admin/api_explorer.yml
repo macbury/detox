@@ -1,0 +1,6 @@
+en:
+  screens:
+    admin:
+      api_explorer:
+        title: Api Explorer
+        description: Console that allows you to access detox api

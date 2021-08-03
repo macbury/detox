@@ -1,0 +1,11 @@
+mutation createGroup($input: CreateGroupInput!) {
+  createGroup(input: $input) {
+    errors
+    group {
+      name
+      channels {
+        name
+      }
+    }
+  }
+}

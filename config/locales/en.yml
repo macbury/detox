@@ -1,0 +1,38 @@
+---
+en:
+  drawer:
+    FavoriteStories: 'Favorite'
+    UnreadStories: 'Unread'
+    RecentlyReadStories: Recently read
+    ListChannels: Channels
+    ListGroups: Groups
+    Settings: Settings
+    logout: 'Logout'
+  titles:
+    FavoriteStories:
+      loading: 'Loading...'
+      browse: 'Favorite'
+      story: '{{title}}'
+    RecentlyReadStories:
+      loading: 'Loading....'
+      browse: 'Recently read'
+      story: '{{title}}'
+    UnreadStories:
+      loading: 'Loading...'
+      browse: 'New stories'
+      story: '{{title}}'
+  http_not_found: Page not found...
+  not_found: 'Element not found'
+  shared:
+    menu:
+      options:
+        logout: Logout
+        settings: Settings
+  story:
+    actions:
+      read: 'Read'
+      unread: 'Unread'
+      snooze: 'Snooze'
+      original: 'Original'
+      favorite: 'Favorite'
+      comments: 'Comments'

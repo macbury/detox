@@ -1,0 +1,7 @@
+query channels {
+  channels {
+    nodes {
+      name
+    }
+  }
+}

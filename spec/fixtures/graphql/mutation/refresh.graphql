@@ -1,0 +1,9 @@
+mutation refresh($input: RefreshInput!) {
+  refresh(input: $input) {
+    channel {
+      id
+    }
+
+    errors
+  }
+}

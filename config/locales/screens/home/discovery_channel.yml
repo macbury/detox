@@ -1,0 +1,10 @@
+en:
+  screens:
+    home:
+      discovery_channel:
+        title: Discovery channels
+        confirm: 'Do you want to subscribe to this channel?'
+        header:
+          placeholder: "https://, channel name or url"
+        list:
+          empty: Damn, I could not find any channel for provided url

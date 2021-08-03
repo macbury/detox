@@ -1,0 +1,8 @@
+{
+  "name": "detox",
+  "private": true,
+  "scripts": {
+    "web": "cd app/javascript/client && yarn workspace @detox/client web",
+    "studio": "/opt/android-studio-4.1/android-studio/bin/studio.sh"
+  }
+}

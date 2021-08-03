@@ -1,0 +1,5 @@
+#!/bin/sh
+
+[ -e /detox/tmp/pids/server.pid ] && rm /detox/tmp/pids/server.pid
+
+exec bin/falcon --hybrid --port 3000 --cache --timeout 60 --bind http://0.0.0.0 --count 1

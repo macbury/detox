@@ -1,0 +1,14 @@
+en:
+  screens:
+    home:
+      new_group:
+        notifications:
+          success:
+            saved: Created new group!
+        title: Create new group
+        form:
+          search:
+            placeholder: Search channel by its name
+          name: Name
+          icon: Icon
+          subscriptions: Select channels ({{selectedCount}})

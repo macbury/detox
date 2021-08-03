@@ -1,0 +1,12 @@
+---
+en:
+  dialogs:
+    confirm:
+      cancel: Cancel
+      ok: OK
+    input:
+      cancel: Cancel
+      ok: OK
+    sessions:
+      sign_out:
+        title: Do you want to logout?

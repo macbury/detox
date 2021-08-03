@@ -1,0 +1,3 @@
+{
+  "ignore_dirs": [".expo", ".expo-shared", ".next", "node_modules", "build", ".git", "app/build/"]
+}

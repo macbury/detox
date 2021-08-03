@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 00:00:05 1`] = `
+<Text>
+  00:05
+</Text>
+`;
+
+exports[`renders 00:10:00 1`] = `
+<Text>
+  10:00
+</Text>
+`;
+
+exports[`renders 01:10:00 1`] = `
+<Text>
+  01:50:00
+</Text>
+`;

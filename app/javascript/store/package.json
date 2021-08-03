@@ -1,0 +1,86 @@
+{
+  "name": "@detox/store",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "postinstall": "expo-yarn-workspaces postinstall; rm index.js 2> /dev/null"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "babel-jest": "^24.9.0",
+    "jest": "24.9.0",
+    "jest-environment-jsdom-fourteen": "1.0.1",
+    "jest-resolve": "24.9.0",
+    "jest-styled-components": "^7.0.2",
+    "jest-watch-typeahead": "0.4.2",
+    "react-app-polyfill": "^1.0.6"
+  },
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "bind-decorator": "^1.0.11",
+    "jose": "^3.11.3",
+    "mobx": "^5.15.4",
+    "mobx-react-lite": "^2.0.7",
+    "node-opml-parser": "^1.0.0",
+    "react-native-device-info": "^8.x",
+    "rn-update-apk": "^4.5.1"
+  },
+  "peerDependencies": {
+    "typescript": "^4.x"
+  },
+  "jest": {
+    "roots": [
+      "<rootDir>/"
+    ],
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!src/**/*.d.ts"
+    ],
+    "setupFiles": [
+      "react-app-polyfill/jsdom"
+    ],
+    "setupFilesAfterEnv": [],
+    "testMatch": [
+      "<rootDir>/**/__tests__/**/*.{js,jsx,ts,tsx}",
+      "<rootDir>/**/*.{spec,test}.{js,jsx,ts,tsx}"
+    ],
+    "testEnvironment": "node",
+    "transform": {
+      "^.+\\.(js|jsx|ts|tsx)$": "<rootDir>/node_modules/babel-jest"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx|ts|tsx)$",
+      "^.+\\.module\\.(css|sass|scss)$"
+    ],
+    "modulePaths": [],
+    "moduleNameMapper": {
+      "^react-native$": "react-native-web",
+      "^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy",
+      "^src/(.*)$": "<rootDir>/src/$1",
+      "^jose/(.*)$": "<rootDir>/node_modules/jose/dist/node/cjs/$1"
+    },
+    "moduleFileExtensions": [
+      "web.js",
+      "js",
+      "web.ts",
+      "ts",
+      "web.tsx",
+      "tsx",
+      "json",
+      "web.jsx",
+      "jsx",
+      "node"
+    ],
+    "watchPlugins": [
+      "jest-watch-typeahead/filename",
+      "jest-watch-typeahead/testname"
+    ]
+  },
+  "expo-yarn-workspaces": {
+    "symlinks": [
+      "jest-environment-jsdom-fourteen",
+      "babel-jest",
+      "jose"
+    ]
+  }
+}

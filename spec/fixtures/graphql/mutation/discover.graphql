@@ -1,0 +1,10 @@
+mutation discover($input: DiscoverInput!) {
+  discover(input: $input) {
+    channels {
+      kind
+      source
+    }
+
+    errors
+  }
+}

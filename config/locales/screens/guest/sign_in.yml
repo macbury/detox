@@ -1,0 +1,11 @@
+en:
+  screens:
+    guest:
+      sign_in:
+        title: 'Sign in'
+        form:
+          instance_url: 'Instance URL'
+          username: 'Username'
+          password: 'Password'
+          button: Sign in
+          download: 'Download native app'

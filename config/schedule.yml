@@ -1,0 +1,5 @@
+schedule:
+  ScheduleForChannelsJob: '5 4 * * *'
+  RefreshAllChannelsJob: '0 * * * *'
+  RefreshPubsubSubscriptionsJob: '5 4 * * *'
+  CleanupJob: '5 3 * * *'

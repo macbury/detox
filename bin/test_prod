@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker build . -t detox:latest
+docker-compose --project-name detox_production --file docker-compose.production.yml up

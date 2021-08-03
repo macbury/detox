@@ -1,0 +1,8 @@
+query stories($unread: Boolean, $channelId: ID) {
+  stories(unread: $unread, channelId: $channelId) {
+    totalCount
+    nodes {
+      title
+    }
+  }
+}

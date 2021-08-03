@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RubyFlow</title>
+    <description>The Ruby and Rails community linklog</description>
+    <link>http://www.rubyflow.com</link>
+    <item>
+      <title>[Screencast] GitHub Actions</title>
+      <description> GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. In this episode, learn to set up GitHub Actions on your Ruby on Rails application with automated tests, code coverage reporting, and security testings. &lt;a href="https://www.driftingruby.com/episodes/github-actions?utm_medium=social&amp;amp;utm_campaign=weekly_episode&amp;amp;utm_source=rubyflow" rel="nofollow"&gt;https://www.driftingruby.com/episodes/github-actions&lt;/a&gt; </description>
+      <pubDate>Mon, 07 Sep 2020 12:19:23 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/jy3kru-screencast-github-actions</link>
+      <guid>http://www.rubyflow.com/p/jy3kru-screencast-github-actions</guid>
+    </item>
+    <item>
+      <title>HashWithIndifferentAccess in Rails</title>
+      <description> In this post for beginners, we will checkout how &lt;code&gt;ActiveSupport::HashWithIndifferentAccess&lt;/code&gt; works. </description>
+      <pubDate>Mon, 07 Sep 2020 05:43:55 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/a9vhy2-hashwithindifferentaccess-in-rails</link>
+      <guid>http://www.rubyflow.com/p/a9vhy2-hashwithindifferentaccess-in-rails</guid>
+    </item>
+    <item>
+      <title>How to Build Blog with Ruby on Rails (Part 3)</title>
+      <description> Using Bootstrap for Rails application:
+&lt;a href="https://fullstackrubyonrails.com/blog/using-bootstrap-for-blog-application" rel="nofollow"&gt;https://fullstackrubyonrails.com/blog/using-bootstrap-for-blog-application&lt;/a&gt; </description>
+      <pubDate>Mon, 07 Sep 2020 03:08:43 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/6nk092-how-to-build-blog-with-ruby-on-rails-part-3</link>
+      <guid>http://www.rubyflow.com/p/6nk092-how-to-build-blog-with-ruby-on-rails-part-3</guid>
+    </item>
+    <item>
+      <title>I just launched a free step-by-step course where I build a real production Rails App</title>
+      <description> I’ve gained so much from the Rails community, and I want to give back. That’s why I’ve created a free course where I build a real production Rails application from start to finish. You see the whole process as if we are pairing. </description>
+      <pubDate>Sun, 06 Sep 2020 19:33:21 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/9fjzz6-i-just-launched-a-free-step-by-step-course-where-i-build-a-real-production-rails</link>
+      <guid>http://www.rubyflow.com/p/9fjzz6-i-just-launched-a-free-step-by-step-course-where-i-build-a-real-production-rails</guid>
+    </item>
+    <item>
+      <title>Integrate Doorkeeper gem – API only ruby on rails course (chapter 10)</title>
+      <description> &lt;a href="https://duetcode.io/rails-api-only-course/integrate-doorkeeper-gem" rel="nofollow"&gt;https://duetcode.io/rails-api-only-course/integrate-doorkeeper-gem&lt;/a&gt; </description>
+      <pubDate>Sun, 06 Sep 2020 14:59:31 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/kl5qr3-integrate-doorkeeper-gem-api-only-ruby-on-rails-course-chapter-10</link>
+      <guid>http://www.rubyflow.com/p/kl5qr3-integrate-doorkeeper-gem-api-only-ruby-on-rails-course-chapter-10</guid>
+    </item>
+    <item>
+      <title>Command-line Arguments in Ruby: Part I</title>
+      <description> &lt;a href="https://medium.com/rubycademy/command-line-arguments-in-ruby-part-i-8a89479cb70f" rel="nofollow"&gt;https://medium.com/rubycademy/command-line-arguments-in-ruby-part-i-8a89479cb70f&lt;/a&gt; </description>
+      <pubDate>Sun, 06 Sep 2020 13:58:41 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/s81u3t-command-line-arguments-in-ruby-part-i</link>
+      <guid>http://www.rubyflow.com/p/s81u3t-command-line-arguments-in-ruby-part-i</guid>
+    </item>
+    <item>
+      <title>Using git with ruby - gitti gem - (yet) another (lite) git command line helper</title>
+      <description> Hello, I’ve updated the &lt;a href="https://github.com/rubycoco/gitti/tree/master/gitti" rel="nofollow"&gt;gitti gem that is (yet) another (lite) git command line wrapper / helper&lt;/a&gt; that lets you use / script git with ruby using the &lt;code&gt;Git&lt;/code&gt; or &lt;code&gt;GitProject&lt;/code&gt; class. Cheers. Prost. </description>
+      <pubDate>Sat, 05 Sep 2020 07:43:04 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/lnvn2m-using-git-with-ruby-gitti-gem-yet-another-lite-git-command-line-helper</link>
+      <guid>http://www.rubyflow.com/p/lnvn2m-using-git-with-ruby-gitti-gem-yet-another-lite-git-command-line-helper</guid>
+    </item>
+    <item>
+      <title>How to Build Blog with Ruby on Rails (Part 2)</title>
+      <description> Learn about Active Record and creating CRUD Post for Blog application
+&lt;a href="https://fullstackrubyonrails.com/blog/crud-post-for-blog-application" rel="nofollow"&gt;https://fullstackrubyonrails.com/blog/crud-post-for-blog-application&lt;/a&gt; </description>
+      <pubDate>Fri, 04 Sep 2020 01:53:10 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/by419e-how-to-build-blog-with-ruby-on-rails-part-2</link>
+      <guid>http://www.rubyflow.com/p/by419e-how-to-build-blog-with-ruby-on-rails-part-2</guid>
+    </item>
+    <item>
+      <title>tty-markdown v0.7 and tty-markdown-cli are out</title>
+      <description> The newest &lt;a href="https://github.com/piotrmurach/tty-markdown" rel="nofollow"&gt;tty-markdown&lt;/a&gt; comes with many new features like support for definition lists, footnotes, XML comments and popular HTML elements. It improves table and link formatting as well as squashes some pesky bugs. Ah there is also a new companion &lt;a href="https://github.com/piotrmurach/tty-markdown-cli" rel="nofollow"&gt;tty-markdown-cli&lt;/a&gt; gem that installs &lt;em&gt;tty-markdown&lt;/em&gt; executable. Enjoy! </description>
+      <pubDate>Thu, 03 Sep 2020 23:03:11 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/n8wgmg-tty-markdown-v07-is-out</link>
+      <guid>http://www.rubyflow.com/p/n8wgmg-tty-markdown-v07-is-out</guid>
+    </item>
+    <item>
+      <title>Integrate static site in rails application using Middleman</title>
+      <description> Link: &lt;a href="https://medium.com/@harishspatankar/integrate-static-site-in-rails-application-using-middleman-fb3b0091c74b" rel="nofollow"&gt;https://medium.com/@harishspatankar/integrate-static-site-in-rails-application-using-middleman-fb3b0091c74b&lt;/a&gt; </description>
+      <pubDate>Thu, 03 Sep 2020 05:27:01 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/lfpgkl-integrate-static-site-in-rails-application-using-middleman</link>
+      <guid>http://www.rubyflow.com/p/lfpgkl-integrate-static-site-in-rails-application-using-middleman</guid>
+    </item>
+    <item>
+      <title>Modern Rails flash messages with ViewComponent, Stimulus &amp; Tailwind CSS</title>
+      <description> One way how to get rid of the repetitive and annoying “Are you sure?” question when deleting records using &lt;a href="https://dev.to/citronak/modern-rails-flash-messages-part-1-viewcomponent-stimulus-tailwind-css-3alm" rel="nofollow"&gt;modern Rails flash messages&lt;/a&gt;. </description>
+      <pubDate>Wed, 02 Sep 2020 14:39:36 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/1hdher-modern-rails-flash-messages-with-viewcomponent-stimulus-tailwind-css</link>
+      <guid>http://www.rubyflow.com/p/1hdher-modern-rails-flash-messages-with-viewcomponent-stimulus-tailwind-css</guid>
+    </item>
+    <item>
+      <title>What are the Code Coverage Metrics for Ruby on Rails?</title>
+      <description> &lt;a href="https://www.fastruby.io/blog/rails/what-is-code-coverage-ruby-on-rails.html" rel="nofollow"&gt;https://www.fastruby.io/blog/rails/what-is-code-coverage-ruby-on-rails.html&lt;/a&gt; </description>
+      <pubDate>Wed, 02 Sep 2020 14:24:48 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/gizr34-what-are-the-code-coverage-metrics-for-ruby-on-rails</link>
+      <guid>http://www.rubyflow.com/p/gizr34-what-are-the-code-coverage-metrics-for-ruby-on-rails</guid>
+    </item>
+    <item>
+      <title>Ruby Next 0.10.0: Shorthand Hash notation and more</title>
+      <description> &lt;a href="https://github.com/ruby-next/ruby-next/releases/tag/v0.10.0" rel="nofollow"&gt;This release&lt;/a&gt; brings some edge Ruby (3.0) features (find pattern, leading arguments in forwarding, &lt;code&gt;Hash#except&lt;/code&gt;) and also adds support for &lt;a href="https://bugs.ruby-lang.org/issues/15236" rel="nofollow"&gt;the proposed&lt;/a&gt; short Hash notation (like in ES6). </description>
+      <pubDate>Wed, 02 Sep 2020 14:14:53 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/hsghdj-ruby-next-0100-shorthand-hash-notation-and-more</link>
+      <guid>http://www.rubyflow.com/p/hsghdj-ruby-next-0100-shorthand-hash-notation-and-more</guid>
+    </item>
+    <item>
+      <title>What is Canary Deployment?</title>
+      <description> &lt;a href="https://semaphoreci.com/blog/what-is-canary-deployment" rel="nofollow"&gt;https://semaphoreci.com/blog/what-is-canary-deployment&lt;/a&gt; </description>
+      <pubDate>Wed, 02 Sep 2020 10:16:19 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/uf831f-what-is-canary-deployment</link>
+      <guid>http://www.rubyflow.com/p/uf831f-what-is-canary-deployment</guid>
+    </item>
+    <item>
+      <title>Rails adds a minimal flag to generate a new application</title>
+      <description> &lt;a href="https://blog.saeloun.com/2020/09/02/rails-adds-scaffolding-new-app-with-minimal-flag" rel="nofollow"&gt;https://blog.saeloun.com/2020/09/02/rails-adds-scaffolding-new-app-with-minimal-flag&lt;/a&gt; </description>
+      <pubDate>Wed, 02 Sep 2020 10:12:26 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/b3bqhp-rails-adds-a-minimal-flag-to-generate-a-new-application</link>
+      <guid>http://www.rubyflow.com/p/b3bqhp-rails-adds-a-minimal-flag-to-generate-a-new-application</guid>
+    </item>
+    <item>
+      <title>Introduction to DSL by implementing Rake</title>
+      <description> We’re going to implement the very first draft of Rake — by Jim Weirich 🙏 himself
+&lt;a href="https://medium.com/rubycademy/introduction-to-dsl-by-implementing-rake-99439bdc3513" rel="nofollow"&gt;https://medium.com/rubycademy/introduction-to-dsl-by-implementing-rake-99439bdc3513&lt;/a&gt; </description>
+      <pubDate>Wed, 02 Sep 2020 10:04:10 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/orkuuk-introduction-to-dsl-by-implementing-rake</link>
+      <guid>http://www.rubyflow.com/p/orkuuk-introduction-to-dsl-by-implementing-rake</guid>
+    </item>
+    <item>
+      <title>Rails 6 adds support to persist timezones of Active Job</title>
+      <description> &lt;a href="https://blog.bigbinary.com/2020/09/01/rails-6-add-timezone-support-in-active-job.html" rel="nofollow"&gt;https://blog.bigbinary.com/2020/09/01/rails-6-add-timezone-support-in-active-job.html&lt;/a&gt; </description>
+      <pubDate>Wed, 02 Sep 2020 07:43:11 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/wfk8ga-rails-6-adds-support-to-persist-timezones-of-active-job</link>
+      <guid>http://www.rubyflow.com/p/wfk8ga-rails-6-adds-support-to-persist-timezones-of-active-job</guid>
+    </item>
+    <item>
+      <title>Data Scraping in Rails by Processing CSV</title>
+      <description> &lt;a href="https://www.railscarma.com/blog/technical-articles/data-scraping-in-rails-by-processing-csv/" rel="nofollow"&gt;https://www.railscarma.com/blog/technical-articles/data-scraping-in-rails-by-processing-csv/&lt;/a&gt; </description>
+      <pubDate>Wed, 02 Sep 2020 04:56:56 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/yx1rrm-data-scraping-in-rails-by-processing-csv</link>
+      <guid>http://www.rubyflow.com/p/yx1rrm-data-scraping-in-rails-by-processing-csv</guid>
+    </item>
+    <item>
+      <title>Mastering Low Level Caching in Rails</title>
+      <description> Sometimes when your app is slow, it’s not your fault. Your code might be optimized to the teeth, but it won’t matter if it has to perform intrinsically slow tasks, like fetching data from an external API. In these situations, Rails’ low-level caching can be a life-saver. But caching is infamously tricky. It’s dangerous to go alone. In this article, Jonathan Chase guides us through the landscape of low-level caching. He covers the basics, but more importantly, digs into essential details of cache invalidation and points out common pitfalls. &lt;a href="https://www.honeybadger.io/blog/rails-low-level-caching/" rel="nofollow"&gt;https://www.honeybadger.io/blog/rails-low-level-caching/&lt;/a&gt; </description>
+      <pubDate>Tue, 01 Sep 2020 21:48:32 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/g3xrig-mastering-low-level-caching-in-rails</link>
+      <guid>http://www.rubyflow.com/p/g3xrig-mastering-low-level-caching-in-rails</guid>
+    </item>
+    <item>
+      <title>Exploring Ruby Struct in depth</title>
+      <description> &lt;a href="https://pdabrowski.com/articles/exploring-ruby-struct-in-depth" rel="nofollow"&gt;https://pdabrowski.com/articles/exploring-ruby-struct-in-depth&lt;/a&gt; </description>
+      <pubDate>Tue, 01 Sep 2020 15:30:10 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/clgshl-exploring-ruby-struct-in-depth</link>
+      <guid>http://www.rubyflow.com/p/clgshl-exploring-ruby-struct-in-depth</guid>
+    </item>
+    <item>
+      <title>monos - monorepo / mono source tree tools and (startup) scripts</title>
+      <description> Hello, I’ve put together the new &lt;a href="https://github.com/rubycoco/monos" rel="nofollow"&gt;monos gem&lt;/a&gt; that sports some little tools that let you manage monorepos / mono source trees (for ruby gems). It’s an early stage - for now the &lt;code&gt;mono&lt;/code&gt; (or short &lt;code&gt;mo&lt;/code&gt;) command line tool lets you run git commands on multiple repo(sitories) with a single command. Cheers. Prost. </description>
+      <pubDate>Tue, 01 Sep 2020 14:10:08 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/2ytqgo-monos-monorepo-mono-source-tree-tools-and-startup-scripts</link>
+      <guid>http://www.rubyflow.com/p/2ytqgo-monos-monorepo-mono-source-tree-tools-and-startup-scripts</guid>
+    </item>
+    <item>
+      <title>Truemail 🚀 configurable framework agnostic plain Ruby 📨 email validator</title>
+      <description> Truemail 1.9.0 has been released! 🚀🚀🚀 Added host auditor json serializer. Be sure that email address 📨 valid and exists. &lt;a href="https://github.com/rubygarage/truemail" rel="nofollow"&gt;https://github.com/rubygarage/truemail&lt;/a&gt; </description>
+      <pubDate>Tue, 01 Sep 2020 09:13:42 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/zgwa08-truemail-configurable-framework-agnostic-plain-ruby-email-validator</link>
+      <guid>http://www.rubyflow.com/p/zgwa08-truemail-configurable-framework-agnostic-plain-ruby-email-validator</guid>
+    </item>
+    <item>
+      <title>Frontman - New Static Site Generator for Ruby</title>
+      <description> I just found out about this new static site generator. Thought I would share it with the community. &lt;a href="https://github.com/algolia/frontman" rel="nofollow"&gt;https://github.com/algolia/frontman&lt;/a&gt; </description>
+      <pubDate>Mon, 31 Aug 2020 23:47:25 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/jz3g28-frontman-new-static-site-generator-for-ruby</link>
+      <guid>http://www.rubyflow.com/p/jz3g28-frontman-new-static-site-generator-for-ruby</guid>
+    </item>
+    <item>
+      <title>System of a test II: Robust Rails browser testing with SitePrism</title>
+      <description> The &lt;a href="https://evilmartians.com/chronicles/system-of-a-test-2-robust-rails-browser-testing-with-siteprism" rel="nofollow"&gt;next installment&lt;/a&gt; in the Rails system testing series of posts from Evil Martians (see Part 1 &lt;a href="https://evilmartians.com/chronicles/system-of-a-test-setting-up-end-to-end-rails-testing" rel="nofollow"&gt;here&lt;/a&gt;) teaches to decouple Capybara tests from HTML markup specifics with the help of SitePrism and a Page Object Model. Code examples adapted from real-world projects. </description>
+      <pubDate>Mon, 31 Aug 2020 17:03:21 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/28xzb0-system-of-a-test-ii-robust-rails-browser-testing-with-siteprism</link>
+      <guid>http://www.rubyflow.com/p/28xzb0-system-of-a-test-ii-robust-rails-browser-testing-with-siteprism</guid>
+    </item>
+    <item>
+      <title>The great Rubykon Benchmark 2020: CRuby vs JRuby vs TruffleRuby</title>
+      <description> After a long time finally a new edition of the big &lt;a href="https://pragtob.wordpress.com/2020/08/24/the-great-rubykon-benchmark-2020-cruby-vs-jruby-vs-truffleruby/" rel="nofollow"&gt;rubykon benchmark comparing different Ruby implementations&lt;/a&gt;. </description>
+      <pubDate>Mon, 31 Aug 2020 16:51:37 +0000</pubDate>
+      <link>http://www.rubyflow.com/p/me1blk-the-great-rubykon-benchmark-2020-cruby-vs-jruby-vs-truffleruby</link>
+      <guid>http://www.rubyflow.com/p/me1blk-the-great-rubykon-benchmark-2020-cruby-vs-jruby-vs-truffleruby</guid>
+    </item>
+  </channel>
+</rss>

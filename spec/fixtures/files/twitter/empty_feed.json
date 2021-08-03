@@ -1,0 +1,20 @@
+{
+    "globalObjects": {
+        "tweets": {
+        },
+        "users": {
+        },
+        "moments": {},
+        "cards": {},
+        "places": {},
+        "media": {},
+        "broadcasts": {},
+        "topics": {},
+        "lists": {}
+    },
+    "timeline": {
+        "id": "search-6806513731430719911",
+        "instructions": [
+        ]
+    }
+}
