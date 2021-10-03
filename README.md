@@ -1,5 +1,9 @@
 # About
 
+[![Mobile Preview](doc/mobile.gif)](https://odysee.com/@macbury:3/detox-mobile-test:b)
+
+[![Desktop Preview](doc/desktop.gif)](https://odysee.com/@macbury:3/detox-desktop-testing:4)
+
 RSS/SocialMedia Reader. Supports consuming multiple sources and present them as single feed with the simples algorithm(newest stories first)
 
 # REFERENCES
